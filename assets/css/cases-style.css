@@ -9,6 +9,9 @@ hr {
     border: 1px solid var(--blue-1);
     opacity: .5;
 }
+img {
+    max-width: 100%;
+}
 
 *:not(i) {
     font-family: 'Gilroy';
