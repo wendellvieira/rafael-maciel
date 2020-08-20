@@ -71,13 +71,11 @@ hr {
 .bg-white {
     background: #fff;
 }
-<<<<<<< HEAD
 .bg-blue {
     background: #426DA9;
-=======
+}
 .bg-grid {
     background-image: url("/assets/images/general/aberturasecao_bg.png");
->>>>>>> 5b83e5a76907dddc99ce685039abaa8470cc67db
 }
 
 .text-blue-1 {
@@ -89,11 +87,6 @@ hr {
 .text-blue-9 {
     color: var(--blue-9);
 }
-<<<<<<< HEAD
-.text-white {
-    color: #fff;
-}
-=======
 .text-grey-1 {
     color: var(--grey-1);
 }
@@ -106,7 +99,6 @@ hr {
 .text-green {
     color: #315D31;
 }
->>>>>>> 5b83e5a76907dddc99ce685039abaa8470cc67db
 
 
 .gilroy-regular {
@@ -185,7 +177,7 @@ hr {
 
 
 .col-1 { width: 8.34%;}
-.col-2 { width: 16.67;}
+.col-2 { width: 16.67%;}
 .col-3 { width: 25%;}
 .col-4 { width: 33.34%;}
 .col-5 { width: 41.67%;}
@@ -207,6 +199,7 @@ hr {
 
 .table-1 {
     border-collapse: collapse;
+    width: 100%;
 }
 .table-1 thead th {
     background: var(--blue-9);
