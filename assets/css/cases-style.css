@@ -48,6 +48,9 @@ body {
 .bg-white {
     background: #fff;
 }
+.bg-blue {
+    background: #426DA9;
+}
 
 .text-grey-3 {
     color: var(--grey-3);
@@ -57,6 +60,9 @@ body {
 }
 .text-blue-9 {
     color: var(--blue-9);
+}
+.text-white {
+    color: #fff;
 }
 
 
