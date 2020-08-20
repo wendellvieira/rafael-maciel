@@ -31,6 +31,19 @@ img {
 .big-title {
     font-size: 75px;
 }
+
+.border-top-gray{
+    border-top: #e0e0e0 2px solid;
+}
+
+.border-top-green{
+    border-top: #02be6f 2px solid;
+}
+
+.border-top-yellow{
+    border-top: #f8bd00 2px solid;
+}
+
 .bordered-title {
     color: var(--blue-9);
     border: 1px solid var(--blue-1);
