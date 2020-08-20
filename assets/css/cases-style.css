@@ -71,13 +71,11 @@ hr {
 .bg-white {
     background: #fff;
 }
-<<<<<<< HEAD
 .bg-blue {
     background: #426DA9;
-=======
+}
 .bg-grid {
     background-image: url("/assets/images/general/aberturasecao_bg.png");
->>>>>>> 5b83e5a76907dddc99ce685039abaa8470cc67db
 }
 
 .text-blue-1 {
