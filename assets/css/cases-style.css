@@ -93,6 +93,9 @@ hr {
 .text-white {
     color: #fff;
 }
+.text-green {
+    color: #315D31;
+}
 
 
 .gilroy-regular {
@@ -191,6 +194,33 @@ hr {
     background-repeat: no-repeat;
 }
 
+.table-1 {
+    border-collapse: collapse;
+}
+.table-1 thead th {
+    background: var(--blue-9);
+    color: white;
+    padding: 25px;
+    text-align: left;
+}
+.table-1 thead tr th:first-child {
+    text-align: center;
+}
+.table-1 tbody td {
+    box-sizing: border-box;
+    border-top: 2px solid #DEDEDE;
+    border-left: 2px solid #DEDEDE;
+    padding: 25px;
+    vertical-align: baseline;
+}
+.table-1 tbody tr td:first-child {
+    border-left: none;
+    text-align: center;
+}
+
+.table-1 tbody tr:first-child td {
+    border-top: none;
+}
 
 .style-guide header {
     font-size: 12px;
