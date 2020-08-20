@@ -1,13 +1,15 @@
 body {
-    
     background-color: var(--grey-1);
     margin: 0;
-    padding: 1px 16px;
+    padding: 1px 0;
 }
 
 hr {
     border: 1px solid var(--blue-1);
     opacity: .5;
+}
+img {
+    max-width: 100%;
 }
 
 *:not(i) {
@@ -130,13 +132,13 @@ hr {
 }
 
 .text-left {
-    text-align: left;
+    text-align: left !important;
 }
 .text-center {
-    text-align: center;
+    text-align: center !important;
 }
 .text-right {
-    text-align: right;
+    text-align: right !important;
 }
 .text-upper {
     text-transform: uppercase;
