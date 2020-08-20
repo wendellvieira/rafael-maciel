@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-ExtraBold.eot');
+    src: url('ArgentCF-ExtraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-ExtraBoldItalic.eot');
+    src: url('ArgentCF-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-Bold.eot');
+    src: url('ArgentCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-BoldItalic.eot');
+    src: url('ArgentCF-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-DemiBold.eot');
+    src: url('ArgentCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-DemiBoldItalic.eot');
+    src: url('ArgentCF-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-Regular.eot');
+    src: url('ArgentCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF-RegularItalic';
+    src: url('ArgentCF-RegularItalic.eot');
+    src: url('ArgentCF-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-Light.eot');
+    src: url('ArgentCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-LightItalic.eot');
+    src: url('ArgentCF-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-Super.eot');
+    src: url('ArgentCF-Super.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-Thin.eot');
+    src: url('ArgentCF-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('ArgentCF-ThinItalic.eot');
+    src: url('ArgentCF-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
