@@ -116,6 +116,10 @@ img {
 }
 
 
+.gilroy-light {
+    font-family: "Gilroy";
+    font-weight: 300;
+}
 .gilroy-regular {
     font-family: "Gilroy";
     font-weight: normal;
@@ -136,6 +140,10 @@ img {
 .argent-cf-bold {
     font-family: "ArgentCF";
     font-weight: bold;
+}
+.argent-cf-light {
+    font-family: "ArgentCF";
+    font-weight: 300;
 }
 
 .argent-cf-bold-italic {
