@@ -1,0 +1,130 @@
+body, html {    
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+body {
+    background: url("/assets/images/home/bg-pattern.png");
+}
+* {
+    box-sizing: border-box;
+}
+
+
+header.home {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+header.home video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1920px;
+    z-index: 0;
+    margin-top: -535.5px;
+    margin-left: -960px;
+}
+
+header.home .content {
+    background: rgba(21, 40, 82, 0.4);
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header.home .text {
+    width: 394px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.f-28 {
+    font-size: 28px;
+}
+.f-20 {
+    font-size: 20px;
+}
+.w100 {
+    width: 100%;
+}
+.ponto {
+    background: white;
+    width: 5px;
+    height: 5px;
+    display: inline-block;
+    margin: 0px 27px 15px 21px;
+}
+.bg-blue {
+    background: #03102B;
+}
+
+.cases {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.cases a {
+    text-decoration: none;
+}
+
+.cases a article {
+    height: 460px;
+    border: 1px solid #152852;
+    position: relative;
+}
+.cases a article img {
+    width: 100%;
+}
+.cases a article header {
+    width: 100%;
+    height: 200px;
+    background: #03102b;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 33px 24px;
+    transition: all 300ms linear;
+}
+
+.cases a article header h3 {
+    font-family: "Gilroy";
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    margin: 0px;
+    height: 50px;
+    margin-bottom: 13px;
+}
+.cases a article header span {
+    font-family: 'ArgentCF';
+    font-weight: 300;
+    font-style: italic;
+    color: #90A2C9;
+    letter-spacing: 0.5px;
+
+}
+
+.cases a article:hover header {
+    background-color: #F8F9FA;
+    height: 220px;
+    padding-top: 53px;
+}
+
+.cases a article:hover header h3 { 
+    color: #152852;
+}
+.cases a article:hover header span { 
+    color: #414F60;
+}
