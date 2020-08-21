@@ -141,6 +141,10 @@ img {
     font-family: "ArgentCF";
     font-weight: bold;
 }
+.argent-cf-light {
+    font-family: "ArgentCF";
+    font-weight: 300;
+}
 
 .argent-cf-bold-italic {
     font-family: "ArgentCF";

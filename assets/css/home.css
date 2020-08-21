@@ -56,6 +56,9 @@ header.home .text {
 .f-20 {
     font-size: 20px;
 }
+.f-18 {
+    font-size: 18px;
+}
 .w100 {
     width: 100%;
 }
@@ -127,4 +130,29 @@ header.home .text {
 }
 .cases a article:hover header span { 
     color: #414F60;
+}
+
+.social {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px 0;
+}
+.social ul {
+    padding: 0px;
+    color: #B1C3D5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px 0;
+}
+
+.download {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: max-content;
+    border-bottom: 1px solid #fff;
+    padding: 7px 0;
 }
