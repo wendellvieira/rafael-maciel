@@ -10,9 +10,40 @@
         <link rel="stylesheet" href="/assets/css/Gilroy/stylesheet.css">
         <link rel="stylesheet" href="/assets/css/cases-style.css">
 
+        <link rel="stylesheet" href="/assets/css/fixed-header.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="/assets/js/fixed-header.js"></script>
+
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <header>
+
+            <div class="nav-cases">
+                <div class="cnt-cases-menu">
+                    <label class='btn-toggle btn-colored' for="check-nav-cases">
+                        <img src="/assets/images/general/cases_menu_open.png">
+                        <span class='f-12 mt-18'>Intro</span>    
+                    </label>
+                    <input type="checkbox" id='check-nav-cases' class='d-none'>
+                    <div class="cnt-menu btn-colored">
+                        <label class='btn-toggle' for="check-nav-cases">
+                            <img src="/assets/images/general/cases_menu_close.png">
+                            <span class='f-12 mt-18'>Intro</span>  
+                        </label>
+                        <nav id="cases-menu-target" class="cnt-items-nav pb-1">
+                            <!-- <a href="" class='item-menu' ></a> -->                            
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="container h-75 space-center">
+                <h1 class='small-title m-none'>RAFAEL MACIEL</h1>
+            </div>
+
+        </header>
+
 
         <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
@@ -38,6 +69,9 @@
             </div>
         </section>
 
+        <a name='meeting-the-user' class='map-cases-menu'>
+            01 - Meeting the user
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
@@ -187,6 +221,9 @@
             </div>
         </section>
 
+        <a name='principles' class='map-cases-menu'>
+            02 - Principles
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
@@ -234,6 +271,9 @@
 
         </section>
 
+        <a name='user-interface' class='map-cases-menu'>
+            03 - User Interface
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
@@ -330,6 +370,10 @@
 
         </section>
 
+
+        <a name='final-words' class='map-cases-menu'>
+            04 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2 mx-none">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
@@ -345,7 +389,6 @@
                 </div>
             </div>
         </section>
-
 
 
     </body>
