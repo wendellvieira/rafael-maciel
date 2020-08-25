@@ -14,89 +14,7 @@
     </head>
     <body>
 
-        <aside class='main-menu' >
-            <label class='btn-open-menu' for="open_menu">
-                <img src="assets/images/general/menu_open.png">
-            </label>
-            <input type="checkbox" id="open_menu" style="display: none;">
-
-            <nav class="cnt-items">
-                <label class='btn-open-menu' for="open_menu">
-                    <img src="assets/images/general/menu_close.png">
-                </label>
-
-                <div class='cnt-items-menu pt-2 px-2'>
-                    <a class='text-white' href="/">Home</a>
-                    <ul class='text-blue-1 pl-none pb-1'>LATEST WORK</ul>
-
-                    <a href="pages/">
-                        <ul class='text-white f-22 pl-none' >Nespresso</ul>
-                    </a>
-
-                    <a href="pages/">
-                        <ul class='text-white f-22 pl-none' >Wikipedia</ul>
-                    </a>
-                    <a href="pages/">
-                        <ul class='text-white f-22 pl-none' >Pig</ul>
-                    </a>
-                    <a href="pages/school-car.html">
-                        <ul class='text-white f-22 pl-none' >SchoolCar</ul>
-                    </a>
-                    <a href="pages/xports.html">
-                        <ul class='text-white f-22 pl-none' >XPorts</ul>
-                    </a>
-
-                    <a href="pages/rick-riordan.html">
-                        <ul class='text-white f-22 pl-none' >Rick Riordan</ul>
-                    </a>
-                    <a href="pages/luxury-cars.html">
-                        <ul class='text-white f-22 pl-none' >Luxury Cars</ul>
-                    </a>
-                    <a href="pages/alexandre-bispo.html">
-                        <ul class='text-white f-22 pl-none' >Alexandre Bispo</ul>
-                    </a>
-                    <a href="pages/Learn-INK.html">
-                        <ul class='text-white f-22 pl-none' >Learn INK</ul>
-                    </a>
-
-                    <a href="pages/university-of-virginia.html">
-                        <ul class='text-white f-22 pl-none' >University of Virginia Library</ul>
-                    </a>
-                    <a href="pages/jamiq.html">
-                        <ul class='text-white f-22 pl-none' >JamiQ Dashboard</ul>
-                    </a>
-                    <a href="pages/guia-ir.html">
-                        <ul class='text-white f-22 pl-none' >Guia IR</ul>
-                    </a>
-                    <a href="pages/plantao-de-vendas.html">
-                        <ul class='text-white f-22 pl-none' >Plantão de Vendas</ul>
-                    </a>
-                    
-                   <ul class="container row align-center space-between pl-none pt-2 pb-1">
-                        <a href="" class="text-white" >About</a>
-
-                        <a href="">
-                            <img src="assets/images/general/men_dribble.png" >
-                        </a>
-                        <a href="">
-                            <img src="assets/images/general/men_instagram.png" >
-                        </a>
-                        <a href="">
-                            <img src="assets/images/general/men_medium.png" >
-                        </a>
-                        <a href="">
-                            <img src="assets/images/general/men_linkedin.png" >
-                        </a>
-                        <a href="">
-                            <img src="assets/images/general/men_email.png" >
-                        </a>
-
-                   </ul>
-
-                </div>
-            </nav>
-        </aside>
-
+        <?php require_once __DIR__ . "/fragments/menu.php"; ?>
 
         <header class='home'>
             <video autoplay muted loop>
@@ -126,7 +44,7 @@
 
         <section class='mx-1 my-2 bg-blue'>
             <main class='cases'>
-                <a href="pages/">
+                <a href="pages/nespresso.php">
                     <article>
                         <img src="assets/images/home/tb_nespresso.png" alt="">
                         <header>
@@ -135,7 +53,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/">
+                <a href="pages/wikipedia.php">
                     <article>
                         <img src="assets/images/home/tb_wikipedia.png" alt="">
                         <header>
@@ -144,7 +62,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/">
+                <a href="pages/pig.php">
                     <article>
                         <img src="assets/images/home/tb_pig.png" alt="">
                         <header>
@@ -153,7 +71,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/school-car.html">
+                <a href="pages/school-car.php">
                     <article>
                         <img src="assets/images/home/tb_schoolcar.png" alt="">
                         <header>
@@ -164,7 +82,7 @@
                 </a>
 
 
-                <a href="pages/xports.html">
+                <a href="pages/xports.php">
                     <article>
                         <img src="assets/images/home/tb_xports.png" alt="">
                         <header>
@@ -173,7 +91,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/rick-riordan.html">
+                <a href="pages/rick-riordan.php">
                     <article>
                         <img src="assets/images/home/tb_rickriordan.png" alt="">
                         <header>
@@ -182,7 +100,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/luxury-cars.html">
+                <a href="pages/luxury-cars.php">
                     <article>
                         <img src="assets/images/home/tb_luxurycars.png" alt="">
                         <header>
@@ -191,7 +109,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/alexandre-bispo.html">
+                <a href="pages/alexandre-bispo.php">
                     <article>
                         <img src="assets/images/home/tb_alexandrebispo.png" alt="">
                         <header>
@@ -202,7 +120,7 @@
                 </a>
 
 
-                <a href="pages/learn-ink.html">
+                <a href="pages/learn-ink.php">
                     <article>
                         <img src="assets/images/home/tb_learnink.png" alt="">
                         <header>
@@ -211,7 +129,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/university-of-virginia.html">
+                <a href="pages/university-of-virginia.php">
                     <article>
                         <img src="assets/images/home/tb_universityofvirginialibrary.png" alt="">
                         <header>
@@ -220,7 +138,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/jamiq.html">
+                <a href="pages/jamiq.php">
                     <article>
                         <img src="assets/images/home/tb_jamiq.png" alt="">
                         <header>
@@ -229,7 +147,7 @@
                         </header>
                     </article>
                 </a>
-                <a href="pages/guia-ir.html">
+                <a href="pages/guia-ir.php">
                     <article>
                         <img src="assets/images/home/tb_guiair.png" alt="">
                         <header>
@@ -239,7 +157,7 @@
                     </article>
                 </a>
 
-                <a href="pages/plantao-de-vendas.html">
+                <a href="pages/plantao-de-vendas.php">
                     <article>
                         <img src="assets/images/home/tb_plantaodevendas.png" alt="">
                         <header>
