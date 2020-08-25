@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 Nespresso website redesign.             
             </div>
-            <img src="assets/images/nespresso/nespresso_hero.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/nespresso/nespresso_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -57,7 +57,7 @@
         <section class='space-evenly container row bg-blue-9'>
             <div class="container col-3 py-4 row">
                 <div class="mr-1">
-                    <img src="..assets/images/nespresso/nespresso_icon_client.png" alt="">
+                    <img src="..../assets/images/nespresso/nespresso_icon_client.png" alt="">
                 </div>
                 <div>
                     <h4 class="text-white">CLIENT</h4>
@@ -71,7 +71,7 @@
             </div>
             <div class="container col-3 row">
                 <div class="mr-1">
-                    <img src="..assets/images/nespresso/nespresso_icon_company.png" alt="">
+                    <img src="..../assets/images/nespresso/nespresso_icon_company.png" alt="">
                 </div>
                 <div>
                     <h4 class="text-white">NESPRESSO</h4>
@@ -86,7 +86,7 @@
         </section>
         <section class="container">
             <div class="container row align-end">
-            <img src="..assets/images/nespresso/Grupo 678.png" alt="">
+            <img src="..../assets/images/nespresso/Grupo 678.png" alt="">
             <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
             </div>
             
@@ -126,11 +126,11 @@
                     action feedback, clickable button and link aspect,
                     breadcrumbs, layout consistency, and so on.
                 </p>
-                <img src="..assets/images/nespresso/nespresso_heuristic_button.png" alt="">
+                <img src="..../assets/images/nespresso/nespresso_heuristic_button.png" alt="">
                 
             </div>
             <div class="col-6 row align-center mt-4 ml-2">
-                <img src="assets/images/nespresso/Grupo 895.png" >
+                <img src="../assets/images/nespresso/Grupo 895.png" >
             </div>
         </section>
         <section class='container bg-blue-9'>
@@ -297,7 +297,7 @@
                             Is concerned about sustainability.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -299px;" src="assets/images/nespresso/nespresso_persona1.png">
+                            <img class='img-top' style="margin-top: -299px;" src="../assets/images/nespresso/nespresso_persona1.png">
                             Want to be rewarded for buying capsules frequently.
                         </div>
                     </div>
@@ -433,7 +433,7 @@
                             Want the best value for money.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -270px;" src="assets/images/nespresso/nespresso_persona2.png">
+                            <img class='img-top' style="margin-top: -270px;" src="../assets/images/nespresso/nespresso_persona2.png">
                             Some information to make the perfect choice.
                         </div>
                     </div>
@@ -572,7 +572,7 @@
         </section>
         <div class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>IA – OLD SITE MAP</h4>
-            <img src="assets/images/nespresso/nespresso_sitemap_old.png">
+            <img src="../assets/images/nespresso/nespresso_sitemap_old.png">
         </div>
         <div class="container space-evenly align-start row pt-3 pb-4">
             <div class="col-2">
@@ -596,7 +596,7 @@
         </div>
         <div class="container pt-3 pb-3">
             <h4 class='bordered-title mb-3'>IA - NEW SITE MAP</h4>
-            <img src="assets/images/nespresso/nespresso_sitemap_new.png">
+            <img src="../assets/images/nespresso/nespresso_sitemap_new.png">
         </div>
         <div class="container space-evenly align-start row pb-4">
             <div class="col-2">
@@ -616,7 +616,7 @@
                 <h4 class='bordered-title mb-3'>IA – WIREFRAME</h4>
                 <div class="container row space-evenly mt-3">  
                     <div class="col-7">
-                        <img src="assets/images/nespresso/nespresso_wireframe1.png" >
+                        <img src="../assets/images/nespresso/nespresso_wireframe1.png" >
                     </div>
                     <div class="col-4">
                         <h3 class="normal-title">Homepage</h3>
@@ -657,7 +657,7 @@
         <section>
             <div class="container row space-evenly mt-3">  
                 <div class="col-7">
-                    <img src="assets/images/nespresso/nespresso_wireframe2.png" >
+                    <img src="../assets/images/nespresso/nespresso_wireframe2.png" >
                 </div>
                 <div class="col-4">
                     <h3 class="normal-title">Coffee Selection</h3>
@@ -681,7 +681,7 @@
         <section>
             <div class="container row space-evenly mt-3">  
                 <div class="col-7">
-                    <img src="assets/images/nespresso/nespresso_wireframe3.png" >
+                    <img src="../assets/images/nespresso/nespresso_wireframe3.png" >
                 </div>
                 <div class="col-4">
                     <h3 class="normal-title">Checkout</h3>
@@ -696,7 +696,7 @@
         <section>
             <div class="container row space-evenly mt-3">  
                 <div class="col-7">
-                    <img src="assets/images/nespresso/nespresso_wireframe4.png" >
+                    <img src="../assets/images/nespresso/nespresso_wireframe4.png" >
                 </div>
                 <div class="col-4">
                     <h4>2. Only necessary data is requested</h4>
@@ -711,7 +711,7 @@
         <section class="mb-4">
             <div class="container row space-evenly mt-3">  
                 <div class="col-7">
-                    <img src="assets/images/nespresso/nespresso_wireframe5.png" >
+                    <img src="../assets/images/nespresso/nespresso_wireframe5.png" >
                 </div>
                 <div class="col-4">
                     <h3 class="normal-title">User dashboard</h3>
@@ -762,7 +762,7 @@
             <h4 class='bordered-title'>DESIGN PRINCIPLES - BRANDING</h4>
         </section>
         <section class="container pb-4">
-             <img src="assets/images/nespresso/nespresso_designprinciples.png">
+             <img src="../assets/images/nespresso/nespresso_designprinciples.png">
              <p class="small-title">Nespresso Brand Essence: https://www.nestle-nespresso.com/brand/brand-essence</p>
         </section>
         <section class="container bg-grid pt-1 pb-4 mt-2">
@@ -782,8 +782,8 @@
                 Home
             </div>
             <div class="row container align-end">
-                <img src="assets/images/nespresso/nespresso_ui1.png">
-                <img src="assets/images/nespresso/nespresso_ui2.png">
+                <img src="../assets/images/nespresso/nespresso_ui1.png">
+                <img src="../assets/images/nespresso/nespresso_ui2.png">
             </div>
         </section>
         <section class="container pb-4">
@@ -791,7 +791,7 @@
                 Coffee
             </div>
             <div class="container align-end">
-                <img src="assets/images/nespresso/nespresso_ui3.png">
+                <img src="../assets/images/nespresso/nespresso_ui3.png">
             </div>
         </section>
         <section class="container pb-4">
@@ -799,8 +799,8 @@
                 Buying Coffee
             </div>
             <div class="row container align-center">
-                <img src="assets/images/nespresso/nespresso_ui4.png">
-                <img src="assets/images/nespresso/Grupo 640.png">
+                <img src="../assets/images/nespresso/nespresso_ui4.png">
+                <img src="../assets/images/nespresso/Grupo 640.png">
             </div>
         </section>
         <section class="container pb-4">
@@ -808,12 +808,12 @@
                 Checkout
             </div>
             <div class="container align-end">
-                <img src="assets/images/nespresso/Grupo 643.png">
+                <img src="../assets/images/nespresso/Grupo 643.png">
             </div>
         </section>
         <section class="container pb-4">
             <div class="container align-end">
-                <img src="assets/images/nespresso/Grupo 644.png">
+                <img src="../assets/images/nespresso/Grupo 644.png">
             </div>
         </section>
         <section class="container pb-4">
@@ -821,12 +821,12 @@
                 User dashboard
             </div>
             <div class="container align-end">
-                <img src="assets/images/nespresso/nespresso_ui11.png">
+                <img src="../assets/images/nespresso/nespresso_ui11.png">
             </div>
         </section>
         <section class="container pb-4">
             <div class="container align-end">
-                <img src="assets/images/nespresso/nespresso_ui_mobile_proto_button.png">
+                <img src="../assets/images/nespresso/nespresso_ui_mobile_proto_button.png">
             </div>
             <div class="container small-title text-white mt-1">
                 https://marvelapp.com/5632ai6
@@ -842,7 +842,7 @@
             Home
         </div>
         <div class="container align-end">
-            <img src="assets/images/nespresso/nespresso_ui12.png">
+            <img src="../assets/images/nespresso/nespresso_ui12.png">
         </div>
     </section>
     <section class="container pb-4">
@@ -850,13 +850,13 @@
             Coffee
         </div>
         <div class="row container align-center">
-            <img src="assets/images/nespresso/nespresso_ui13.png">
-            <img src="assets/images/nespresso/nespresso_ui14.png">
+            <img src="../assets/images/nespresso/nespresso_ui13.png">
+            <img src="../assets/images/nespresso/nespresso_ui14.png">
         </div>
     </section>
     <section class="container pb-4">
         <div class="container align-end">
-            <img src="assets/images/nespresso/nespresso_ui_tablet_proto_button.png">
+            <img src="../assets/images/nespresso/nespresso_ui_tablet_proto_button.png">
         </div>
         <div class="container small-title text-white mt-1">
             https://marvelapp.com/64cd553
@@ -872,7 +872,7 @@
                 Home
             </div>
             <div class="container align-end">
-                <img src="assets/images/nespresso/nespresso_ui15.png">
+                <img src="../assets/images/nespresso/nespresso_ui15.png">
             </div>
         </section>
         <section class="container pb-4">
@@ -880,12 +880,12 @@
                 Coffee
             </div>
             <div class="row container align-center">
-                <img src="assets/images/nespresso/nespresso_ui16.png">
+                <img src="../assets/images/nespresso/nespresso_ui16.png">
             </div>
         </section>
         <section class="container pb-4">
             <div class="container align-end">
-                <img src="assets/images/nespresso/nespresso_ui_desktop_proto_button.png">
+                <img src="../assets/images/nespresso/nespresso_ui_desktop_proto_button.png">
             </div>
             <div class="container small-title text-white mt-1">
                 https://marvelapp.com/96j0448
@@ -901,7 +901,7 @@
                     Atoms
                 </div>
                 <div class="container align-end">
-                    <img src="assets/images/nespresso/nespresso_sg_atomos.png">
+                    <img src="../assets/images/nespresso/nespresso_sg_atomos.png">
                 </div>
             </section>
             <section class="container pb-4">
@@ -909,7 +909,7 @@
                     Molecules
                 </div>
                 <div class="row container align-center">
-                    <img src="assets/images/nespresso/nespresso_sg_moleculas.png">
+                    <img src="../assets/images/nespresso/nespresso_sg_moleculas.png">
                 </div>
             </section>
             <section class="container pb-4">
@@ -917,18 +917,18 @@
                     Organisms
                 </div>
                 <div class="row container align-center">
-                    <img src="assets/images/nespresso/nespresso_sg_organismos.png">
+                    <img src="../assets/images/nespresso/nespresso_sg_organismos.png">
                 </div>
             </section>
             <section class="container pb-4">
                 <div class="row container align-center">
-                    <img src="assets/images/nespresso/nespresso_sg_organismos2.png">
+                    <img src="../assets/images/nespresso/nespresso_sg_organismos2.png">
                 </div>
             </section>
         </section>
         <section style="background-color: #1A1A1A;" class="container row space-evenly align-center mt-3">
             <div class="col-6 row align-center mt-4 mb-2 ml-2">
-                <img src="assets/images/nespresso/nespresso_usertesting_img1.png" >
+                <img src="../assets/images/nespresso/nespresso_usertesting_img1.png" >
             </div>
             <div class="col-6 align-start ml-1 mb-2 pt-2">
                 <h3 class='gilroy-bold text-white'>

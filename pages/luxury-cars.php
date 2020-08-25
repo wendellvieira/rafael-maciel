@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 Luxury cars is an online service that offers the best cars for renting.             
             </div>
-            <img src="assets/images/luxury-cars/luxurycars_hero.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/luxury-cars/luxurycars_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -91,7 +91,7 @@
                             I must be protected for car collision, robbery or other extra costs.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -347px;" src="assets/images/luxury-cars/Grupo 3.png">
+                            <img class='img-top' style="margin-top: -347px;" src="../assets/images/luxury-cars/Grupo 3.png">
                             I could receive the car at the place and time that I want.
                         </div>
 
@@ -113,7 +113,7 @@
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
             <div class="container width-1080">
-                <img class="align-end"  style="margin-bottom: -140px" src="..assets/images/luxury-cars/Grupo 887.png" alt="">
+                <img class="align-end"  style="margin-bottom: -140px" src="..../assets/images/luxury-cars/Grupo 887.png" alt="">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -269,7 +269,7 @@
             <h4 class='bordered-title'>KPIS</h4>
 
             <div class="container row align-end">
-            <img src="..assets/images/luxury-cars/Grupo 678.png" alt="">
+            <img src="..../assets/images/luxury-cars/Grupo 678.png" alt="">
             <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
             </div>
             
@@ -293,14 +293,14 @@
             <div class="line-art"></div>
         </section>
         <section class="container pt-3 pb-4">
-            <img src="assets/images/luxury-cars/luxurycars_sitemap1.png">
+            <img src="../assets/images/luxury-cars/luxurycars_sitemap1.png">
         </section>
         <section class="container pt-3 pb-4">
             <div class="container bg-white pt-2 pb-4">
     
                 <div class="container row space-evenly align-start mt-3">
                     <div class="col-4">
-                        <img src="assets/images/luxury-cars/luxurycars_sitemap2.png" >
+                        <img src="../assets/images/luxury-cars/luxurycars_sitemap2.png" >
                     </div>
                     <div class="col-3 ml-1 pt-2">
                         <p class='mt-none'>
@@ -327,26 +327,26 @@
         </section>
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>HOME</h4>
-            <img src="assets/images/luxury-cars/luxurycars_ui1.png">
+            <img src="../assets/images/luxury-cars/luxurycars_ui1.png">
         </section>
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CAR SELECTION</h4>
-            <img src="assets/images/luxury-cars/luxurycars_ui2.png">
+            <img src="../assets/images/luxury-cars/luxurycars_ui2.png">
         </section>
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CAR PAGE</h4>
-            <img src="assets/images/luxury-cars/luxurycars_ui3.png">
+            <img src="../assets/images/luxury-cars/luxurycars_ui3.png">
         </section>
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CHEKOUT</h4>
-            <img src="assets/images/luxury-cars/luxurycars_ui4_01.png">
+            <img src="../assets/images/luxury-cars/luxurycars_ui4_01.png">
         </section>
         <section class="container pt-3 pb-4">
             <div class="container bg-white pt-2 pb-4">
                 <h4 class='bordered-title mb-3'>IA AND STRATEGY</h4>
                 <div class="container row space-evenly align-start mt-3">
                     <div class="col-4">
-                        <img src="assets/images/luxury-cars/luxurycars_ui5.png" >
+                        <img src="../assets/images/luxury-cars/luxurycars_ui5.png" >
                     </div>
                     <div class="col-3">
                         <p>
@@ -377,7 +377,7 @@
                 </div>
                 <div class="container row space-evenly align-start mt-3">
                     <div class="col-4">
-                        <img src="assets/images/luxury-cars/luxurycars_ui6.png" >
+                        <img src="../assets/images/luxury-cars/luxurycars_ui6.png" >
                     </div>
                     <div class="col-3">
                         <p>
@@ -405,7 +405,7 @@
                 </div>
                 <div class="container row space-evenly align-start mt-3">
                     <div class="col-4">
-                        <img src="assets/images/luxury-cars/luxurycars_ui7.png" >
+                        <img src="../assets/images/luxury-cars/luxurycars_ui7.png" >
                     </div>
                     <div class="col-3">
                         <p>
@@ -431,16 +431,16 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">interface color palette</span>
-                            <img src="assets/images/luxury-cars/luxurycars_sg_colors.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_colors.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">TYPOGRAPHY</span>
-                            <img src="assets/images/luxury-cars/luxurycars_sg_font.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_font.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">OTHER</span>
-                            <img src="assets/images/luxury-cars/luxurycars_sg_car.png">
-                            <img class="mt-1" src="assets/images/luxury-cars/luxurycars_sg_luxuryclubbrand.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_car.png">
+                            <img class="mt-1" src="../assets/images/luxury-cars/luxurycars_sg_luxuryclubbrand.png">
                         </ul>
                         
                     </nav>
@@ -451,25 +451,25 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Form Items</span>
-                            <img src="assets/images/luxury-cars/luxurycars_sg_date1.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_date1.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/luxury-cars/luxurycars_sg_date2.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_date2.png">
 
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/luxury-cars/luxurycars_sg_selection.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_selection.png">
 
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Navigation Items</span>
-                            <img src="assets/images/luxury-cars/Grupo 881.png">
+                            <img src="../assets/images/luxury-cars/Grupo 881.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/luxury-cars/luxurycars_sg_searchbar.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_searchbar.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/luxury-cars/luxurycars_sg_pagination.png">
+                            <img src="../assets/images/luxury-cars/luxurycars_sg_pagination.png">
                         </ul>
                     </nav>
                 </div>
@@ -478,7 +478,7 @@
                         <header class='gilroy-bold text-white'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/luxury-cars/Grupo 880.png">
+                            <img src="../assets/images/luxury-cars/Grupo 880.png">
                         </ul>
                         
 

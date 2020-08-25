@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 Wikipedia's website redesign and smartwatch app.             
             </div>
-            <img src="assets/images/wikipedia/wiki_hero.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/wikipedia/wiki_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -129,7 +129,7 @@
                 
             </div>
             <div class="col-5 row align-center mt-4 ml-2">
-                <img src="assets/images/wikipedia/wiki_googlebrand.png" >
+                <img src="../assets/images/wikipedia/wiki_googlebrand.png" >
             </div>
         </section>
         <section class="container row space-evenly align-center mt-3">
@@ -144,7 +144,7 @@
                     college or work. </p>
             </div>
             <div class="col-6 row align-center mt-4 ml-2">
-                <img src="assets/images/wikipedia/wiki_studyillistration.png" >
+                <img src="../assets/images/wikipedia/wiki_studyillistration.png" >
             </div>
         </section>
         <section class="container bg-grid pt-1 pb-4 mt-2">
@@ -209,7 +209,7 @@
                             I want an app to help me in most everything in my life.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -275px;" src="assets/images/wikipedia/wiki_persona1.png">
+                            <img class='img-top' style="margin-top: -275px;" src="../assets/images/wikipedia/wiki_persona1.png">
                             I want to put technology to work for me.
                         </div>
                     </div>
@@ -337,7 +337,7 @@
                             I want to know more about the content source.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -299px;" src="assets/images/wikipedia/wiki_persona2.png">
+                            <img class='img-top' style="margin-top: -299px;" src="../assets/images/wikipedia/wiki_persona2.png">
                             I care about knowing the author of the text.
                         </div>
                     </div>
@@ -426,11 +426,11 @@
             <h4 class='bordered-title'>STAKEHOLDER MAP</h4>
         </section>
         <section class="container pb-4">
-             <img src="assets/images/wikipedia/wiki_stakeholdermap.png">
+             <img src="../assets/images/wikipedia/wiki_stakeholdermap.png">
         </section>
         <section class="container pt-3 pb-4 mt-4">
             <div class="container row align-end">
-            <img src="..assets/images/xports/Grupo 678.png" alt="">
+            <img src="..../assets/images/xports/Grupo 678.png" alt="">
             <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
             </div>
             
@@ -455,7 +455,7 @@
         </section>
         <div class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>IA – SITE MAP</h4>
-            <img src="assets/images/wikipedia/wiki_sitemap.png">
+            <img src="../assets/images/wikipedia/wiki_sitemap.png">
         </div>
         <section class="container pt-3 pb-4">
             <div class="container bg-white pt-2 pb-4">
@@ -481,7 +481,7 @@
     
                     </div>
                     <div class="col-7">
-                        <img src="assets/images/wikipedia/wiki_wireframe1.png" >
+                        <img src="../assets/images/wikipedia/wiki_wireframe1.png" >
                     </div>
     
                 </div>
@@ -489,7 +489,7 @@
         </section>
         <section class="container pb-4">
             <h2>Smart Search Engine</h2>
-            <img src="assets/images/wikipedia/wiki_smartsearch_ilus.png">
+            <img src="../assets/images/wikipedia/wiki_smartsearch_ilus.png">
        </section>
        <section class="container pt-3 pb-4">
         <div class="container bg-white pt-2 pb-4">
@@ -513,7 +513,7 @@
 
                 </div>
                 <div class="col-7">
-                    <img src="assets/images/wikipedia/wiki_wireframe2.png" >
+                    <img src="../assets/images/wikipedia/wiki_wireframe2.png" >
                 </div>
 
             </div>
@@ -547,7 +547,7 @@
 
                 </div>
                 <div class="col-6">
-                    <img src="assets/images/wikipedia/wiki_wireframe3.png" >
+                    <img src="../assets/images/wikipedia/wiki_wireframe3.png" >
                 </div>
 
             </div>
@@ -567,7 +567,7 @@
 
                 </div>
                 <div class="col-7">
-                    <img src="assets/images/wikipedia/wiki_wireframe4.png" >
+                    <img src="../assets/images/wikipedia/wiki_wireframe4.png" >
                 </div>
 
             </div>
@@ -584,24 +584,24 @@
     <section class="container pt-2 pb-4 mt-2">
         <h4 class="bordered-title mt-4">HOME</h4>
         <div class="container py-3">
-            <img src="assets/images/wikipedia/wiki_ui1.png">
+            <img src="../assets/images/wikipedia/wiki_ui1.png">
         </div>
         <h4 class="bordered-title">HOME - SEARCH</h4>
         <div class="container pb-3">
-            <img src="assets/images/wikipedia/wiki_ui2.png">
+            <img src="../assets/images/wikipedia/wiki_ui2.png">
         </div>
         <h4 class="bordered-title mt-4">ARTICLE</h4>
         <div class="container pb-3">
             <h5 class="text-center">Video and image share</h5>
-            <img src="assets/images/wikipedia/wiki_ui3.png">
+            <img src="../assets/images/wikipedia/wiki_ui3.png">
         </div>
         <h4 class="bordered-title mt-4">LEARNING PATH</h4>
         <div class="container mt-4">
-            <img src="assets/images/wikipedia/wiki_ui4.png">
+            <img src="../assets/images/wikipedia/wiki_ui4.png">
         </div>
         <h4 class="bordered-title mt-4">USER DASHBOARD</h4>
         <div class="container mt-4">
-            <img src="assets/images/wikipedia/wiki_ui5.png">
+            <img src="../assets/images/wikipedia/wiki_ui5.png">
         </div>
     </section>
     <section class="container bg-white pb-4">
@@ -640,12 +640,12 @@
         <div class="container row space-center text-center mt-4 align-start">
             <div>
                 <p>Home</p>
-                <img src="..assets/images/wikipedia/wiki_ui6.png" alt="">
+                <img src="..../assets/images/wikipedia/wiki_ui6.png" alt="">
                 <p class="small-title">Just appears for a few seconds.</p>
             </div>
             <div>
                 <p>Asking Wikipedia</p>
-                <img src="..assets/images/wikipedia/wiki_ui7.png" alt="">
+                <img src="..../assets/images/wikipedia/wiki_ui7.png" alt="">
                 <p class="small-title text-left ml-2">The sentence “Please say the name of” <br>
                     induces the user to say the subject directly <br>
                     and not something like: “I’d like to learn <br>
@@ -657,7 +657,7 @@
         <div class="container row space-center text-center mt-4 align-start">
             <div>
                 <p>Result</p>
-                <img src="..assets/images/wikipedia/wiki_ui8.png" alt="">
+                <img src="..../assets/images/wikipedia/wiki_ui8.png" alt="">
                 <p class="small-title text-left">
                     Considering that most users are looking for <br>
                     quick information, the menu prioritizes <br>
@@ -665,7 +665,7 @@
             </div>
             <div>
                 <p>More options menu</p>
-                <img src="..assets/images/wikipedia/wiki_ui9.png" alt="">
+                <img src="..../assets/images/wikipedia/wiki_ui9.png" alt="">
                 <p class="small-title text-left ml-2">
                     The content of Wikipedia articles is already <br>
                     organized by topic, that enables the <br>
@@ -675,7 +675,7 @@
             </div>
             <div>
                 <p>Summary</p>
-                <img src="..assets/images/wikipedia/wiki_ui10.png" alt="">
+                <img src="..../assets/images/wikipedia/wiki_ui10.png" alt="">
                 <p class="small-title text-left ml-2">
                     The Wikipedia announcer starts reading, but <br>
                     first he warns that the user can say “Stop”, <br>
@@ -697,21 +697,21 @@
                     
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">interface color palette</span>
-                        <img src="assets/images/wikipedia/wiki_sg_colors.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_colors.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">TYPOGRAPHY</span>
-                        <img src="assets/images/wikipedia/wiki_sg_type1.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_type1.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
-                        <img src="assets/images/wikipedia/wiki_sg_type2.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_type2.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
-                        <img src="assets/images/wikipedia/wiki_sg_type3.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_type3.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">BACKGROUND IMAGES</span>
-                        <img src="assets/images/wikipedia/wiki_sg_bgimg.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_bgimg.png">
                     </ul>
                     
                 </nav>
@@ -722,19 +722,19 @@
                     
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">Search Result</span>
-                        <img src="assets/images/wikipedia/wiki_sg_searchresult.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_searchresult.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">Logo icon</span>
-                        <img src="assets/images/wikipedia/wiki_sg_logoicon.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_logoicon.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">Editor Profile Picture</span>
-                        <img src="assets/images/wikipedia/wiki_sg_profilepic.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_profilepic.png">
                     </ul>
                     <ul class='gilroy-medium pl-none mt-1'> 
                         <span class="text-white">Related Content Card</span>
-                        <img src="assets/images/wikipedia/wiki_sg_relatedcard.png">
+                        <img src="../assets/images/wikipedia/wiki_sg_relatedcard.png">
                     </ul>
                 </nav>
             </div>
@@ -743,7 +743,7 @@
                     <header class='gilroy-bold text-white'>ICONS</header>
                     
                     <ul class='gilroy-medium pl-none mt-1'> 
-                        <img src="assets/images/wikipedia/Grupo 895.png">
+                        <img src="../assets/images/wikipedia/Grupo 895.png">
                     </ul> 
                 </nav> 
             </div>

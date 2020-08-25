@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2">
                 Rick Riordan is a best seller author, known for writing the Percy Jackson series.
             </div>
-            <img src="assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start pt-3">
@@ -43,7 +43,7 @@
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class='gilroy-regular text-blue-9 normal-title my-2 container row'>
-                <img src="assets/images/icons/measure.png">
+                <img src="../assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
@@ -106,7 +106,7 @@
                             I think most websites are boring.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -269px;" src="assets/images/rick-riordan/valentina_persona.png">
+                            <img class='img-top' style="margin-top: -269px;" src="../assets/images/rick-riordan/valentina_persona.png">
                             I love Youtube
                         </div>
 
@@ -132,7 +132,7 @@
 
                 </div>
                 <div class="col-6 pt-2">
-                    <img src="assets/images/rick-riordan/rickriordan_map.png" alt="">
+                    <img src="../assets/images/rick-riordan/rickriordan_map.png" alt="">
                     <div class="col-12 text-center">
                         <span class="small-title">Full website map</span>
                     </div>
@@ -152,33 +152,33 @@
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">HOME</h4>
             <div class="container py-3">
-                <img src="assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png">
+                <img src="../assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png">
             </div>
 
             <div class="container pb-3">
-                <img src="assets/images/rick-riordan/site_rick_riordan_home1_cronicasdoskane.png">
+                <img src="../assets/images/rick-riordan/site_rick_riordan_home1_cronicasdoskane.png">
             </div>
 
             <div class="container pb-3">
-                <img src="assets/images/rick-riordan/site_rick_riordan_home1_heroisdoolimpo.png">
+                <img src="../assets/images/rick-riordan/site_rick_riordan_home1_heroisdoolimpo.png">
             </div>
 
             <div class="container">
-                <img src="assets/images/rick-riordan/site_rick_riordan_home1_extras.png">
+                <img src="../assets/images/rick-riordan/site_rick_riordan_home1_extras.png">
             </div>
         </section>
 
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">SERIES PAGE</h4>
             <div class="container py-3">
-                <img src="assets/images/rick-riordan/Series-page.png">
+                <img src="../assets/images/rick-riordan/Series-page.png">
             </div>
         </section>
         
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">AUTHOR</h4>
             <div class="container py-3">
-                <img src="assets/images/rick-riordan/rickriordan_ui6.png">
+                <img src="../assets/images/rick-riordan/rickriordan_ui6.png">
             </div>
         </section>
 
@@ -187,7 +187,7 @@
 
             <div class="container width-1080 row space-between align-start py-3">
                 <div class="col-6 pl-2 pr-3">
-                    <img src="assets/images/rick-riordan/ia-and-strategy-01.png" class='mt-1'>
+                    <img src="../assets/images/rick-riordan/ia-and-strategy-01.png" class='mt-1'>
                 </div>
                 <div class="col-6 px-3 pt-3">
                     <p class='gilroy-regular'>
@@ -202,7 +202,7 @@
             
             <div class="container width-1080 row space-between align-start">
                 <div class="col-6 pl-2 pr-3">
-                    <img src="assets/images/rick-riordan/ia-and-strategy-02.png" class='mt-1'>
+                    <img src="../assets/images/rick-riordan/ia-and-strategy-02.png" class='mt-1'>
                 </div>
                 <div class="col-6 px-3 pt-3">
                     <p class='gilroy-regular'>
@@ -230,15 +230,15 @@
                         
                         <ul class='gilroy-medium text-white pl-none mt-1'> 
                             <span>Interface color palette</span>
-                            <img src="assets/images/rick-riordan/rickriordan_sg_colors.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_colors.png">
                         </ul>
 
                         <header class='gilroy-bold mt-2 text-white'>TYPOGRAPHY</header>
                         
                         <ul class='gilroy-medium text-white pl-none mt-1'> 
-                            <img src="assets/images/rick-riordan/rickriordan_sg_font1.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_font1.png">
                             <span class='my-1 normal-title text-white'>Roboto</span>
-                            <img src="assets/images/rick-riordan/rickriordan_sg_fontgold.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_fontgold.png">
                         </ul>
                     </nav>
                 </div>
@@ -248,9 +248,9 @@
                         
                         <ul class='gilroy-medium  pl-none mt-1'> 
                             <span class='text-white'>Navigation Items</span>
-                            <img src="assets/images/rick-riordan/rickriordan_sg_button.png">
-                            <img src="assets/images/rick-riordan/rickriordan_sg_arrows.png">
-                            <img src="assets/images/rick-riordan/rickriordan_sg_swordandmap.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_button.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_arrows.png">
+                            <img src="../assets/images/rick-riordan/rickriordan_sg_swordandmap.png">
                         </ul>
                     </nav>
                 </div>
@@ -259,7 +259,7 @@
                         <header class='gilroy-bold text-white'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="assets/images/rick-riordan/icons.png">
+                            <img src="../assets/images/rick-riordan/icons.png">
                         </ul>
                     </nav>
                 </div>
@@ -276,7 +276,7 @@
         </section>
         
         <section class="container mt-3 pb-4">
-            <img src="assets/images/rick-riordan/espada.png" class="col-12 pb-3">
+            <img src="../assets/images/rick-riordan/espada.png" class="col-12 pb-3">
             <div class="container width-1080 row space-center">
                 <div class="col-8">
                     Check the live version at www.rickriordan.com.br

@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2">
                 Alexandre Bispo is a full stack developer from Rio de Janeiro.
             </div>
-            <img src="assets/images/alexandre-bispo/alexandre_hero.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/alexandre-bispo/alexandre_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -42,7 +42,7 @@
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class="gilroy-bold text-blue-9 normal-title my-2 container row">
-                <img src="assets/images/icons/measure.png">
+                <img src="../assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
@@ -111,7 +111,7 @@
                             I have to understand what is my team weakness.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class="img-top" style="margin-top: -315px;" src="assets/images/alexandre-bispo/alexandre_persona.png">
+                            <img class="img-top" style="margin-top: -315px;" src="../assets/images/alexandre-bispo/alexandre_persona.png">
                             Recruiting new members shouldn’t be so painful.
                         </div>
 
@@ -186,14 +186,14 @@ Some developers aren't good communicators, don't understand design process and a
         <section class="container pt-2 pb-4">
             <h4 class="bordered-title mb-3">HOME</h4>
 
-            <img src="assets/images/alexandre-bispo/alexandre_ui1.png">
+            <img src="../assets/images/alexandre-bispo/alexandre_ui1.png">
         </section>
 
         <div class="container bg-white pt-2 pb-4">
             <h4 class="bordered-title mb-3">IA AND STRATEGY</h4>
             <div class="container row space-evenly align-start mt-3">
                 <div class="col-4">
-                    <img src="assets/images/alexandre-bispo/Grupo de máscara 9.png">
+                    <img src="../assets/images/alexandre-bispo/Grupo de máscara 9.png">
                 </div>
             
                 <div class="col-3">
@@ -207,7 +207,7 @@ Recruiters can see exactly what Alexandre did in the project: technologies, fram
             </div>
             <div class="container row space-evenly align-start mt-3">
                 <div class="col-4">
-                    <img src="assets/images/alexandre-bispo/Grupo de máscara 11.png">
+                    <img src="../assets/images/alexandre-bispo/Grupo de máscara 11.png">
                 </div>
                 <div class="col-3">
                     <p>
@@ -222,7 +222,7 @@ This information is very important, because it avoids any misunderstanding or fr
             </div>
             <div class="container row space-evenly align-start mt-3">
                 <div class="col-4">
-                    <img src="assets/images/alexandre-bispo/alexandre_ui5.png">
+                    <img src="../assets/images/alexandre-bispo/alexandre_ui5.png">
                 </div>
                 <div class="col-3">
                     <p>

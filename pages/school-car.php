@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
+        <link rel="stylesheet" href="../assets/css/vars.css">
+        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 A platform that connects parents that need a transportation service to take their kids to school with parents in the same school that have empty seats in their cars.             
             </div>
-            <img src="assets/images/school-car/Grupo437.png" style="margin-bottom: -150px;">
+            <img src="../assets/images/school-car/Grupo437.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -48,7 +48,7 @@
                     Uber invited 15 teams of developers, ux designers, marketing and business professionals to create solutions that help to solve urban mobility issues or people problems regarding urban transportation.</p>
             </div>
             <div class="col-6 mt-2 row">
-                <img src="assets/images/school-car/Grupo374.png" >
+                <img src="../assets/images/school-car/Grupo374.png" >
             </div>
         </section>
 
@@ -63,7 +63,7 @@
         <section class="container pt-2 pb-2">
             <h4 class="bordered-title">CONTEXT</h4>
             <div class="container pt-3">
-                <img src="assets/images/school-car/Grupo881.png" >
+                <img src="../assets/images/school-car/Grupo881.png" >
             </div>
         </section>
 
@@ -97,7 +97,7 @@
             <h4 class="bordered-title">MARKET</h4>
             <div class="container pt-2">
                 <div class="text-center py-1">The only way to solve this problem is hiring a transportation service. The common options are:</div>
-                <img src="assets/images/school-car/Grupo882.png" >
+                <img src="../assets/images/school-car/Grupo882.png" >
                 <div class="text-center py-1">
                     <div class='small-title'>Market Size</div> <br>
                     <div> 11 million passangers – R$ 734 million market </div><br>
@@ -125,7 +125,7 @@
         <section class="container pt-2 pb-2">
             <h4 class="bordered-title">VALIDATION RESEARCH</h4>
             <div class='mt-2'>
-                <img src="assets/images/school-car/schoolcar_uxresearch_script.png" alt="">
+                <img src="../assets/images/school-car/schoolcar_uxresearch_script.png" alt="">
             </div>
         </section>
 
@@ -177,7 +177,7 @@
                             I must arrive at my work on time.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -259px;" src="assets/images/school-car/schoolcar_persona1.png">
+                            <img class='img-top' style="margin-top: -259px;" src="../assets/images/school-car/schoolcar_persona1.png">
                             I need to trust in the person that will take my kid to school.
                         </div>
 
@@ -289,7 +289,7 @@
                             I want some social interaction for my kid.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -289px;" src="assets/images/school-car/schoolcar_persona2.png">
+                            <img class='img-top' style="margin-top: -289px;" src="../assets/images/school-car/schoolcar_persona2.png">
                             I don't want any embracing situation with any parent.
                         </div>
 
@@ -350,7 +350,7 @@
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">STAKEHOLDER MAP</h4>
             <div class="container pt-3">
-                <img src="assets/images/school-car/schoolcar_stakeholdermap.png">
+                <img src="../assets/images/school-car/schoolcar_stakeholdermap.png">
             </div>
         </section>
 
@@ -358,7 +358,7 @@
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class='gilroy-regular text-blue-9 normal-title my-2 container row'>
-                <img src="assets/images/icons/measure.png">
+                <img src="../assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
@@ -390,13 +390,13 @@
             <h4 class="bordered-title">STORYBOARD</h4>
             <div class="container row mt-2">
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard1.png" alt="">                    
+                    <img src="../assets/images/school-car/schoolcar_storyboard1.png" alt="">                    
                 </div>
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard2.png" alt="">                    
+                    <img src="../assets/images/school-car/schoolcar_storyboard2.png" alt="">                    
                 </div>
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard3.png" alt="">                    
+                    <img src="../assets/images/school-car/schoolcar_storyboard3.png" alt="">                    
                 </div>
             </div>
 
@@ -414,13 +414,13 @@
 
             <div class="container row mt-2">
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard4.png" alt="">
+                    <img src="../assets/images/school-car/schoolcar_storyboard4.png" alt="">
                 </div>
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard5.png" alt="">
+                    <img src="../assets/images/school-car/schoolcar_storyboard5.png" alt="">
                 </div>
                 <div class="col-4 mr-1">
-                    <img src="assets/images/school-car/schoolcar_storyboard6.png" alt="">
+                    <img src="../assets/images/school-car/schoolcar_storyboard6.png" alt="">
                 </div>
             </div>
 
@@ -445,13 +445,13 @@
                 <div>
                     Parent site map
                 </div>
-                <img src="assets/images/school-car/schoolcar_parent_sitemap.png">
+                <img src="../assets/images/school-car/schoolcar_parent_sitemap.png">
             </div>
             <div class="container pt-3">
                 <div class="">
                     Driver site map
                 </div>
-                <img src="assets/images/school-car/schoolcar_driver_sitemap.png">
+                <img src="../assets/images/school-car/schoolcar_driver_sitemap.png">
             </div>
         </section>
 
@@ -463,7 +463,7 @@
                 <span class="small-title">In the first use of the app, the user chooses to sign up as a driver or as a parent who needs transportation service.
                     Parents have to fill a simple form and drivers will have a profit calculator before the form, to motivate them.</span>
             </div>
-            <img src="assets/images/school-car/schoolcar_wireframe.png" alt="">
+            <img src="../assets/images/school-car/schoolcar_wireframe.png" alt="">
         </section>
 
         <section class="container pb-4">
@@ -471,7 +471,7 @@
                 <span class='normal-title text-blue-9'>Schedule – Selecting the best drivers</span>
                 <span class="small-title">To answer all the parents concerns, they are able to select drivers by rating, comments, pricing and affinity, that is calculated considering the kids in the car (same class? hired this driver before? is a friend of the driver kid?)</span>
             </div>
-            <img src="assets/images/school-car/Grupo462.png" alt="">
+            <img src="../assets/images/school-car/Grupo462.png" alt="">
         </section>
 
         <section class="container pb-4">
@@ -480,7 +480,7 @@
                 <span class="small-title">All worried parents are able to follow the car in the gps map and call the driver with just a single tap. <br>
                     To avoid getting late at school, parents receive alarm notifications 15 and 5 minutes before the driver pick up the kids.</span>
             </div>
-            <img src="assets/images/school-car/Grupo469.png" alt="">
+            <img src="../assets/images/school-car/Grupo469.png" alt="">
         </section>
 
         <section class="container pt-3 pb-4">
@@ -491,7 +491,7 @@
                 <span class="small-title">Drivers dashboard is their calendar. They can change their availability at any time in a very easy and intuitive way. 
                     For a new day, they just have to tap on the plus button. To accept or refuse a kid, they just tap on the seat, in the specific date and time and edit.</span>
             </div>
-            <img src="assets/images/school-car/schoolcar_wireframe8.png" alt="">
+            <img src="../assets/images/school-car/schoolcar_wireframe8.png" alt="">
         </section>
 
         <section class="container pb-4">
@@ -500,7 +500,7 @@
                 <span class="small-title">To avoid getting late at school, the driver screen has a gps map with a route that is calculated considering a comfortable time to pick up the kids and take them to school. With a single tap, drivers can call parents at anytime to report any issue.
                     After finishing the scheduled rides for the day, drivers can get more rides for extra money. They just need to select this option, and they will be called if other drivers had any problem and needs a substitute.</span>
             </div>
-            <img src="assets/images/school-car/Grupo469.png" alt="">
+            <img src="../assets/images/school-car/Grupo469.png" alt="">
         </section>
 
         <section class="container bg-grid pt-1 pb-4 mt-2">
@@ -512,7 +512,7 @@
         </section>
 
         <section class="container pt-1 pb-4 mt-2">
-            <img src="assets/images/school-car/schoolcar_ui1.png" alt="">
+            <img src="../assets/images/school-car/schoolcar_ui1.png" alt="">
         </section>
 
         <section class="container pt-1 pb-4 mt-2">
@@ -520,11 +520,11 @@
             <div class="container row mt-2">
                 <div class='col-6 text-center'>
                     <span>Parent - Signup</span>
-                    <img src="assets/images/school-car/Grupo894.png" alt="">
+                    <img src="../assets/images/school-car/Grupo894.png" alt="">
                 </div>
                 <div class='col-6 text-center'>
                     <span>Driver - Signup</span>
-                    <img src="assets/images/school-car/Grupo895.png" alt="">
+                    <img src="../assets/images/school-car/Grupo895.png" alt="">
                 </div>
             </div>
             
@@ -533,7 +533,7 @@
         <section class="container pt-1 pb-4 mt-2">
             <h4 class="bordered-title">SCHEDULE</h4>
             <div class='mt-2'>
-                <img src="assets/images/school-car/Grupo885.png" alt="">
+                <img src="../assets/images/school-car/Grupo885.png" alt="">
             </div>
             
         </section>
@@ -541,14 +541,14 @@
         <section class="container pt-1 pb-4 mt-2">
             <h4 class="bordered-title">DURING THE RIDE</h4>
             <div class='mt-2'>
-                <img src="assets/images/school-car/Grupo886.png" alt="">
+                <img src="../assets/images/school-car/Grupo886.png" alt="">
             </div>
         </section>
 
         <section class="container pt-1 pb-4 mt-2">
             <h4 class="bordered-title">DRIVER VIEW SCREENS</h4>
             <div class='mt-2'>
-                <img src="assets/images/school-car/Grupo887.png" alt="">
+                <img src="../assets/images/school-car/Grupo887.png" alt="">
             </div>
         </section>
 
@@ -562,15 +562,15 @@
                         
                         <ul class='gilroy-medium text-white pl-none mt-1'> 
                             <span class='text-white'>Interface color palette</span>
-                            <img src="assets/images/school-car/paleta.png">
+                            <img src="../assets/images/school-car/paleta.png">
                         </ul>
 
                         <header class='gilroy-bold mt-2 text-white'>TYPOGRAPHY</header>
                         
                         <ul class='gilroy-medium text-white pl-none mt-1'> 
-                            <img src="assets/images/school-car/schoolcar_sg_font.png">
+                            <img src="../assets/images/school-car/schoolcar_sg_font.png">
                             <header class='gilroy-bold mt-2 mb-1 small-title text-white'>OTHER</header>
-                            <img src="assets/images/school-car/schoolcar_sg_brand.png">
+                            <img src="../assets/images/school-car/schoolcar_sg_brand.png">
                         </ul>
                     </nav>
                 </div>
@@ -580,12 +580,12 @@
                         
                         <ul class='gilroy-medium text-white pl-none mt-1'> 
                             <span class="small-title text-white">Label</span>
-                            <img src="assets/images/school-car/Retângulo17.png">
+                            <img src="../assets/images/school-car/Retângulo17.png">
                         </ul>
 
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="small-title text-white">Navigation Items</span>
-                            <img src="assets/images/school-car/navItems.png">
+                            <img src="../assets/images/school-car/navItems.png">
                         </ul>
 
                     </nav>
@@ -593,7 +593,7 @@
                 <div class="col-3">
                     <nav class="style-guide">
                         <ul class='gilroy-medium pl-none'> 
-                            <img src="assets/images/school-car/icons.png">
+                            <img src="../assets/images/school-car/icons.png">
                         </ul>
                     </nav>
                 </div>
@@ -620,7 +620,7 @@
 
         <section class="container pt-2 pb-4 mt-2">
             <div>
-                <img src="assets/images/school-car/schoolcar_people.png">
+                <img src="../assets/images/school-car/schoolcar_people.png">
             </div>
         </section>
     </body>
