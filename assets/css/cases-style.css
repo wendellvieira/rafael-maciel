@@ -90,7 +90,7 @@ img {
     background: #426DA9;
 }
 .bg-grid {
-    background-image: url("/assets/images/general/aberturasecao_bg.png");
+    background-image: url("assets/images/general/aberturasecao_bg.png");
 }
 
 .text-blue-1 {
@@ -214,7 +214,7 @@ img {
 
 
 .line-art {
-    background-image: url("/assets/images/general/aberturasecao_sep.png");
+    background-image: url("assets/images/general/aberturasecao_sep.png");
     width: 96px;
     height: 11px;
     background-repeat: no-repeat;

@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/assets/css/vars.css">
-        <link rel="stylesheet" href="/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/cases-style.css">
+        <link rel="stylesheet" href="assets/css/vars.css">
+        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2">
                 Redesign of the University of Virginia library website
             </div>
-            <img src="/assets/images/university-of-virginia/uvl_hero.png" style="margin-bottom: -150px;">
+            <img src="assets/images/university-of-virginia/uvl_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -45,7 +45,7 @@
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class='gilroy-regular text-blue-9 normal-title my-2 container row'>
-                <img src="/assets/images/icons/measure.png">
+                <img src="assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
@@ -81,10 +81,10 @@
                     </h2>
                 </div>
                 <div class="col-8">
-                    <img class='col-12' src="/assets/images/university-of-virginia/Grafico.png">
+                    <img class='col-12' src="assets/images/university-of-virginia/Grafico.png">
                 </div>
                 <div class="col-2 text-center" style='padding-top: 15%;'>
-                    <img src="/assets/images/university-of-virginia/survey_monkey_brand.png"><br/>
+                    <img src="assets/images/university-of-virginia/survey_monkey_brand.png"><br/>
                     <span class='small-title'>Survey Monkey</span>
                 </div>
             </div>
@@ -164,7 +164,7 @@
                             To book a study room at the library.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -351px;" src="/assets/images/university-of-virginia/uvl_persona.png">
+                            <img class='img-top' style="margin-top: -351px;" src="assets/images/university-of-virginia/uvl_persona.png">
                             To borrow and reserve books.
                         </div>
 
@@ -195,8 +195,8 @@
 
             <div class="container width-1080 row space-between align-start pt-3">
                 <div class="col-6 pl-2 pr-3">
-                    <span class='small-title'>ZOOM <img src="/assets/images/university-of-virginia/zoom.png" alt=""></span>
-                    <img src="/assets/images/university-of-virginia/uvl_wireframe.png" class='mt-1'>
+                    <span class='small-title'>ZOOM <img src="assets/images/university-of-virginia/zoom.png" alt=""></span>
+                    <img src="assets/images/university-of-virginia/uvl_wireframe.png" class='mt-1'>
                 </div>
                 <div class="col-6 px-3 pt-1">
                     <p class='gilroy-regular'>
@@ -232,21 +232,21 @@
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">HOME</h4>
             <div class="container pt-3">
-                <img src="/assets/images/university-of-virginia/Exercicio3_Nivel1_UVL09.png">
+                <img src="assets/images/university-of-virginia/Exercicio3_Nivel1_UVL09.png">
             </div>
         </section>
 
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">EXPANDED MENU</h4>
             <div class="container pt-3">
-                <img src="/assets/images/university-of-virginia/Home_Menu_Expandido.png">
+                <img src="assets/images/university-of-virginia/Home_Menu_Expandido.png">
             </div>
         </section>
 
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">EXPANDED SEARCH</h4>
             <div class="container pt-3">
-                <img src="/assets/images/university-of-virginia/Home_Busca_Expandida–2.png">
+                <img src="assets/images/university-of-virginia/Home_Busca_Expandida–2.png">
             </div>
         </section>
         
@@ -255,7 +255,7 @@
 
             <div class="container width-1080 row space-between align-start pt-3">
                 <div class="col-6">
-                    <img src="/assets/images/university-of-virginia/Grupo-de-máscara-3.png" alt="">
+                    <img src="assets/images/university-of-virginia/Grupo-de-máscara-3.png" alt="">
                 </div>
                 <div class="col-6 px-3 pt-1">
                     <p class='gilroy-regular'>
@@ -295,13 +295,13 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Interface color palette</span>
-                            <img src="/assets/images/university-of-virginia/paleta_de_cores.png">
+                            <img src="assets/images/university-of-virginia/paleta_de_cores.png">
                         </ul>
 
                         <header class='gilroy-bold mt-2'>TYPOGRAPHY</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/assets/images/university-of-virginia/fontes.png">
+                            <img src="assets/images/university-of-virginia/fontes.png">
                         </ul>
                     </nav>
                 </div>
@@ -311,22 +311,22 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Primary button</span>
-                            <img src="/assets/images/university-of-virginia/uvl_sg_primarybutton.png">
+                            <img src="assets/images/university-of-virginia/uvl_sg_primarybutton.png">
                         </ul>
 
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Secondary button</span>
-                            <img src="/assets/images/university-of-virginia/secondary_buttons.png">
+                            <img src="assets/images/university-of-virginia/secondary_buttons.png">
                         </ul>
 
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Form field</span>
-                            <img src="/assets/images/university-of-virginia/uvl_sg_formfield.png">
+                            <img src="assets/images/university-of-virginia/uvl_sg_formfield.png">
                         </ul>
 
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Form button</span>
-                            <img src="/assets/images/university-of-virginia/uvl_sg_formbutton.png">
+                            <img src="assets/images/university-of-virginia/uvl_sg_formbutton.png">
                         </ul>
                     </nav>
                 </div>
@@ -335,7 +335,7 @@
                         <header class='gilroy-bold'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/assets/images/university-of-virginia/icons.png">
+                            <img src="assets/images/university-of-virginia/icons.png">
                         </ul>
                     </nav>
                 </div>

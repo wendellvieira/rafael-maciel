@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/assets/css/vars.css">
-        <link rel="stylesheet" href="/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/cases-style.css">
+        <link rel="stylesheet" href="assets/css/vars.css">
+        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2">
                 JamiQ is a social media analytics service and this project was a study of a dashboard interface.
             </div>
-            <img src="/assets/images/jamiq/jamiq_hero.png" style="margin-bottom: -150px;">
+            <img src="assets/images/jamiq/jamiq_hero.png" style="margin-bottom: -150px;">
         </div>
 
         <div class="container row space-evenly align-start">
@@ -48,7 +48,7 @@
         </div>
 
         <div class="container bg-white pt-2 pb-4">
-            <img src="/assets/images/jamiq/jamiq_wireframe.png">
+            <img src="assets/images/jamiq/jamiq_wireframe.png">
         </div>
 
 
@@ -62,7 +62,7 @@
 
 
         <div class="container pb-4">
-            <img src="/assets/images/jamiq/jamiq_ui1.png">
+            <img src="assets/images/jamiq/jamiq_ui1.png">
         </div>
 
         <div class="container bg-white pt-2 pb-4">
@@ -70,10 +70,10 @@
 
             <div class="container row space-evenly align-start mt-3">
                 <div class="col-4">
-                    <img src="/assets/images/jamiq/jamiq_ui2.png" >
+                    <img src="assets/images/jamiq/jamiq_ui2.png" >
                 </div>
                 <div class="col-2 pt-2">
-                    <img src="/assets/images/jamiq/jamiq_ui3.png" >
+                    <img src="assets/images/jamiq/jamiq_ui3.png" >
                 </div>
                 <div class="col-3 ml-1 pt-2">
                     <p class='mt-none'>
@@ -109,22 +109,22 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>interface color palette</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_interfacecolor.png">
+                            <img src="assets/images/jamiq/jamiq_sg_interfacecolor.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Items color palette</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_itemscolor.png">
+                            <img src="assets/images/jamiq/jamiq_sg_itemscolor.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Positive and negative</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_posnegcolor.png">
+                            <img src="assets/images/jamiq/jamiq_sg_posnegcolor.png">
                         </ul>
                         
                         
                         
                         <header class='gilroy-bold pt-2'>TYPOGRAPHY</header>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/assets/images/jamiq/jamiq_sg_font.png">
+                            <img src="assets/images/jamiq/jamiq_sg_font.png">
                         </ul>
 
                     </nav>
@@ -135,23 +135,23 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Primary button</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_primarybt.png">
+                            <img src="assets/images/jamiq/jamiq_sg_primarybt.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Secondary button</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_secondarybt.png">
+                            <img src="assets/images/jamiq/jamiq_sg_secondarybt.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Selector</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_selector.png">
+                            <img src="assets/images/jamiq/jamiq_sg_selector.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Active Link</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_activelink.png">
+                            <img src="assets/images/jamiq/jamiq_sg_activelink.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Positive and negative indicators</span>
-                            <img src="/assets/images/jamiq/jamiq_sg_arrows.png">
+                            <img src="assets/images/jamiq/jamiq_sg_arrows.png">
                         </ul>
 
                     </nav>
@@ -161,7 +161,7 @@
                         <header class='gilroy-bold'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/assets/images/jamiq/Grupo 869.png">
+                            <img src="assets/images/jamiq/Grupo 869.png">
                         </ul>
 
                     </nav>

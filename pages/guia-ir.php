@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/assets/css/vars.css">
-        <link rel="stylesheet" href="/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/assets/css/cases-style.css">
+        <link rel="stylesheet" href="assets/css/vars.css">
+        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 Guia IR Icatu Seguros is a website that teaches more than 6.5 millions of Icatu Seguro's clients <br> how to pay their taxes.
             </div>
-            <img src="/assets/images/guia-ir/guiair_hero.png" style="margin-bottom: -150px;">
+            <img src="assets/images/guia-ir/guiair_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -88,7 +88,7 @@
                             Filling the taxes form could be easier.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -315px;" src="/assets/images/guia-ir/guiair_persona.png">
+                            <img class='img-top' style="margin-top: -315px;" src="assets/images/guia-ir/guiair_persona.png">
                             To feel confident while filling the form.
                         </div>
 
@@ -141,7 +141,7 @@
         </section>
         
         <section class="container pb-4">
-            <img src="/assets/images/guia-ir/guiair_stakeholdermap.png">
+            <img src="assets/images/guia-ir/guiair_stakeholdermap.png">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -187,7 +187,7 @@
             <h4 class='bordered-title'>KPIS</h4>
 
             <div class="container row align-end">
-            <img src="../assets/images/guia-ir/Grupo 678.png" alt="">
+            <img src="..assets/images/guia-ir/Grupo 678.png" alt="">
             <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
             </div>
             
@@ -210,7 +210,7 @@
             </div>
 
             <div class="container bg-white mt-3">
-                <img src="../assets/images/guia-ir/guiair_sitemap.png" alt="">
+                <img src="..assets/images/guia-ir/guiair_sitemap.png" alt="">
 
                 <div class="col-8">
                     <p class="text-left">THREE STEP NAVIGATION</p>
@@ -241,22 +241,22 @@
             </div>
 
             <div class="container row align-center  space-center">
-                <img src="../assets/images/guia-ir/guiair_ui1.png" alt="">
-                <img src="../assets/images/guia-ir/guiair_ui2.png" alt="">
+                <img src="..assets/images/guia-ir/guiair_ui1.png" alt="">
+                <img src="..assets/images/guia-ir/guiair_ui2.png" alt="">
             </div>
 
             <div class="container row align-center space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
-                    <img src="../assets/images/guia-ir/guiair_ui3.png" alt="">
+                    <img src="..assets/images/guia-ir/guiair_ui3.png" alt="">
                 </div>
                 <div>
                     <p>Filter to give right instructions</p>
-                    <img src="../assets/images/guia-ir/guiair_ui4.png" alt="">
+                    <img src="..assets/images/guia-ir/guiair_ui4.png" alt="">
                 </div>
                 <div>
                     <p>Instructions</p>
-                    <img src="../assets/images/guia-ir/guiair_ui5.png" alt="">
+                    <img src="..assets/images/guia-ir/guiair_ui5.png" alt="">
                 </div>
             </div>
 
@@ -268,21 +268,21 @@
                 Home - Investment product selection
             </div>
             <div class="container">
-                <img src="../assets/images/guia-ir/guiair_ui6.png" alt="">
+                <img src="..assets/images/guia-ir/guiair_ui6.png" alt="">
             </div>
             <div class="container row align-start space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
-                    <img src="../assets/images/guia-ir/guiair_ui7.png" alt="">
+                    <img src="..assets/images/guia-ir/guiair_ui7.png" alt="">
                 </div>
                 <div>
                     <p>Filter to give right instructions</p>
-                    <img src="../assets/images/guia-ir/guiair_ui8.png" alt="">
+                    <img src="..assets/images/guia-ir/guiair_ui8.png" alt="">
                 </div>
             </div>
             <div class="container text-center mt-3">
                 <p>Instructions</p>
-                <img src="../assets/images/guia-ir/guiair_ui9.png" alt="">
+                <img src="..assets/images/guia-ir/guiair_ui9.png" alt="">
             </div>
             <div class="container pt-3 pb-4 mt-4">
                 <h4 class='bordered-title'>STYLE GUIDE</h4>
@@ -295,12 +295,12 @@
                             
                             <ul class='gilroy-medium pl-none mt-1'> 
                                 <span class="text-white">interface color palette</span>
-                                <img src="/assets/images/guia-ir/Grupo 870.png">
+                                <img src="assets/images/guia-ir/Grupo 870.png">
                             </ul>
 
                             <header class='gilroy-bold text-white'>TYPOGRAPHY</header>
                             <ul class='gilroy-medium pl-none mt-1'> 
-                                <img src="/assets/images/guia-ir/Grupo 871.png">
+                                <img src="assets/images/guia-ir/Grupo 871.png">
                             </ul>
                         </nav>
                     </div>
@@ -310,11 +310,11 @@
                             
                             <ul class='gilroy-medium pl-none mt-1'> 
                                 <span class="text-white">Navigation Items</span>
-                                <img src="/assets/images/guia-ir/guiair_sg_botao.png">
+                                <img src="assets/images/guia-ir/guiair_sg_botao.png">
                             </ul>
                             <ul class='gilroy-medium pl-none mt-1'> 
                                 <span class="text-white">OTHER</span>
-                                <img src="/assets/images/guia-ir/guiair_sg_ilustracao.png">
+                                <img src="assets/images/guia-ir/guiair_sg_ilustracao.png">
                             </ul>
                         </nav>
                     </div>
@@ -322,7 +322,7 @@
                         <nav class="style-guide">
                             <header class='gilroy-bold text-white'>ICONS</header>
                             <ul class='gilroy-medium pl-none mt-1'> 
-                                <img src="/assets/images/guia-ir/guiair_sg_icone.png">
+                                <img src="assets/images/guia-ir/guiair_sg_icone.png">
                             </ul>
 
                         </nav>
