@@ -19,6 +19,8 @@ img {
     color: var(--blue-4);
 }
 
+
+
 .small-title {
     font-size: 12px;
 }
@@ -80,6 +82,9 @@ img {
 .bg-grey-1 {
     background-color: var(--grey-1);
 }
+.bg-grey-2 {
+    background-color: var(--grey-2);
+}
 .bg-grey-3 {
     background-color: var(--grey-3);
 }
@@ -104,6 +109,9 @@ img {
 }
 .text-grey-1 {
     color: var(--grey-1);
+}
+.text-grey-2 {
+    color: var(--grey-2);
 }
 .text-grey-3 {
     color: var(--grey-3);
@@ -270,6 +278,27 @@ img {
     top: 0;
     left: 0;
 }
+
+
+.cnt-icon {
+    width: 42px;
+    height: 42px;
+    background-color: var(--grey-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navigate-icon {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    text-decoration: none;
+}
+.disable-icon-navigate {
+    opacity: 0.6;
+}
+
+
 
 .m-none { margin: var(--size-none); }
 .mx-none { margin-left: var(--size-none); margin-right: var(--size-none); }
