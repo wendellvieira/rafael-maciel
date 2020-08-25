@@ -17,14 +17,18 @@
     position: fixed;
     z-index: 10;
     right: 15px; 
+    top: 0px;
 }
 .btn-open-menu {
     position: absolute;
-    opacity: 0.7;
     top: -35px;
     right: 4px;
     cursor: pointer;
+    background-color: var(--blue-9);
+    border-radius: 76px;
 }
+
+
 .cnt-items-menu {
     height: 100vh;
     overflow: auto;

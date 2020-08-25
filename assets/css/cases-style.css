@@ -271,7 +271,6 @@ img {
     left: 0;
 }
 
-
 .m-none { margin: var(--size-none); }
 .mx-none { margin-left: var(--size-none); margin-right: var(--size-none); }
 .my-none { margin-top: var(--size-none); margin-bottom: var(--size-none); }

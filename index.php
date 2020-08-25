@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
         <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
         <link rel="stylesheet" href="/rafael-maciel/assets/css/home.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/menu.css">
 
     </head>
     <body>
