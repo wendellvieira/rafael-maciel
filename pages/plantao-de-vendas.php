@@ -5,44 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="../assets/css/vars.css">
-        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/cases-style.css">
-
-        <link rel="stylesheet" href="../assets/css/fixed-header.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="../assets/js/fixed-header.js"></script>
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <header>
-
-            <div class="nav-cases">
-                <div class="cnt-cases-menu">
-                    <label class='btn-toggle btn-colored' for="check-nav-cases">
-                        <img src="../assets/images/general/cases_menu_open.png">
-                        <span class='f-12 mt-18'>Intro</span>    
-                    </label>
-                    <input type="checkbox" id='check-nav-cases' class='d-none'>
-                    <div class="cnt-menu btn-colored">
-                        <label class='btn-toggle' for="check-nav-cases">
-                            <img src="../assets/images/general/cases_menu_close.png">
-                            <span class='f-12 mt-18'>Intro</span>  
-                        </label>
-                        <nav id="cases-menu-target" class="cnt-items-nav pb-1">
-                            <!-- <a href="" class='item-menu' ></a> -->                            
-                        </nav>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="container h-75 space-center">
-                <h1 class='small-title m-none'>RAFAEL MACIEL</h1>
-            </div>
-
-        </header>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
 
         <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
@@ -55,7 +22,7 @@
             <div class="mb-2">
                 Plantão de Vendas is a weekly news website for Embratel's sales team.
             </div>
-            <img src="../assets/images/plantao-de-vendas/plantao_hero.png" style="margin-bottom: -150px;">
+            <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -102,7 +69,7 @@
 
                 </div>
                 <div class="col-6">
-                    <img src="../assets/images/plantao-de-vendas/plantao_research1.png" alt="">
+                    <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_research1.png" alt="">
                 </div>
 
             </div>
@@ -152,7 +119,7 @@
                             I have to increase my sales number.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -264px;" src="../assets/images/plantao-de-vendas/plantao_persona.png">
+                            <img class='img-top' style="margin-top: -264px;" src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_persona.png">
                             I have to feel confident about my sales techniques.
                         </div>
 
@@ -253,7 +220,7 @@
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
-                <img src="../assets/images/icons/measure.png">
+                <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
@@ -285,13 +252,13 @@
         <section class='container pt-2 pb-4'>
             <h4 class="bordered-title mb-3">HOME</h4>
 
-            <img src="../assets/images/plantao-de-vendas/plantao_ui1.png">
+            <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_ui1.png">
         </section>
 
         <section class='container pt-2 pb-4'>
             <h4 class="bordered-title mb-3">ARTICLE</h4>
 
-            <img src="../assets/images/plantao-de-vendas/Interna.png">
+            <img src="/rafael-maciel/assets/images/plantao-de-vendas/Interna.png">
         </section>
 
         <section class='container pt-3 pb-4 bg-white mx-1'>
@@ -299,7 +266,7 @@
 
             <div class="container row mt-3 align-start space-around">
                 <div class="col-5">
-                    <img src="../assets/images/plantao-de-vendas/plantao_ui3.png">
+                    <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_ui3.png">
                 </div>
                 <div class="col-4 pt-2">
                     <p>
@@ -337,13 +304,13 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Interface color palette</span>
-                            <img src="../assets/images/plantao-de-vendas/pallet-color.png">
+                            <img src="/rafael-maciel/assets/images/plantao-de-vendas/pallet-color.png">
                         </ul>
 
                         <header class='gilroy-bold mt-2'>TYPOGRAPHY</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="../assets/images/plantao-de-vendas/plantao_sg_font.png">
+                            <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_sg_font.png">
                         </ul>
                     </nav>
                 </div>
@@ -353,7 +320,7 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span>Navigation Items</span>
-                            <img src="../assets/images/plantao-de-vendas/navigation-items.png">
+                            <img src="/rafael-maciel/assets/images/plantao-de-vendas/navigation-items.png">
                         </ul>
                     </nav>
                 </div>
@@ -362,7 +329,7 @@
                         <header class='gilroy-bold'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="../assets/images/plantao-de-vendas/icons.png">
+                            <img src="/rafael-maciel/assets/images/plantao-de-vendas/icons.png">
                         </ul>
                     </nav>
                 </div>
@@ -389,6 +356,9 @@
                 </div>
             </div>
         </section>
+
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
 
 
     </body>

@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="../assets/css/vars.css">
-        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/cases-style.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2 text-center">
                 An immersive streaming platform for soccer games.             
             </div>
-            <img src="../assets/images/xports/xports_hero.png" style="margin-bottom: -150px;">
+            <img src="/rafael-maciel/assets/images/xports/xports_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -57,7 +57,7 @@
                 UFF University and me.</p>
             </div>
             <div class="col-7 row align-end mt-4 text-right">
-                <img src="../assets/images/xports/Grupo 728.png" >
+                <img src="/rafael-maciel/assets/images/xports/Grupo 728.png" >
                 <p class="text-right small-title">Iago Agualuza, Mauricio Leonardo, me, Ronald Maymone and Jorge Stief.</p>
             </div>
         </section>
@@ -93,7 +93,7 @@
         <section class="container text-center">
             <div>
                 <h2 class="mr-3">Providing an immersive experience.</h2>
-                <img class="ml-4" src="..../assets/images/xports/xports_stadium.png" alt="">
+                <img class="ml-4" src="../rafael-maciel/assets/images/xports/xports_stadium.png" alt="">
             </div>
         </section>
         <section class="container">
@@ -101,7 +101,7 @@
                 <p>Flamengo's fans will be able to watch the game on their favorite device, choosing cameras and audio from all around the
                     stadium, choosing the desired stadium seat and controlling the volume between narrator and crowd. With VR support, they'll
                     be able to watch the game in 360 and have a truly emotional experience.</p>
-                <img class="ml-4 mt-3" src="..../assets/images/xports/xports_vr.png" alt="">
+                <img class="ml-4 mt-3" src="../rafael-maciel/assets/images/xports/xports_vr.png" alt="">
             </div>
         </section>
         <section class="container pt-2 pb-4">
@@ -109,7 +109,7 @@
 
             <div class="container width-1080 row space-between align-center pt-3">
                 <div class="col-6 ml-3">
-                    <img src="../assets/images/xports/Grupo 888.png" alt="">
+                    <img src="/rafael-maciel/assets/images/xports/Grupo 888.png" alt="">
                     <p>An option for the game broadcast is to invest in a <br>
                         product like LiveU. For example, the LU600 HEVC <br>
                         portable transmission unit offers a 4K broadcast <br>
@@ -123,7 +123,7 @@
 
                 </div>
                 <div class="col-6 ml-3">
-                    <img src="../assets/images/xports/Grupo 889.png" alt="">
+                    <img src="/rafael-maciel/assets/images/xports/Grupo 889.png" alt="">
                     <p>An option for the 360 sound experience for live <br>
                         broadcast is to invest in a product like Insoudz. <br>
                         They're will also offer a streaming video <br>
@@ -140,14 +140,14 @@
             <div class="container width-1080 space-center text-left mt-3">
                 <p>Habits are changing. <br>
                     In 2019, total internet consumption exceeded TV consumption for the first time.</p>
-                <img class="ml-4 mt-3" src="..../assets/images/xports/xports_grafico_tvxinternet.png" alt="">
+                <img class="ml-4 mt-3" src="../rafael-maciel/assets/images/xports/xports_grafico_tvxinternet.png" alt="">
             </div>
         </section>
         <section class="container pt-3 pb-4 mt-4">
             <h4 class='bordered-title'>KPIS</h4>
 
             <div class="container row align-end">
-            <img src="..../assets/images/xports/Grupo 678.png" alt="">
+            <img src="../rafael-maciel/assets/images/xports/Grupo 678.png" alt="">
             <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
             </div>
             
@@ -161,7 +161,7 @@
             </div>
         </section>
         <section class="container pb-4">
-            <img src="../assets/images/xports/xports_stakeholdermap.png">
+            <img src="/rafael-maciel/assets/images/xports/xports_stakeholdermap.png">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -213,7 +213,7 @@
                             I love to cheer with all the crowd.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -367px;" src="../assets/images/xports/xports_persona.png">
+                            <img class='img-top' style="margin-top: -367px;" src="/rafael-maciel/assets/images/xports/xports_persona.png">
                             I'd like to post Flamengo goals in my social networks.
                         </div>
 
@@ -306,7 +306,7 @@
         
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – SITE MAP</h4>
-            <img src="../assets/images/xports/xports_sitemap.png">
+            <img src="/rafael-maciel/assets/images/xports/xports_sitemap.png">
         </section>
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – WIREFRAME</h4>
@@ -320,7 +320,7 @@
                 <p class="small-title">Activated main menu after click or tap.</p>
             </div>
             
-            <img src="../assets/images/xports/xports_wireframe1.png">
+            <img src="/rafael-maciel/assets/images/xports/xports_wireframe1.png">
             <div class="col-7 ml-2">
                 <p>Menu items – based on user needs: <br>
                     1. Watch Live (home). <br>
@@ -338,7 +338,7 @@
                 <p class="small-title">Activated menu and match statistics</p>
             </div>
             
-            <img src="../assets/images/xports/xports_wireframe2.png">
+            <img src="/rafael-maciel/assets/images/xports/xports_wireframe2.png">
         </section>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
@@ -352,37 +352,37 @@
             <h4 class="bordered-title mt-4">LIVE</h4>
             <div class="container py-3">
                 <h5 class="text-center">Activated menu screen (on mouse move or tap)</h5>
-                <img src="../assets/images/xports/Grupo 417.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 417.png">
             </div>
             <h4 class="bordered-title">STATISTICS</h4>
             <div class="container pb-3">
-                <img src="../assets/images/xports/xports_ui2.png">
+                <img src="/rafael-maciel/assets/images/xports/xports_ui2.png">
             </div>
             <h4 class="bordered-title mt-4">REPLAY</h4>
             <div class="container pb-3">
                 <h5 class="text-center">Video and image share</h5>
-                <img src="../assets/images/xports/Grupo 423.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 423.png">
             </div>
             <h4 class="bordered-title mt-4">STANDINGS</h4>
             <div class="container mt-4">
-                <img src="../assets/images/xports/Grupo 420.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 420.png">
             </div>
             <h4 class="bordered-title mt-4">CHAT</h4>
             <div class="container mt-4">
-                <img src="../assets/images/xports/Grupo 421.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 421.png">
             </div>
             <h4 class="bordered-title mt-4">COMPLETE EXPERIENCE</h4>
             <div class="container mt-4">
                 <h5 class="text-center">Pre-match experience</h5>
-                <img src="../assets/images/xports/Grupo 425.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 425.png">
             </div>
             <div class="container mt-4">
                 <h5 class="text-center">Half-time break</h5>
-                <img src="../assets/images/xports/Grupo 426.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 426.png">
             </div>
             <div class="container">
                 <h5 class="text-center mt-4">Finished match</h5>
-                <img src="../assets/images/xports/Grupo 890.png">
+                <img src="/rafael-maciel/assets/images/xports/Grupo 890.png">
             </div>
         </section>
         <section class="container pt-3 pb-2">
@@ -397,16 +397,16 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">interface color palette</span>
-                            <img src="../assets/images/xports/xports_sg_colors.png">
+                            <img src="/rafael-maciel/assets/images/xports/xports_sg_colors.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">TYPOGRAPHY</span>
-                            <img src="../assets/images/xports/xports_sg_font.png">
+                            <img src="/rafael-maciel/assets/images/xports/xports_sg_font.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">OTHER</span>
-                            <img src="../assets/images/xports/Grupo 891.png">
-                            <img class="mt-1" src="../assets/images/xports/xports_sg_chat.png">
+                            <img src="/rafael-maciel/assets/images/xports/Grupo 891.png">
+                            <img class="mt-1" src="/rafael-maciel/assets/images/xports/xports_sg_chat.png">
                         </ul>
                         
                     </nav>
@@ -417,17 +417,17 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Form Items</span>
-                            <img src="../assets/images/xports/Grupo 893.png">
+                            <img src="/rafael-maciel/assets/images/xports/Grupo 893.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Navigation Items</span>
-                            <img src="../assets/images/xports/Grupo 892.png">
+                            <img src="/rafael-maciel/assets/images/xports/Grupo 892.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="../assets/images/xports/xports_sg_playertimeline.png">
+                            <img src="/rafael-maciel/assets/images/xports/xports_sg_playertimeline.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="../assets/images/xports/xports_sg_arrows.png">
+                            <img src="/rafael-maciel/assets/images/xports/xports_sg_arrows.png">
                         </ul>
                     </nav>
                 </div>
@@ -436,7 +436,7 @@
                         <header class='gilroy-bold text-white'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="../assets/images/xports/Grupo 428.png">
+                            <img src="/rafael-maciel/assets/images/xports/Grupo 428.png">
                         </ul> 
 
                     </nav>

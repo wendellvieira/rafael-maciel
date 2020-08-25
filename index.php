@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="assets/css/vars.css">
-        <link rel="stylesheet" href="assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="assets/css/cases-style.css">
-        <link rel="stylesheet" href="assets/css/home.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/home.css">
 
     </head>
     <body>
@@ -18,20 +18,20 @@
 
         <header class='home'>
             <video autoplay muted loop>
-                <source src="assets/images/home/header.mp4" type="video/mp4">
+                <source src="/rafael-maciel/assets/images/home/header.mp4" type="video/mp4">
             </video>
             <div class="content">
                 <div class="text year" style="margin-bottom: 5px; font-size: 10px;">
-                    <img style="margin-right: 9px;" src="assets/images/home/icon.png" >
+                    <img style="margin-right: 9px;" src="/rafael-maciel/assets/images/home/icon.png" >
                     2020
                 </div>
-                <img src="assets/images/home/logo.png" >
+                <img src="/rafael-maciel/assets/images/home/logo.png" >
                 <div class="text argent-cf-regular" style="font-size: 18px;">
-                    <img src="assets/images/home/trapo.png" style="margin-right: 9px;">
+                    <img src="/rafael-maciel/assets/images/home/trapo.png" style="margin-right: 9px;">
                     Product Designer and tech lover.
                 </div>
             </div>
-            <img src="assets/images/home/pontos.png" >
+            <img src="/rafael-maciel/assets/images/home/pontos.png" >
         </header>
 
         <h2 class='container mx-1 my-2 row space-between align-center'>
@@ -39,41 +39,41 @@
                 01. <span class="ponto"></span>
                 <span class="text-white gilroy-light f-28">Latest work</span>    
             </div>
-            <img src="assets/images/home/b2_graf_dir.png">
+            <img src="/rafael-maciel/assets/images/home/b2_graf_dir.png">
         </h2>
 
         <section class='mx-1 my-2 bg-blue'>
             <main class='cases'>
-                <a href="pages/nespresso.php">
+                <a href="/rafael-maciel/pages/nespresso.php">
                     <article>
-                        <img src="assets/images/home/tb_nespresso.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_nespresso.png" alt="">
                         <header>
                             <h3>Nespresso Shopping Experience</h3>
                             <span>Website, E-commerce, Redesign.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/wikipedia.php">
+                <a href="/rafael-maciel/pages/wikipedia.php">
                     <article>
-                        <img src="assets/images/home/tb_wikipedia.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_wikipedia.png" alt="">
                         <header>
                             <h3>Wikipedia Learning Experience</h3>
                             <span>Smart watch app, Website, Redesign.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/pig.php">
+                <a href="/rafael-maciel/pages/pig.php">
                     <article>
-                        <img src="assets/images/home/tb_pig.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_pig.png" alt="">
                         <header>
                             <h3>PIG</h3>
                             <span>App, Website, Service.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/school-car.php">
+                <a href="/rafael-maciel/pages/school-car.php">
                     <article>
-                        <img src="assets/images/home/tb_schoolcar.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_schoolcar.png" alt="">
                         <header>
                             <h3>Schoolcar</h3>
                             <span>App, Service. </span>
@@ -82,36 +82,36 @@
                 </a>
 
 
-                <a href="pages/xports.php">
+                <a href="/rafael-maciel/pages/xports.php">
                     <article>
-                        <img src="assets/images/home/tb_xports.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_xports.png" alt="">
                         <header>
                             <h3>Xports</h3>
                             <span>VR, App, Service.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/rick-riordan.php">
+                <a href="/rafael-maciel/pages/rick-riordan.php">
                     <article>
-                        <img src="assets/images/home/tb_rickriordan.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_rickriordan.png" alt="">
                         <header>
                             <h3>Rick Riordan</h3>
                             <span>Website.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/luxury-cars.php">
+                <a href="/rafael-maciel/pages/luxury-cars.php">
                     <article>
-                        <img src="assets/images/home/tb_luxurycars.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_luxurycars.png" alt="">
                         <header>
                             <h3>Luxury Cars</h3>
                             <span>Website, Service.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/alexandre-bispo.php">
+                <a href="/rafael-maciel/pages/alexandre-bispo.php">
                     <article>
-                        <img src="assets/images/home/tb_alexandrebispo.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_alexandrebispo.png" alt="">
                         <header>
                             <h3>Alexandre Bispo</h3>
                             <span>Website,</span>
@@ -120,36 +120,36 @@
                 </a>
 
 
-                <a href="pages/learn-ink.php">
+                <a href="/rafael-maciel/pages/learn-ink.php">
                     <article>
-                        <img src="assets/images/home/tb_learnink.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_learnink.png" alt="">
                         <header>
                             <h3>Learn Ink</h3>
                             <span>Website, Service.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/university-of-virginia.php">
+                <a href="/rafael-maciel/pages/university-of-virginia.php">
                     <article>
-                        <img src="assets/images/home/tb_universityofvirginialibrary.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_universityofvirginialibrary.png" alt="">
                         <header>
                             <h3>University of Virginia Library</h3>
                             <span>Website.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/jamiq.php">
+                <a href="/rafael-maciel/pages/jamiq.php">
                     <article>
-                        <img src="assets/images/home/tb_jamiq.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_jamiq.png" alt="">
                         <header>
                             <h3>JamiQ Dashboard</h3>
                             <span>Dashboard.</span>
                         </header>
                     </article>
                 </a>
-                <a href="pages/guia-ir.php">
+                <a href="/rafael-maciel/pages/guia-ir.php">
                     <article>
-                        <img src="assets/images/home/tb_guiair.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_guiair.png" alt="">
                         <header>
                             <h3>Guia IR</h3>
                             <span>Website.</span>
@@ -157,9 +157,9 @@
                     </article>
                 </a>
 
-                <a href="pages/plantao-de-vendas.php">
+                <a href="/rafael-maciel/pages/plantao-de-vendas.php">
                     <article>
-                        <img src="assets/images/home/tb_plantaodevendas.png" alt="">
+                        <img src="/rafael-maciel/assets/images/home/tb_plantaodevendas.png" alt="">
                         <header>
                             <h3>Plantão de Vendas</h3>
                             <span>Website, Blog.</span>
@@ -176,12 +176,12 @@
                 02. <span class="ponto"></span>
                 <span class="text-white gilroy-light f-28">About me</span>    
             </div>
-            <img src="assets/images/home/b2_graf_dir.png">
+            <img src="/rafael-maciel/assets/images/home/b2_graf_dir.png">
         </h2>
 
         <footer class="pb-4">
             <!-- <video autoplay muted loop>
-                <source src="assets/images/home/footer.mp4" type="video/mp4">
+                <source src="/rafael-maciel/assets/images/home/footer.mp4" type="video/mp4">
             </video> -->
             <div class="container row">
                 <div class="col-5" style="padding-left: 116px;">
@@ -197,7 +197,7 @@
     
                     <a href="#" class="download text-white mt-2">
                         Download Resume
-                        <img src="assets/images/home/download_icon.png" class='ml-1'>
+                        <img src="/rafael-maciel/assets/images/home/download_icon.png" class='ml-1'>
                     </a>
                 </div>
                 <div class="col-6">
@@ -205,28 +205,28 @@
                         <ul>
                             Everyday Work
                             <a href="#">
-                                <img src="assets/images/home/redes_dribbble.png">
+                                <img src="/rafael-maciel/assets/images/home/redes_dribbble.png">
                             </a>
                             <a href="#">
-                                <img src="assets/images/home/redes_instagram.png">
+                                <img src="/rafael-maciel/assets/images/home/redes_instagram.png">
                             </a>
                         </ul>
                         <ul>
                             Articles
                             <a href="#">
-                                <img src="assets/images/home/redes_medium.png">
+                                <img src="/rafael-maciel/assets/images/home/redes_medium.png">
                             </a>
                         </ul>
                         <ul>
                             Connect with me
                             <a href="#">
-                                <img src="assets/images/home/redes_linkedin.png">
+                                <img src="/rafael-maciel/assets/images/home/redes_linkedin.png">
                             </a>
                         </ul>
                         <ul>
                             Get in touch
                             <a href="#">
-                                <img src="assets/images/home/redes_email.png">
+                                <img src="/rafael-maciel/assets/images/home/redes_email.png">
                             </a>
                             <span class='text-white'>ramaciel@gmail.com</span>
                         </ul>

@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="../assets/css/vars.css">
-        <link rel="stylesheet" href="../assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="../assets/css/cases-style.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
+        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
 
     </head>
     <body>
@@ -24,7 +24,7 @@
             <div class="mb-2">
                 An investment product to help children to fund college, first house, car, or any dream.
             </div>
-            <img src="../assets/images/pig/pig_hero.png" style="margin-bottom: -150px;">
+            <img src="/rafael-maciel/assets/images/pig/pig_hero.png" style="margin-bottom: -150px;">
         </section>
 
         <section class="container row space-evenly align-start">
@@ -48,7 +48,7 @@
                     We got first place, yesss! and iPhone XRs for each member of the team, Wow. But the best of it is the opportunity that we’re having to develop the product with this lovely team.</p>
             </div>
             <div class="col-7 align-center row">
-                <img src="../assets/images/pig/Grupo 894.png">
+                <img src="/rafael-maciel/assets/images/pig/Grupo 894.png">
                 <p class="small-title">Willian Vale (developer), Maisa (developer), Beatriz Maselli (business), Diago Savio (marketing) and me. </p>
             </div>
             
@@ -88,7 +88,7 @@
     
                     </div>
                     <div class="col-4">
-                        <img src="../assets/images/pig/pig_oportunity_img1.png">
+                        <img src="/rafael-maciel/assets/images/pig/pig_oportunity_img1.png">
                     </div>
     
                 </div>
@@ -105,7 +105,7 @@
                         
                     </div>
                     <div class="col-4">
-                        <img src="../assets/images/pig/pig_oportunity_img2.png">
+                        <img src="/rafael-maciel/assets/images/pig/pig_oportunity_img2.png">
                     </div>
                 </div>
                    
@@ -154,7 +154,7 @@
                                         To stop spending all the salary every month.
                                     </div>
                                     <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                                        <img class="img-top" style="margin-top: -276px;" src="../assets/images/pig/pig_persona.png">
+                                        <img class="img-top" style="margin-top: -276px;" src="/rafael-maciel/assets/images/pig/pig_persona.png">
                                         To get better finance habits.
                                     </div>
             
@@ -232,7 +232,7 @@
         <section class="container pt-2 pb-4 mt-2">
             <h4 class="bordered-title">STAKEHOLDER MAP</h4>
             <div class="container pt-3">
-                <img src="../assets/images/pig/pig_stakeholdermap.png">
+                <img src="/rafael-maciel/assets/images/pig/pig_stakeholdermap.png">
             </div>
         </section>
 
