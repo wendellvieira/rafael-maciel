@@ -19,6 +19,10 @@ img {
     color: var(--blue-4);
 }
 
+.elevated-5 {
+    border-radius: 37px;
+    box-shadow: 0px 20px 38px rgba(0, 0, 0, 16%);
+}
 
 
 .small-title {

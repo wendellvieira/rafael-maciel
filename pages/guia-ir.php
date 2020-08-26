@@ -3,25 +3,23 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <title>Guia IR - Rafael Maciel</title>
 
-    </head>
-    <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+</head>
+<body>
+    <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
+
+        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 TAX PAYMENT GUIDE WEBSITE
             </div>
             <h2 class="big-title argent-cf-regular text-blue-9 my-1">
                 Guia IR
             </h2>
-            <div class="mb-2 text-center">
+            <div class="mb-2 text-center letter-045">
                 Guia IR Icatu Seguros is a website that teaches more than 6.5 millions of Icatu Seguro's clients <br> how to pay their taxes.
             </div>
             <img src="/rafael-maciel/assets/images/guia-ir/guiair_hero.png" style="margin-bottom: -150px;">
@@ -38,8 +36,10 @@
             </div>
         </section>
 
-
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <a name='meeting-the-user' class='map-cases-menu'>
+            01 - Meeting the user
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
@@ -48,7 +48,7 @@
         </section>
 
 
-        <section class="container bg-white pt-2 pb-4 mt-2">
+        <section class="container bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
             <div class="container width-1080">
@@ -98,7 +98,7 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='container pt-3 pb-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
             <div class="container  width-1080">
@@ -136,28 +136,34 @@
 
                 </table>
 
-            </div>
-            <h4 class='bordered-title mt-4'>STAKEHOLDER MAP</h4>
-        </section>
-        
-        <section class="container pb-4">
-            <img src="/rafael-maciel/assets/images/guia-ir/guiair_stakeholdermap.png">
+            </div>            
         </section>
 
-        <section class="container row space-evenly align-start">
-            <div class="col-3">
-                <h3 class='text-blue-9'>Clients</h3>
-                <p>Wants an easy and fast way to <br> fill their taxes form.</p>
-            </div>
-            <div class="col-3">
-                <h3 class='text-blue-9'>Call Center</h3>
-                <p>Wants to reduce the number of <br> clients calling for instructions.</p>
-            </div>
-            <div class="col-3">
-                <h3 class='text-blue-9'>Insurance Broker</h3>
-                <p>Wants to reduce the number of <br> clients asking for instructions.</p>
+        <section class="container py-4">
+            <h4 class='bordered-title mb-3'>STAKEHOLDER MAP</h4>
+            <img src="/rafael-maciel/assets/images/guia-ir/guiair_stakeholdermap.png">
+
+            <div class="container row space-evenly align-start width-1080 mt-3">
+                <div class="col-3">
+                    <h3 class='text-blue-9 mb-14'>Clients</h3>
+                    <p>Wants an easy and fast way to <br> fill their taxes form.</p>
+                </div>
+                <div class="col-3">
+                    <h3 class='text-blue-9 mb-14'>Call Center</h3>
+                    <p>Wants to reduce the number of <br> clients calling for instructions.</p>
+                </div>
+                <div class="col-3">
+                    <h3 class='text-blue-9 mb-14'>Insurance Broker</h3>
+                    <p>Wants to reduce the number of <br> clients asking for instructions.</p>
+                </div>
             </div>
         </section>
+
+        
+
+        <a name='principles' class='map-cases-menu'>
+            02 - Principles
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
@@ -186,154 +192,164 @@
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title'>KPIS</h4>
 
-            <div class="container row align-end">
-            <img src="../rafael-maciel/assets/images/guia-ir/Grupo 678.png" alt="">
-            <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
+            <div class="container row mt-3">
+                <img src="/rafael-maciel/assets/images/guia-ir/foguete.png" >
+                <h3 class='text-blue-9 gilroy-bold normal-title m-none'>
+                    How to measure success?
+                </h3>
             </div>
             
-            <div class="container row space-evenly align-start mt-2">
-                <div class="col-3">
+            <div class="container row space-center gap-lg align-stretch mt-2">
+                <div class="bg-white col-3 p-1">
                     <p>Reduce calls to the call center asking for help about filling the taxes form.</p>
                 </div>
-                <div class="col-3">
+                <div class="bg-white col-3 p-1">
                     <p>Save time to perform tasks (fill taxes form).</p>
                 </div>
             </div>
         </section>
 
-            <div class="container bg-grid pt-1 pb-4 mt-4">
-                <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                    03 <br>
-                    <small class='text-blue-9 argent-cf-bold'>Site Map</small>
-                </h2>
-                <div class="line-art"></div>
-            </div>
+        <a name='site-map' class='map-cases-menu'>
+            03 - Site Map
+        </a>
+        <section class="container bg-grid py-4">
+            <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
+                03 <br>
+                <small class='text-blue-9 argent-cf-bold'>Site Map</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
 
-            <div class="container bg-white mt-3">
-                <img src="../rafael-maciel/assets/images/guia-ir/guiair_sitemap.png" alt="">
+        <section class="container bg-white py-3 mx-1">
+            <div class="container width-1080">
+                <img src="/rafael-maciel/assets/images/guia-ir/guiair_sitemap.png" alt="">
 
-                <div class="col-8">
+                <div class="col-8 mt-2">
                     <p class="text-left">THREE STEP NAVIGATION</p>
-                    <p>To provide the right instructions according to the investments that users have, they need to follow a <br> three step navigation: <br>
-                        <br>
-                        1. Chooses the product that they have. <br>
-                        2. Check if they already have the needed documents or inform how to get them. <br>
-                        3. Chooses what kind of move they did during last year, which impacts on the instructions. <br>
-                        4. Finally access instructions. <br>
-                    </p>
-
+                    <p>To provide the right instructions according to the investments that users have, they need to follow a  three step navigation:  </p>
+                    <ol style='padding-left: 18px;'>
+                        <li>Chooses the product that they have.</li>
+                        <li>Check if they already have the needed documents or inform how to get them.</li>
+                        <li>Chooses what kind of move they did during last year, which impacts on the instructions.</li>
+                        <li>Finally access instructions.</li>
+                    </ol>
                 </div>
             </div>
+        </section>
 
-            <div class="container bg-grid pt-1 pb-4 mt-4">
-                <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                    04 <br>
-                    <small class='text-blue-9 argent-cf-bold'>User Interface</small>
-                </h2>
-                <div class="line-art"></div>
-            </div>
-            <div class="container pt-3 pb-4">
-                <h4 class='bordered-title'>MOBILE</h4>
+        <a name='user-interface' class='map-cases-menu'>
+            04 - User Interface
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-4">
+            <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
+                04 <br>
+                <small class='text-blue-9 argent-cf-bold'>User Interface</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
+
+        <section class="container pt-3 pb-4">
+            <h4 class='bordered-title'>MOBILE</h4>
+            <p class='mt-3'>Home - Investment product selection</p>
+            <div class="container gap-xl row align-center space-center">
+                <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui1.png" alt="">
+                <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui2.png" alt="">
             </div>
 
-            <div class="container gilroy-regular text-blue-4">
-                Home - Investment product selection
-            </div>
-
-            <div class="container row align-center  space-center">
-                <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui1.png" alt="">
-                <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui2.png" alt="">
-            </div>
-
-            <div class="container row align-center space-center text-center mt-4">
+            <div class="container gap-xl row align-center space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
-                    <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui3.png" alt="">
+                    <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui3.png" alt="">
                 </div>
                 <div>
                     <p>Filter to give right instructions</p>
-                    <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui4.png" alt="">
+                    <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui4.png" alt="">
                 </div>
                 <div>
                     <p>Instructions</p>
-                    <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui5.png" alt="">
+                    <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui5.png" alt="">
                 </div>
             </div>
 
-            <div class="container pt-3 pb-4">
-                <h4 class='bordered-title'>DESKTOP</h4>
-            </div>
+        </section>
 
-            <div class="container gilroy-regular text-blue-4">
-                Home - Investment product selection
-            </div>
-            <div class="container">
-                <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui6.png" alt="">
-            </div>
-            <div class="container row align-start space-center text-center mt-4">
+
+        <section class="container pt-3 pb-4">
+            <h4 class='bordered-title'>DESKTOP</h4>
+            
+            <p class="mt-3">Home - Investment product selection</p>
+            <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui6.png" alt="">
+            
+            <div class="container gap-xl row align-start space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
-                    <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui7.png" alt="">
+                    <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui7.png" alt="">
                 </div>
                 <div>
                     <p>Filter to give right instructions</p>
-                    <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui8.png" alt="">
+                    <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui8.png" alt="">
                 </div>
             </div>
-            <div class="container text-center mt-3">
-                <p>Instructions</p>
-                <img src="../rafael-maciel/assets/images/guia-ir/guiair_ui9.png" alt="">
-            </div>
-            <div class="container pt-3 pb-4 mt-4">
-                <h4 class='bordered-title'>STYLE GUIDE</h4>
-            </div>
-            <section  class="container pt-3 pb-4 bg-blue">
-                <div class="container width-1080 row space-evenly align-start mt-3 ">
-                    <div class="col-3">
-                        <nav class="style-guide">
-                            <header class='gilroy-bold text-white'>Colors</header>
-                            
-                            <ul class='gilroy-medium pl-none mt-1'> 
-                                <span class="text-white">interface color palette</span>
-                                <img src="/rafael-maciel/assets/images/guia-ir/Grupo 870.png">
-                            </ul>
 
-                            <header class='gilroy-bold text-white'>TYPOGRAPHY</header>
-                            <ul class='gilroy-medium pl-none mt-1'> 
-                                <img src="/rafael-maciel/assets/images/guia-ir/Grupo 871.png">
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-3">
-                        <nav class="style-guide">
-                            <header class='gilroy-bold text-white'>ELEMENTS</header>
-                            
-                            <ul class='gilroy-medium pl-none mt-1'> 
-                                <span class="text-white">Navigation Items</span>
-                                <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_botao.png">
-                            </ul>
-                            <ul class='gilroy-medium pl-none mt-1'> 
-                                <span class="text-white">OTHER</span>
-                                <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_ilustracao.png">
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-3">
-                        <nav class="style-guide">
-                            <header class='gilroy-bold text-white'>ICONS</header>
-                            <ul class='gilroy-medium pl-none mt-1'> 
-                                <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_icone.png">
-                            </ul>
+            <p class='mt-4'>Instructions</p>
+            <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui9.png" alt="">
+        </section>
 
-                        </nav>
-                    </div>
 
+        <div class="container pt-3 pb-4">
+            <h4 class='bordered-title'>STYLE GUIDE</h4>
+        </div>
+
+        <section  class="container pt-3 pb-4 bg-blue">
+            <div class="container width-1080 row space-evenly align-start mt-3 ">
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>Colors</header>
+                        
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <span class="text-white">interface color palette</span>
+                            <img src="/rafael-maciel/assets/images/guia-ir/paleta_cores.png">
+                        </ul>
+
+                        <header class='gilroy-bold text-white'>TYPOGRAPHY</header>
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <img src="/rafael-maciel/assets/images/guia-ir/fonts.png">
+                        </ul>
+                    </nav>
                 </div>
-            </section>
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>ELEMENTS</header>
+                        
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <span class="text-white">Navigation Items</span>
+                            <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_botao.png">
+                        </ul>
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <span class="text-white">OTHER</span>
+                            <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_ilustracao.png">
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>ICONS</header>
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <img src="/rafael-maciel/assets/images/guia-ir/guiair_sg_icone.png">
+                        </ul>
 
+                    </nav>
+                </div>
+
+            </div>
+        </section>
+
+        <a name='final-words' class='map-cases-menu'>
+            05 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                03 <br>
+                05 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
             </h2>
             <div class="line-art"></div>
@@ -345,6 +361,8 @@
                     The most remarkable learning with this project was that users do not always expect to be delighted by the aesthetics of the product. When the user's need is to quickly complete a certain task, which he does not like to do, the best way to satisfy him is to provide the shortest, simplest and fastest experience possible.                </div>
             </div>
         </section>
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
 
     </body>
 </html>
