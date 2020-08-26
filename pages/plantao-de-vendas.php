@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
+        <title>Plantão de vendas - Rafael Maciel</title>
 
         <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
