@@ -3,18 +3,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
+        <title>Jamiq dashboard - Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <div class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 SOCIAL MEDIA ANALYTICS DASHBOARD
             </div>
@@ -25,9 +22,9 @@
                 JamiQ is a social media analytics service and this project was a study of a dashboard interface.
             </div>
             <img src="/rafael-maciel/assets/images/jamiq/jamiq_hero.png" style="margin-bottom: -150px;">
-        </div>
+        </section>
 
-        <div class="container row space-evenly align-start">
+        <section class="container row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To create an UI based in a wireframe. This project was done during the Aela’s Master of Interface Design bootcamp.</p>
@@ -36,36 +33,40 @@
                 <h3 class='text-blue-9 gilroy-bold'>My role</h3>
                 <p>User Interface, Style Guide.</p>
             </div>
-        </div>
+        </section>
 
-
-        <div class="container bg-grid pt-1 pb-4 mt-2">
+        <a name='wireframe' class='map-cases-menu'>
+            01 - Wireframe
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Wireframe</small>
             </h2>
             <div class="line-art"></div>
-        </div>
+        </section>
 
-        <div class="container bg-white pt-2 pb-4">
+        <section class="container bg-white mx-1 pt-2 pb-4">
             <img src="/rafael-maciel/assets/images/jamiq/jamiq_wireframe.png">
-        </div>
+        </section>
 
-
-        <div class="container bg-grid pt-1 pb-4 mt-2">
+        <a name='user-interface' class='map-cases-menu'>
+            02 - User Interface
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Interface</small>
             </h2>
             <div class="line-art"></div>
-        </div>
+        </section>
 
 
-        <div class="container pb-4">
+        <section class="container pb-4">
             <img src="/rafael-maciel/assets/images/jamiq/jamiq_ui1.png">
-        </div>
+        </section>
 
-        <div class="container bg-white pt-2 pb-4">
+        <section class="container bg-white mx-1 pt-2 pb-4">
             <h4 class='bordered-title'>UI IMPROVEMENT</h4>
 
             <div class="container row space-evenly align-start mt-3">
@@ -97,9 +98,9 @@
                 </div>
 
             </div>
-        </div>
+        </section>
 
-        <div class="container pt-3 pb-4">
+        <section class="container pt-3 pb-4">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
 
             <div class="container width-1080 row space-evenly align-start mt-3">
@@ -169,23 +170,28 @@
 
             </div>
 
-        </div>
+        </section>
 
-        <div class="container bg-grid pt-1 pb-4 mt-2">
+        <a name='final-words' class='map-cases-menu'>
+            03 - Final Words
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
             </h2>
             <div class="line-art"></div>
-        </div>
+        </section>
 
-        <div class="container mt-3 pb-4">
+        <section class="container mt-3 pb-4">
             <div class="container width-1080 row space-center">
                 <div class="col-8">
                     The most interesting part of the project was learning how to keep so much information readable and light. I learned that the secret of a dashboard interface is great information architecture work to drive what elements should be grouped according to the user needs, and a correct use of white space to determine the relationship among different information. In a dashboard, more than other user interfaces, the colors are very functional and can determine the success of the project.
                 </div>
             </div>
-        </div>
+        </section>
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
 
     </body>
 </html>
