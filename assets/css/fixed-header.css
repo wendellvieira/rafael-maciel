@@ -50,8 +50,9 @@
     color: #A0A1AF;
     display: block;
     font-size: 12px;
+    padding: 7px 14px 8px 8px;
+    width: max-content;
     text-decoration: none;
-    padding: 7px 8px;
 }
 .cnt-items-nav {
     min-width: 160px;
