@@ -3,18 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
-
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <title>Learn INK - Rafael Maciel</title>
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 TATTOO BOOTCAMP
             </div>
@@ -39,65 +35,58 @@
             </div>
         </section>
 
-
+        <a name='meeting-the-user' class='map-cases-menu'>
+            01 - Meeting the user
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
             </h2>
             <div class="line-art"></div>
-        </section>
-
-        
+        </section>        
 
         <section class="container pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="container row space-evenly align-start gap-md pt-3" >        
-                <div class="col-2" style='padding-top: 15%;'>
-                    <h2 class='gilroy-regular text-blue-9 normal-title'>
-                        User<br>
-                        Needs
-                    </h2>
+            <div class="container width-1080 row space-evenly align-start gap-md pt-3 align-center" >        
+                <div class="col-2 gilroy-regular text-blue-9 normal-title ">                    
+                    User<br> Needs
                 </div>
                 <div class="col-8">
-                    <img class='col-12' src="/rafael-maciel/assets/images/learn-ink/learnink_grafico_user.png">
+                    <img src="/rafael-maciel/assets/images/learn-ink/learnink_grafico_user.png">
                 </div>
-                <div class="col-2 " style='padding-top: 15%;'>
+                <div class="col-2">
                     <img src="/rafael-maciel/assets/images/learn-ink/Grupo 10.png"><br/>
                 </div>
             </div>
 
-            <div class="container row gap-md small-title text-blue-9 align-start mt-14">
-                <div class="col-2 p-1 border-top-green">
+            <div class="grid width-1080 col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
+                <div class="col-3 text-normal border-top-green">
                     To develop a great technique before start tattooing <br> people.
                 </div>
-                <div class="col-2 p-1 border-top-green">
+                <div class="col-3 text-normal border-top-green">
                     To enhance hand drawing accuracy.
                 </div>
-                <div class="col-2 p-1 border-top-green">
+                <div class="col-3 text-normal border-top-green">
                     To understand how to deal <br> with people before getting real clients.
                 </div>
-                <div class="col-2 p-1 border-top-yellow">
+                <div class="col-3 text-normal border-top-yellow">
                     To improve my drawing to a <br> high level of skill.
                 </div>
-            </div>
-            <div class="container row gap-md small-title text-blue-9 align-start mt-14">
-                <div class="col-2 p-1 border-top-yellow">
+                <div class="col-3 text-normal border-top-yellow">
                     To understand business strategies for a tattooer.
                 </div>
-                <div class="col-2 p-1 border-top-yellow">
+                <div class="col-3 text-normal border-top-yellow">
                     To practice long session tattoos.
                 </div>
-                <div class="col-2 p-1 border-top-yellow">
+                <div class="col-3 text-normal border-top-yellow">
                     To get the right advices to becomeconfident about reproducing my drawings in real skin.
                 </div>
                     
-                </div>
             </div>
 
         </section>
-
 
         <section class="container bg-white pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
@@ -220,12 +209,10 @@
                     </tbody>
 
                 </table>
-
             </div>
-            <h4 class='bordered-title mt-4'>STAKEHOLDER MAP</h4>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='container mx-1 bg-white pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">STAKEHOLDER KEYS</h4>
 
             <div class="container width-1080">
@@ -233,8 +220,7 @@
                     <thead>
                         <tr>
                             <th class="col-6 text-left">
-                                Mentors <br>
-                                <br>
+                                <div class='normal-title text-white m-none'>Mentors</div>     
                                 Can't change mentoring schedule. <br> 
                                 Probably reserved a time in their agenda for the class.
                             </th>
@@ -243,19 +229,27 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="text-green text-left">
-                                <p>OPPORTUNITY</p>
-                                To give them some time flexibility when having more <br> than one mentor in the Learn INK team.
+                            <td class="text-green text-left bg-grey-0">
+                                <p class='gilroy-bold text-blue-9'>OPPORTUNITY</p>
+                                To give them some time flexibility when having more <br> 
+                                than one mentor in the Learn INK team.
                             </td>
-                            <td>To encourage the marketing team to share mentors <br> portfolios and image in social media and ads. It's a great <br> strategy for Learn INK and also for mentors.</td>
+                            <td class='bg-grey-0'>
+                                To encourage the marketing team to share mentors <br> 
+                                portfolios and image in social media and ads. It's a great <br> 
+                                strategy for Learn INK and also for mentors.
+                            </td>
                         </tr>
                     </tbody>
 
                 </table>
 
             </div>
-            <h4 class='bordered-title mt-4'>STAKEHOLDER MAP</h4>
         </section>
+
+        <a name='principles' class='map-cases-menu'>
+            02 - Principles
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
@@ -264,8 +258,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9'>
-            <div class="width-1080 py-4">
+        <section class='container bg-blue-9 mx-1'>
+            <div class="width-1080 py-4 col-8">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Learn INK prepares students to have <br>
@@ -281,23 +275,28 @@
                 </p>
             </div>
         </section>
-        <section class="container pt-3 pb-4">
-            <h4 class='bordered-title'>KPIS</h4>
 
-            <div class="container row align-end">
-            <img src="../rafael-maciel/assets/images/learn-ink/Grupo 678.png" alt="">
-            <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
-            </div>
-            
-            <div class="container row align-start mt-2">
-                <div class="col-6 mr-2">
-                    <p>Increase sales.</p>
+        <section class="bg-grey-1 mx-1 container pt-2 pb-4">
+            <h4 class="bordered-title">KPIS</h4>
+
+            <h2 class="gilroy-bold text-blue-9 normal-title my-2 container row">
+                <img src="/rafael-maciel/assets/images/icons/measure.png">
+                How to measure success?
+            </h2>
+
+            <div class="container row align-stretch space-center">
+                <div class="col-3 bg-white mr-1 p-1">
+                    Increase sales.
                 </div>
-                <div class="col-6 ml-2">
-                    <p> Increase conversion rate.</p>
+                <div class="col-3 bg-white p-1">
+                    Increase conversion rate.
                 </div>
             </div>
         </section>
+        
+        <a name='user-interface' class='map-cases-menu'>
+            03 - User Interface
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
@@ -305,6 +304,7 @@
             </h2>
             <div class="line-art"></div>
         </section>
+
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-3'>LANDING PAGE</h4>
             <img src="/rafael-maciel/assets/images/learn-ink/learnink_ui1.png">
@@ -319,13 +319,21 @@
                     </div>
                     <div class="col-3 ml-1 pt-2">
                         <p class='mt-none'>
-                            01. Value proposition is highlighted and it's in the fold. <br>
-                            All course proposition is placed at first, so users can early understand what LEARN INK can do for them.                        </p>
+                            <div class="gilroy-semibold-italic">
+                                01. Value proposition is highlighted and it's in the fold.
+                            </div>  
+                            All course proposition is placed at first, so users can early understand what LEARN INK can do for them.                        
+                        </p>
                         <p>
-                            02. Facilitator trigger <br>
-                            The call to action "Enroll Now" is at the beginning and at the end of the page, for users that have already decided to take the course and are visiting the website just to enroll.                        </p>
+                            <div class="gilroy-semibold-italic">
+                                02. Facilitator trigger 
+                            </div>
+                            The call to action "Enroll Now" is at the beginning and at the end of the page, for users that have already decided to take the course and are visiting the website just to enroll.                        
+                        </p>
                         <p>
-                            03. Key navigation path <br>
+                            <div class="gilroy-semibold-italic">
+                                03. Key navigation path 
+                            </div>
                             All content from "Learn what you need to know", "One on One", and "Our Mentors" is based in the user needs and is convincing them to click in the call to action at the end of the page.    
                         </p>
     
@@ -338,8 +346,6 @@
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
         <section style="background-color: #0A0A0A;" class="container pt-3 pb-4">
-            
-
             <div class="container width-1080 row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
@@ -397,6 +403,10 @@
             </div>
 
         </section>
+
+        <a name='final-words' class='map-cases-menu'>
+            04 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
@@ -414,7 +424,11 @@
                     3. Story with arguments to convince users that don't have decided yet; <br>
                     4. Call to action again for users that just decided. <br>
                     <br>
-                    And a curious fact is that tattoers said they don't deal well with people. Even the ones who are totally fine with their drawing skills are concerned if the client will be satisfied. The need of this soft skill was a great insight to work with them inside the bootcamp.            </div>
+                    And a curious fact is that tattoers said they don't deal well with people. Even the ones who are totally fine with their drawing skills are concerned if the client will be satisfied. The need of this soft skill was a great insight to work with them inside the bootcamp.            
+                </div>
         </section>
+
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
     </body>
 </html>

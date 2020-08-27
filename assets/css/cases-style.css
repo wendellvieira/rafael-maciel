@@ -145,6 +145,11 @@ img {
 }
 
 
+.gilroy-semibold-italic {
+    font-family: "Gilroy";
+    font-weight: 600;
+    font-style: italic;
+}
 .gilroy-light {
     font-family: "Gilroy";
     font-weight: 300;
