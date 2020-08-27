@@ -3,18 +3,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
+        <title>Luxury Cars - Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 ONLINE LUXURY CAR RENTING SERVICE
             </div>
@@ -39,15 +36,17 @@
             </div>
         </section>
 
-
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <a name='meeting-the-user' class='map-cases-menu'>
+            01 - Meeting the user
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class="container bg-white pt-2 pb-4 mt-2">
+        <section class="container bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
             <div class="container width-1080">
@@ -91,7 +90,7 @@
                             I must be protected for car collision, robbery or other extra costs.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -347px;" src="/rafael-maciel/assets/images/luxury-cars/Grupo 3.png">
+                            <img class='img-top' style="margin-top: -347px;" src="/rafael-maciel/assets/images/luxury-cars/persona.png">
                             I could receive the car at the place and time that I want.
                         </div>
 
@@ -110,11 +109,11 @@
         </section>
 
         <section class='container pt-4 pb-4 mt-2'> 
-            <h4 class="bordered-title">USER JOURNEY MAP</h4>
+            <h4 class="bordered-title mb-2">USER JOURNEY MAP</h4>
 
             <div class="container width-1080">
-                <img class="align-end"  style="margin-bottom: -140px" src="../rafael-maciel/assets/images/luxury-cars/Grupo 887.png" alt="">
-                <table class='table-1 mt-3'>
+                <img class="align-end table-car" src="/rafael-maciel/assets/images/luxury-cars/table-car.png">
+                <table class='table-1'>
                     <thead>
                         <tr>
                             <th>STAGES</th>
@@ -209,38 +208,57 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='container pt-4 pb-4 mt-2 bg-white mx-1'> 
             <h4 class="bordered-title">STAKEHOLDER KEYS</h4>
 
-            <div class="container width-1080">
-                <table class='table-1 mt-3'>
-                    <thead>
-                        <tr>
-                            <th class="col-4 text-left">
-                                Car Brands <br>
-                                <br>
-                                Luxury clients are their public target. Therefore Luxury Cars could work like a car test drive, considering that the user is able to pay a high cost to rent a car.
-                            </th>
-                            <th class='col-4'>Car Insurance Companies <br>
-                                <br>
-                                They want that Luxury Cars increase the number of cars protected by them.</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="text-green text-left">
-                                <p>OPPORTUNITY</p>
-                                Make a partnership for buying new cars or getting them fixed in exchange for promoting their brand experience.
-                            </td>
-                            <td>It's possible to deal good prices based in new car acquisitions. </td>
-                        </tr>
-                    </tbody>
-
-                </table>
+            <div class="container row gap-xl width-1080 align-start space-center">
+                <div class="col-5">
+                    <table class='table-1 mt-3'>
+                        <thead>
+                            <tr>
+                                <th class="fixed-height col-4 text-left">
+                                    <div class="normal-title text-white">Car Brands</div>
+                                    Luxury clients are their public target. Therefore Luxury Cars could work like a car test drive, considering that the user is able to pay a high cost to rent a car.
+                                </th>
+                             </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="fixed-height text-green text-left bg-grey-0">
+                                    <p class='gilroy-bold'>OPPORTUNITY</p>
+                                    Make a partnership for buying new cars or getting them fixed in exchange for promoting their brand experience.
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-5">
+                    <table class='table-1 mt-3'>
+                        <thead>
+                            <tr>
+                                <th class="fixed-height col-4 text-left">
+                                    <div class="normal-title text-white">Car Insurance Companies</div>
+                                    They want that Luxury Cars increase the number of cars protected by them.
+                                </th>
+                             </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="fixed-height text-green text-left bg-grey-0">
+                                    <p class='gilroy-bold'>OPPORTUNITY</p>
+                                    It's possible to deal good prices based in new car acquisitions. 
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
             </div>
-            <h4 class='bordered-title mt-4'>STAKEHOLDER MAP</h4>
         </section>
+
+        <a name='principles' class='map-cases-menu'>
+            02 - Principles
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
@@ -249,8 +267,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9'>
-            <div class="width-1080 py-4">
+        <section class='container bg-blue-9 mx-1'>
+            <div class="width-1080 py-4 col-8">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Luxury Cars offers the experience of going <br> anywhere with the best cars in the world.</h3>                
@@ -265,26 +283,32 @@
                 </p>
             </div>
         </section>
-        <section class="container pt-3 pb-4">
-            <h4 class='bordered-title'>KPIS</h4>
 
-            <div class="container row align-end">
-            <img src="../rafael-maciel/assets/images/luxury-cars/Grupo 678.png" alt="">
-            <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
-            </div>
-            
-            <div class="container row align-start mt-2">
-                <div class="col-4">
+        <section class="bg-grey-1 mx-1 container pt-2 pb-4">
+            <h4 class="bordered-title">KPIS</h4>
+
+            <h2 class="gilroy-bold text-blue-9 normal-title my-2 container row">
+                <img src="/rafael-maciel/assets/images/icons/measure.png">
+                How to measure success?
+            </h2>
+
+            <div class="container row gap-xl align-stretch space-center">
+                <div class="col-4 bg-white p-1">
                     <p>Increase number of car <br> rentals.</p>
                 </div>
-                <div class="col-4">
+                <div class="col-4 bg-white p-1">
                     <p>Increase conversion rate.</p>
                 </div>
-                <div class="col-4">
+                <div class="col-4 bg-white p-1">
                     <p>Reduce drop-out rate in the rental process.</p>
                 </div>
             </div>
         </section>
+
+      
+        <a name='site-map' class='map-cases-menu'>
+            03 - Site Map
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
@@ -292,32 +316,33 @@
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class="container pt-3 pb-4">
-            <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap1.png">
-        </section>
-        <section class="container pt-3 pb-4">
-            <div class="container bg-white pt-2 pb-4">
-    
-                <div class="container row space-evenly align-start mt-3">
-                    <div class="col-4">
-                        <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap2.png" >
-                    </div>
-                    <div class="col-3 ml-1 pt-2">
-                        <p class='mt-none'>
-                            MARKETING STRATEGY   
-                        </p>
-                        <p>
-                            All car pages will appear in search engine results. Considering this scenario, the user will start the flow at the car page and will fill the form to know if the car is available at the desired location, date and time. 
-                        </p>
-                        <p>
-                            If it's not, the website will show the car selection page saying that the car is not available for now, but with a new list with a similar model in the first place. For example: if you check if a Porsche Carrera is available, and it's not, the website will show other Porsche models first and then will show cars in the same category, in this example, Sport Cars.    
-                        </p>
-    
-                    </div>
-    
+
+        <section class="bg-white mx-1 container pt-3 pb-4">
+            <img class='width-1080 mt-4' src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap1.png">
+            <hr class='width-1080 my-4'>  
+            <div class="container width-1080 gap-xl row space-evenly align-start">
+                <div class="col-6">
+                    <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap2.png" >
                 </div>
+                <div class="col-3 pt-2">
+                    <p class='mt-none gilroy-bold'>
+                        MARKETING STRATEGY   
+                    </p>
+                    <p>
+                        All car pages will appear in search engine results. Considering this scenario, the user will start the flow at the car page and will fill the form to know if the car is available at the desired location, date and time. 
+                    </p>
+                    <p>
+                        If it's not, the website will show the car selection page saying that the car is not available for now, but with a new list with a similar model in the first place. For example: if you check if a Porsche Carrera is available, and it's not, the website will show other Porsche models first and then will show cars in the same category, in this example, Sport Cars.    
+                    </p>
+
+                </div>
+
             </div>
         </section>
+
+        <a name='user-interface' class='map-cases-menu'>
+            04 - User Interface
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
@@ -341,32 +366,33 @@
             <h4 class='bordered-title mb-3'>CHEKOUT</h4>
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui4_01.png">
         </section>
-        <section class="container pt-3 pb-4">
-            <div class="container bg-white pt-2 pb-4">
+        <section class="container bg-white pt-3 mx-1 pb-4">
+                
                 <h4 class='bordered-title mb-3'>IA AND STRATEGY</h4>
-                <div class="container row space-evenly align-start mt-3">
+                
+                <div class="container width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui5.png" >
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 pt-1">
                         <p>
-                            01. Key navigation path <br>
+                            <div class="gilroy-semibold-italic">01. Key navigation path </div>
                             The key navigation path, (location/date form), 
                             which is also the primary navigation, is the first 
                             element seen in the page, after the brand, and it 
                             has loud colors.
                         </p>
                         <p>
-                            02. Value proposition is highlighted and it's in the fold. <br>
+                            <div class="gilroy-semibold-italic">02. Value proposition is highlighted and it's in the fold. </div>
                             "Go everywhere with the best cars in the world".
                         </p>
                         <p>
-                            03. Secondary navigation <br>
+                            <div class="gilroy-semibold-italic">03. Secondary navigation </div>
                             Login, signup and My reservations were placed 
                             where users are used to see in websites.
                         </p>
                         <p>
-                            04. Secondary content  <br>
+                            <div class="gilroy-semibold-italic">04. Secondary content  </div>
                             It was applied with quiet colors and smaller 
                             elements to highlight the form and value 
                             proposition. 
@@ -375,18 +401,18 @@
                     </div>
     
                 </div>
-                <div class="container row space-evenly align-start mt-3">
+                <div class="container width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui6.png" >
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 pt-1">
                         <p>
-                            05. In car selection page the form becomes secondary navigation <br>
+                            <div class="gilroy-semibold-italic">05. In car selection page the form becomes secondary navigation </div>
                             To eliminate distractions and highlight the call to 
                             actions (green button - car choice).
                         </p>
                         <p>
-                            06. A little bit of delight <br>
+                            <div class="gilroy-semibold-italic">06. A little bit of delight </div>
                             A silhouette of the city chosen by the user is 
                             presented. The idea is to have illustrations for 
                             well known cities and apply a neutral city 
@@ -394,7 +420,7 @@
                             available.
                         </p>
                         <p>
-                            07. Car images <br>
+                            <div class="gilroy-semibold-italic">07. Car images </div>
                             To focus on the product, car images are big and 
                             placed in first field. After all, there aren't any 
                             arguments more powerful then these beautiful 
@@ -403,13 +429,13 @@
                     </div>
     
                 </div>
-                <div class="container row space-evenly align-start mt-3">
+                <div class="container width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui7.png" >
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 pt-1">
                         <p>
-                            08. Why was the dark UI chosen? <br>
+                            <div class="gilroy-semibold-italic">08. Why was the dark UI chosen? </div>
                             Besides the color palette reflecting luxury and a 
                             premium mood, it makes possible to apply lights 
                             and shadows to highlight the product.
@@ -417,12 +443,12 @@
                     </div>
     
                 </div>
-            </div>
+                
         </section>
         <section class="container pt-3 pb-2">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
-        <section style="background-color: #171F29;" class="container pt-3 pb-4">
+        <section style="background-color: #171F29;" class="container pt-3 pb-4 mx-1">
             
             <div class="container width-1080 row space-evenly align-start mt-3">
                 <div class="col-3">
@@ -463,7 +489,7 @@
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Navigation Items</span>
-                            <img src="/rafael-maciel/assets/images/luxury-cars/Grupo 881.png">
+                            <img src="/rafael-maciel/assets/images/luxury-cars/nav-items.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sg_searchbar.png">
@@ -478,7 +504,7 @@
                         <header class='gilroy-bold text-white'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/rafael-maciel/assets/images/luxury-cars/Grupo 880.png">
+                            <img src="/rafael-maciel/assets/images/luxury-cars/icones.png">
                         </ul>
                         
 
@@ -488,6 +514,10 @@
             </div>
 
         </section>
+
+        <a name='final-words' class='map-cases-menu'>
+            05 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
@@ -508,5 +538,8 @@
                     and it was a great learning putting it into practice.
                 </div>
         </section>
+
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
     </body>
 </html>

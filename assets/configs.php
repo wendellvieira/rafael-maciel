@@ -54,3 +54,20 @@
             "title" => "Nespresso"
         ]
     ];
+
+
+// Plantão de Vendas => OK
+// Guia IR => OK
+// JamiQ Dashboard => OK
+// University of Virgini => OK
+// Learn INK => OK
+// Alexandre Bispo => OK
+// Luxury Cars => OK
+// Rick Riordan => 28/08
+// XPorts => 28/08
+// School Car => 28/08
+// Pig => 29/08
+// Wikipedia => 29/08  
+// Nespresso => 29/08
+
+// Responsivo => 31-02/09
