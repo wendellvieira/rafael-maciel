@@ -3,16 +3,13 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
+        <title>Rick Riordan - Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
         <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
@@ -39,10 +36,10 @@
         </section>
 
 
-        <section class='container pt-2 pb-4'>
+        <section class='container pt-2 pb-4 bg-grey-1 mt-4 mx-1'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-regular text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
@@ -54,6 +51,9 @@
             </div>
         </section>
         
+        <a name='meeting-the-user' class='map-cases-menu'>
+            01 - Meeting the user
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
@@ -62,7 +62,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container bg-white pt-2 pb-4 mt-2">
+        <section class="container bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
             <div class="container width-1080 ">
@@ -141,9 +141,12 @@
             </div>
         </section>
 
+        <a name='user-interface' class='map-cases-menu'>
+            02 - User Interface
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                03 <br>
+                02 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Interface</small>
             </h2>
             <div class="line-art"></div>
@@ -182,7 +185,7 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-4">
+        <section class="container pt-2 bg-white mx-1 pb-4">
             <h4 class="bordered-title">IA AND STRATEGY</h4>
 
             <div class="container width-1080 row space-between align-start py-3">
@@ -222,8 +225,10 @@
         
         <section class='container pt-3 pb-4'>
             <h4 class="bordered-title">STYLE GUIDE</h4>
+        </section>
 
-            <div class="container width-1080 row space-evenly align-start p-3 mt-3" style="background-color:#191E22">
+        <section class='container pt-3 pb-4 mx-1' style="background-color:#191E22">
+            <div class="container width-1080 row space-evenly align-start mt-3" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -267,15 +272,18 @@
 
         </section>
         
+        <a name='final-words' class='map-cases-menu'>
+            03 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                04 <br>
+                03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small> 
             </h2>
             <div class="line-art"></div>
         </section>
         
-        <section class="container mt-3 pb-4">
+        <section class="container pb-4">
             <img src="/rafael-maciel/assets/images/rick-riordan/espada.png" class="col-12 pb-3">
             <div class="container width-1080 row space-center">
                 <div class="col-8">
@@ -285,5 +293,7 @@
                 </div>
             </div>
         </section>
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
     </body>
 </html>
