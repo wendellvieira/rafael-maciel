@@ -3,18 +3,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Rafael Maciel</title>
+        <title>XPorts - Rafael Maciel</title>
 
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
-        <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">
+        <?php require_once __DIR__ . "/../fragments/cases-includes.php"; ?>
 
     </head>
     <body>
-        <h1 class='small-title my-1'>RAFAEL MACIEL</h1>
+        <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 STREAMING PLATFORM
             </div>
@@ -42,38 +39,100 @@
                     Interface, Style Guide.</p>
             </div>
         </section>
-        <section class="container row space-evenly align-start mt-3">
-            <div class="col-4 align-start ml-1 pt-2">
-                <p class='normal-title gilroy-bold'>
-                    Hacking Rio  
-                </p>
-                <p>
-                This project was developed during Hacking Rio 2019.
-                Hacking Rio is the biggest Hackathon of Latin America. 
-                More than 500 hackers were there, creating solutions for 
-                education, gas, insurance, cybersecurity, energy etc. I was in 
-                the sport cluster and the main sponsor was Flamengo, a well 
-                know soccer team from Brazil. My team was 4 developers of 
-                UFF University and me.</p>
-            </div>
-            <div class="col-7 row align-end mt-4 text-right">
-                <img src="/rafael-maciel/assets/images/xports/Grupo 728.png" >
-                <p class="text-right small-title">Iago Agualuza, Mauricio Leonardo, me, Ronald Maymone and Jorge Stief.</p>
+
+
+        <section class="container mt-3">
+            <div class="container row space-evenly width-1080">
+                <div class="col-4 align-start ml-1 pt-2">
+                    <p class='normal-title gilroy-bold'>
+                        Hacking Rio  
+                    </p>
+                    <p>
+                    This project was developed during Hacking Rio 2019.
+                    Hacking Rio is the biggest Hackathon of Latin America. 
+                    More than 500 hackers were there, creating solutions for 
+                    education, gas, insurance, cybersecurity, energy etc. I was in 
+                    the sport cluster and the main sponsor was Flamengo, a well 
+                    know soccer team from Brazil. My team was 4 developers of 
+                    UFF University and me.</p>
+                </div>
+                <div class="col-7 row align-end mt-4 text-right">
+                    <img src="/rafael-maciel/assets/images/xports/imagem_728.png" >
+                    <p class="text-right small-title">Iago Agualuza, Mauricio Leonardo, me, Ronald Maymone and Jorge Stief.</p>
+                </div>
             </div>
         </section>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+
+        <a name='discover' class='map-cases-menu'>
+            01 - Discover
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Discover</small>
             </h2>
             <div class="line-art"></div>
         </section>
+        
         <section class="container pt-2 pb-4">
             <h4 class="bordered-title">EARLY RESEARCH</h4>
 
-            <p>Ha fazer</p>
+            <div class="col-8 mt-2">
+                Flamengo has more than 42 million of fans. But the local stadium, Maracanã, has the capacity for 90 thousand. 
+                Without tickets for all the fans, the only way to watch the game is on the television. So, we asked fans about the feeling of being at the stadium in order to develop a better experience of watching a soccer game at home.
+            </div>
+
+            <div class="container col-8 row space-evenly align-start gap-md pt-3">        
+                <div class="col-4" style="padding-top: 15%;">
+                    <h2 class="gilroy-regular text-blue-9 normal-title">
+                        “The emotion of being in the stadium, with all the crowd is unique”.
+                    </h2>
+                </div>
+                <div class="col-3">
+                    <img class="col-12" src="/rafael-maciel/assets/images/xports/xports_grafico.png">
+                    <div class="text-normal border-top-green">
+                    76% of fans answered that the emotion is the core difference between being at the stadium versus watching on TV.
+                    </div>
+                </div>
+                <div class="col-2 text-center" style="padding-top: 15%;">
+                    <img src="/rafael-maciel/assets/images/university-of-virginia/survey_monkey_brand.png"><br>
+                    <span class="small-title">Survey Monkey</span>
+                </div>
+            </div>
+
+            <div class='gilroy-bold col-10 mb-2 mt-4 text-center' style='font-size: 20px;'>            
+                Besides few emotion, we've asked fans what are the issues of watching the game on TV.
+            </div>
+
+            <div class="grid col-8 col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
+                <div class="col-4 text-normal border-top-green">
+                    The game broadcast often starts 10 minutes before the game. Why not having a pre-show?
+                </div>
+                <div class="col-4 text-normal border-top-green">
+                    Some narrators are boring.
+                </div>
+                <div class="col-4 text-normal border-top-green ">
+                    I think some narrators are not cheering for my team. 
+                </div>
+
+                <div class="col-4 text-normal border-top-green ">
+                    When a player is hurt I never remember who are the substitutes and get nervous until the narrator says it.
+                </div>
+                <div class="col-4 text-normal border-top-green">
+                    Sometimes the replay or close filming are disturbing. I hate to miss the game.
+                </div>
+                <div class="col-4 text-normal border-top-green">
+                    You can't interact with anyone, so I go to social networks after the games.
+                </div>                
+            </div>
 
         </section>
+
+
+
+        <a name='define' class='map-cases-menu'>
+            02 - Define
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
@@ -82,7 +141,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9'>
+        <section class='container bg-blue-9 mx-1'>
             <div class="width-1080 py-4">
                 <p>
                     <small class='text-blue-1'>PROBLEM</small>
@@ -90,26 +149,30 @@
                 </p>
             </div>
         </section>
-        <section class="container text-center">
-            <div>
-                <h2 class="mr-3">Providing an immersive experience.</h2>
-                <img class="ml-4" src="../rafael-maciel/assets/images/xports/xports_stadium.png" alt="">
-            </div>
-        </section>
-        <section class="container">
-            <div class="container width-1080 space-center mt-2 mb-3">
-                <p>Flamengo's fans will be able to watch the game on their favorite device, choosing cameras and audio from all around the
+
+        <section class="container text-center bg-white mx-1">
+            <div class="container width-1080">
+                <h2 class="mt-3 gilroy-bold normal-title">Providing an immersive experience.</h2>
+                <img class="mt-2 ml-4" src="/rafael-maciel/assets/images/xports/xports_stadium.png">
+                
+                <p class='col-8 my-3'>
+                    Flamengo's fans will be able to watch the game on their favorite device, choosing cameras and audio from all around the
                     stadium, choosing the desired stadium seat and controlling the volume between narrator and crowd. With VR support, they'll
-                    be able to watch the game in 360 and have a truly emotional experience.</p>
-                <img class="ml-4 mt-3" src="../rafael-maciel/assets/images/xports/xports_vr.png" alt="">
+                    be able to watch the game in 360 and have a truly emotional experience.
+                </p>
+
+                <img class="ml-4" src="/rafael-maciel/assets/images/xports/xports_vr.png">
+
             </div>
+            
         </section>
-        <section class="container pt-2 pb-4">
+
+        <section class="container pt-4 pb-4">
             <h4 class="bordered-title">HOW</h4>
 
             <div class="container width-1080 row space-between align-center pt-3">
                 <div class="col-6 ml-3">
-                    <img src="/rafael-maciel/assets/images/xports/Grupo 888.png" alt="">
+                    <img src="/rafael-maciel/assets/images/xports/imagem_888.png">
                     <p>An option for the game broadcast is to invest in a <br>
                         product like LiveU. For example, the LU600 HEVC <br>
                         portable transmission unit offers a 4K broadcast <br>
@@ -123,7 +186,7 @@
 
                 </div>
                 <div class="col-6 ml-3">
-                    <img src="/rafael-maciel/assets/images/xports/Grupo 889.png" alt="">
+                    <img src="/rafael-maciel/assets/images/xports/imagem_889.png">
                     <p>An option for the 360 sound experience for live <br>
                         broadcast is to invest in a product like Insoudz. <br>
                         They're will also offer a streaming video <br>
@@ -135,42 +198,41 @@
                     </p>
             </div>
         </section>
-        <section class="container">
+
+        <section class="container bg-white mx-1 py-2">
             <h4 class="bordered-title">OPPORTUNITY</h4>
             <div class="container width-1080 space-center text-left mt-3">
                 <p>Habits are changing. <br>
                     In 2019, total internet consumption exceeded TV consumption for the first time.</p>
-                <img class="ml-4 mt-3" src="../rafael-maciel/assets/images/xports/xports_grafico_tvxinternet.png" alt="">
+                <img class="ml-4 mt-3" src="/rafael-maciel/assets/images/xports/xports_grafico_tvxinternet.png">
             </div>
         </section>
-        <section class="container pt-3 pb-4 mt-4">
+
+        <section class="container bg-grey-1 mx-1 pt-3 pb-4 mt-4">
             <h4 class='bordered-title'>KPIS</h4>
 
             <div class="container row align-end">
-            <img src="../rafael-maciel/assets/images/xports/Grupo 678.png" alt="">
-            <h3 class='text-blue-9 mt-3'>How to measure success?</h3>
+            <img src="/rafael-maciel/assets/images/icons/measure.png">
+            <h3 class='text-blue-9 mt-3 gilroy-bold'>How to measure success?</h3>
             </div>
             
-            <div class="container row align-start mt-2">
-                <div class="col-6">
+            <div class="container row align-stretch gap-xl mt-2">
+                <div class="col-6 bg-white p-1">
                     <p>Increase the number of subscribers.</p>
                 </div>
-                <div class="col-6">
+                <div class="col-6 bg-white p-1">
                     <p>Increase customer retention.</p>
                 </div>
             </div>
         </section>
-        <section class="container pb-4">
-            <img src="/rafael-maciel/assets/images/xports/xports_stakeholdermap.png">
-        </section>
 
-        <section class="container row space-evenly align-start">
-            <div>
-                <h3 class='text-blue-9'>Besides an immersive experience, our goal is to be user centered.</h3>
-            </div>
-          
+        <section class="container mt-4">
+            <h4 class='bordered-title mb-3'>STAKEHOLDER MAP</h4>
+            <img src="/rafael-maciel/assets/images/xports/xports_stakeholdermap.png">
+            <h3 class='text-blue-9 gilroy-bold mt-4'>Besides an immersive experience, our goal is to be user centered.</h3>
         </section>
-        <section class="container bg-white pt-2 pb-4 mt-2">
+   
+        <section class="container bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
             <div class="container width-1080">
@@ -230,6 +292,7 @@
 
             </div>
         </section>
+
         <section class='container pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
@@ -292,6 +355,10 @@
 
             </div>
         </section>
+
+        <a name='develop' class='map-cases-menu'>
+            03 - Develop
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
@@ -299,95 +366,134 @@
             </h2>
             <div class="line-art"></div>
         </section>
+
         <div class="container pt-3 pb-4">
             <h4 class='bordered-title'>STORYBOARD</h4>
+
+            <div class="width-1080 grid gap-md mt-2">
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard1.png">
+                    <p><b>1.</b> Raul is used to go to Flamengo’s games often, to feel the unique emotion of cheering with the biggest soccer team crowd in Brazil.</p>
+                </div>
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard2.png">
+                    <p><b>2.</b> There are a few games left to the end of the championship and Raul was planning to buy game tickets, until he realized that the tickets are sold out, and he discovered this is happening a lot.</p>
+                </div>
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard3.png">
+                    <p><b>3.</b> He looked for alternatives, like pay per view services, but he always says that “nothing is compared” to feel the emotion of being at the stadium.</p>
+                </div>
+
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard4.png">
+                    <p><b>4.</b> He found out about Xports and gave it a try. He signed up in Xports website and bought a VR glass.</p>
+                </div>
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard5.png">
+                    <p><b>5.</b> He just said “I can’t explain. It’s like being inside the stadium from my couch. It just took me to Maracanã, unbelievable!”</p>
+                </div>
+                <div class="bg-white elevated-2 p-1 col-4">
+                    <img src="/rafael-maciel/assets/images/xports/xports_storyboard6.png">
+                    <p><b>6.</b> Nowadays, Raul and thousand of Flamengo’s fans that lives far away from the stadium are watching games in Xports.</p>
+                </div>
+            
+            </div>
         </div>
 
-        
-        <section class="container pt-3 pb-4">
+        <section class="container bg-white mx-1 pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – SITE MAP</h4>
             <img src="/rafael-maciel/assets/images/xports/xports_sitemap.png">
         </section>
+
         <section class="container pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – WIREFRAME</h4>
-        </section>
-        <section class="container">
-            <div class="col-7 ml-2">
-                <h3 class="text-left normal-title">Navigation</h3>
-                <p class="container col-12">The main state of the application will be a full screen, with nothing besides game screen, score and time. 
-                Since user move the mouse, tap or hit the smart tv controls, the main menu, camera and volume control will show up.
+
+            <div class="col-7">
+                <h3 class="text-left normal-title mb-14 text-blue-9">Navigation</h3>
+                <p class="container col-12 mt-14">The main state of the application will be a full screen, with nothing besides game screen, score and time. 
+                    Since user move the mouse, tap or hit the smart tv controls, the main menu, camera and volume control will show up.
                 </p>
-                <p class="small-title">Activated main menu after click or tap.</p>
-            </div>
-            
-            <img src="/rafael-maciel/assets/images/xports/xports_wireframe1.png">
-            <div class="col-7 ml-2">
-                <p>Menu items – based on user needs: <br>
+                <p class="small-title mt-2">Activated main menu after click or tap.</p>
+                <img src="/rafael-maciel/assets/images/xports/xports_wireframe1.png">
+                <p>
+                    Menu items – based on user needs: <br>
                     1. Watch Live (home). <br>
                     2. Match Statistics. <br>
                     3. Replay. <br>
                     4. Championship Standings. <br>
-                    5. Chat.</p>
-            </div>
-        </section>
-        <section class="container mt-2">
-            <div class="col-7 ml-2">
-                <h3 class="text-left normal-title">Focus on the game</h3>
-                <p class="container col-12">When user access a menu item, the information shows up on the screen, covering the minimum space possible.
+                    5. Chat.
                 </p>
-                <p class="small-title">Activated menu and match statistics</p>
+
             </div>
             
-            <img src="/rafael-maciel/assets/images/xports/xports_wireframe2.png">
+            <div class="col-7 mt-2">
+                <h3 class="text-left normal-title mb-14 text-blue-9">Focus on the game</h3>
+                <p class="container col-12 mt-14">When user access a menu item, the information shows up on the screen, covering the minimum space possible.</p>
+                <p class="small-title mt-2">Activated menu and match statistics</p>
+                <img src="/rafael-maciel/assets/images/xports/xports_wireframe2.png">
+            </div>
+            
         </section>
+
+        <a name='deliver' class='map-cases-menu'>
+            04 - Deliver
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
-                03 <br>
+                04 <br>
                 <small class='text-blue-9 argent-cf-bold'>Deliver</small>
             </h2>
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="container pb-4 mt-2">
             <h4 class="bordered-title mt-4">LIVE</h4>
-            <div class="container py-3">
-                <h5 class="text-center">Activated menu screen (on mouse move or tap)</h5>
-                <img src="/rafael-maciel/assets/images/xports/Grupo 417.png">
+            <div class="container mt-3">
+                <div class="text-center">Activated menu screen (on mouse move or tap)</div>
+                <img src="/rafael-maciel/assets/images/xports/imagem_417.png">
             </div>
-            <h4 class="bordered-title">STATISTICS</h4>
-            <div class="container pb-3">
+
+            <h4 class="bordered-title mt-4">STATISTICS</h4>
+            <div class="container mt-2">
                 <img src="/rafael-maciel/assets/images/xports/xports_ui2.png">
             </div>
+
             <h4 class="bordered-title mt-4">REPLAY</h4>
-            <div class="container pb-3">
-                <h5 class="text-center">Video and image share</h5>
-                <img src="/rafael-maciel/assets/images/xports/Grupo 423.png">
+            <div class="container mt-2">
+                <div class="text-center">Video and image share</div>
+                <img src="/rafael-maciel/assets/images/xports/imagem_423.png">
             </div>
+
             <h4 class="bordered-title mt-4">STANDINGS</h4>
-            <div class="container mt-4">
-                <img src="/rafael-maciel/assets/images/xports/Grupo 420.png">
+            <div class="container mt-2">
+                <img src="/rafael-maciel/assets/images/xports/imagem_420.png">
             </div>
+
             <h4 class="bordered-title mt-4">CHAT</h4>
-            <div class="container mt-4">
-                <img src="/rafael-maciel/assets/images/xports/Grupo 421.png">
+            <div class="container mt-2">
+                <img src="/rafael-maciel/assets/images/xports/imagem_421.png">
             </div>
+
             <h4 class="bordered-title mt-4">COMPLETE EXPERIENCE</h4>
-            <div class="container mt-4">
-                <h5 class="text-center">Pre-match experience</h5>
-                <img src="/rafael-maciel/assets/images/xports/Grupo 425.png">
+            <div class="container mt-2">
+                <div class="text-center">Pre-match experience</div>
+                <img src="/rafael-maciel/assets/images/xports/imagem_425.png">
             </div>
+
             <div class="container mt-4">
-                <h5 class="text-center">Half-time break</h5>
-                <img src="/rafael-maciel/assets/images/xports/Grupo 426.png">
+                <div class="text-center">Half-time break</div>
+                <img src="/rafael-maciel/assets/images/xports/imagem_426.png">
             </div>
+            
             <div class="container">
-                <h5 class="text-center mt-4">Finished match</h5>
-                <img src="/rafael-maciel/assets/images/xports/Grupo 890.png">
+                <div class="text-center mt-4">Finished match</div>
+                <img src="/rafael-maciel/assets/images/xports/imagem_890.png">
             </div>
         </section>
         <section class="container pt-3 pb-2">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
+
         <section style="background-color: black;" class="container pt-3 pb-4">
             
             <div class="container width-1080 row space-evenly align-start mt-3">
@@ -405,7 +511,7 @@
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">OTHER</span>
-                            <img src="/rafael-maciel/assets/images/xports/Grupo 891.png">
+                            <img src="/rafael-maciel/assets/images/xports/imagem_891.png">
                             <img class="mt-1" src="/rafael-maciel/assets/images/xports/xports_sg_chat.png">
                         </ul>
                         
@@ -417,11 +523,11 @@
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Form Items</span>
-                            <img src="/rafael-maciel/assets/images/xports/Grupo 893.png">
+                            <img src="/rafael-maciel/assets/images/xports/imagem_893.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <span class="text-white">Navigation Items</span>
-                            <img src="/rafael-maciel/assets/images/xports/Grupo 892.png">
+                            <img src="/rafael-maciel/assets/images/xports/imagem_892.png">
                         </ul>
                         <ul class='gilroy-medium pl-none mt-1'> 
                             <img src="/rafael-maciel/assets/images/xports/xports_sg_playertimeline.png">
@@ -436,7 +542,7 @@
                         <header class='gilroy-bold text-white'>ICONS</header>
                         
                         <ul class='gilroy-medium pl-none mt-1'> 
-                            <img src="/rafael-maciel/assets/images/xports/Grupo 428.png">
+                            <img src="/rafael-maciel/assets/images/xports/imagem_428.png">
                         </ul> 
 
                     </nav>
@@ -447,6 +553,10 @@
             </div>
 
         </section>
+
+        <a name='final-words' class='map-cases-menu'>
+            05 - Final Words
+        </a>
         <section class="container bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
@@ -469,5 +579,7 @@
                     will be ready so quickly and it will end up happening. It is a very rewarding experience.
                 </div>
         </section>
+
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
     </body>
 </html>

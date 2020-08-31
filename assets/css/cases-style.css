@@ -20,6 +20,14 @@ img {
     color: var(--blue-4);
 }
 
+b {
+    font-family: "Gilroy";
+    font-weight: bold;
+}
+
+.elevated-2 {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 10%);
+}
 .elevated-5 {
     border-radius: 37px;
     box-shadow: 0px 20px 38px rgba(0, 0, 0, 16%);
@@ -262,6 +270,7 @@ img {
 .grid > .col-11,
 .grid > .col-12 {
     width: 100%;
+    box-sizing: border-box;
 }
 
 .grid > .col-1 { grid-column: span 1; }
