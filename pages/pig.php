@@ -323,6 +323,7 @@
             </div>
         </section>
 
-    
+        <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
+
     </body>
 </html>
