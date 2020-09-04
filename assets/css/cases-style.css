@@ -1,12 +1,13 @@
 body {
-    background-color: var(--grey-1);
+    background-color: var(--grey-0);
     margin: 0;
     padding: 1px 0;
 }
 
 hr {
-    border: 1px solid var(--blue-1);
+    border-top: 1px solid var(--blue-1);
     opacity: .5;
+    width: 100%;
 }
 img {
     max-width: 100%;
@@ -18,6 +19,30 @@ img {
     letter-spacing: .45px;
     color: var(--blue-4);
 }
+
+b {
+    font-family: "Gilroy";
+    font-weight: bold;
+}
+
+.elevated-2 {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 10%);
+}
+.elevated-5 {
+    border-radius: 37px;
+    box-shadow: 0px 20px 38px rgba(0, 0, 0, 16%);
+}
+
+.text-normal {
+    font-size: 15px;
+}
+.text-big {
+    font-size: 20px;
+}
+.text-disabled {
+    color: #BEBEBE;
+}
+
 
 .small-title {
     font-size: 12px;
@@ -32,16 +57,33 @@ img {
     font-size: 75px;
 }
 
-.border-top-gray{
-    border-top: #e0e0e0 2px solid;
+.border-top-gray::before,
+.border-top-green::before,
+.border-top-yellow::before,
+.border-top-red:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    border-radius: 2px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 16%);
+    margin-bottom: 16px;
 }
 
-.border-top-green{
-    border-top: #02be6f 2px solid;
+
+.border-top-red::before {
+    background-color: #D51057;
+}
+.border-top-gray::before {
+    background-color: #e0e0e0;
 }
 
-.border-top-yellow{
-    border-top: #f8bd00 2px solid;
+.border-top-green::before {
+    background-color: #02be6f;
+}
+
+.border-top-yellow::before {
+    background-color: #f8bd00;
 }
 
 .bordered-title {
@@ -59,14 +101,7 @@ img {
     width: 1080px;
 }
 
-.block {
-    display: block;
-}
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+
 
 .bg-blue-1 {
     background-color: var(--blue-1);
@@ -77,8 +112,14 @@ img {
 .bg-blue-9 {
     background-color: var(--blue-9);
 }
+.bg-grey-0 {
+    background-color: var(--grey-0);
+}
 .bg-grey-1 {
     background-color: var(--grey-1);
+}
+.bg-grey-2 {
+    background-color: var(--grey-2);
 }
 .bg-grey-3 {
     background-color: var(--grey-3);
@@ -89,8 +130,11 @@ img {
 .bg-blue {
     background: #426DA9;
 }
+.bg-red {
+    background: #D51057;
+}
 .bg-grid {
-    background-image: url("/assets/images/general/aberturasecao_bg.png");
+    background-image: url("/rafael-maciel/assets/images/general/aberturasecao_bg.png");
 }
 
 .text-blue-1 {
@@ -102,8 +146,14 @@ img {
 .text-blue-9 {
     color: var(--blue-9);
 }
+.text-grey-0 {
+    color: var(--grey-0);
+}
 .text-grey-1 {
     color: var(--grey-1);
+}
+.text-grey-2 {
+    color: var(--grey-2);
 }
 .text-grey-3 {
     color: var(--grey-3);
@@ -114,8 +164,16 @@ img {
 .text-green {
     color: #315D31;
 }
+.text-red {
+    color: #D51057;
+}
 
 
+.gilroy-semibold-italic {
+    font-family: "Gilroy";
+    font-weight: 600;
+    font-style: italic;
+}
 .gilroy-light {
     font-family: "Gilroy";
     font-weight: 300;
@@ -166,7 +224,22 @@ img {
 }
 
 
+.grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
 
+.block {
+    display: block;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrap {
+    flex-wrap: wrap;
+}
 .row {
     flex-direction: row;
 }
@@ -199,6 +272,35 @@ img {
 }
 
 
+.grid > .col-1,
+.grid > .col-2,
+.grid > .col-3,
+.grid > .col-4,
+.grid > .col-5,
+.grid > .col-6,
+.grid > .col-7,
+.grid > .col-8,
+.grid > .col-9,
+.grid > .col-10,
+.grid > .col-11,
+.grid > .col-12 {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.grid > .col-1 { grid-column: span 1; }
+.grid > .col-2 { grid-column: span 2; }
+.grid > .col-3 { grid-column: span 3; }
+.grid > .col-4 { grid-column: span 4; }
+.grid > .col-5 { grid-column: span 5; }
+.grid > .col-6 { grid-column: span 6; }
+.grid > .col-7 { grid-column: span 7; }
+.grid > .col-8 { grid-column: span 8; }
+.grid > .col-9 { grid-column: span 9; }
+.grid > .col-10 { grid-column: span 10; }
+.grid > .col-11 { grid-column: span 11; }
+.grid > .col-12 { grid-column: span 12; }
+
 .col-1 { width: 8.34%;}
 .col-2 { width: 16.67%;}
 .col-3 { width: 25%;}
@@ -214,7 +316,7 @@ img {
 
 
 .line-art {
-    background-image: url("/assets/images/general/aberturasecao_sep.png");
+    background-image: url("/rafael-maciel/assets/images/general/aberturasecao_sep.png");
     width: 96px;
     height: 11px;
     background-repeat: no-repeat;
@@ -272,6 +374,34 @@ img {
 }
 
 
+.cnt-icon {
+    width: 42px;
+    height: 42px;
+    background-color: var(--grey-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navigate-icon {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    text-decoration: none;
+}
+.disable-icon-navigate {
+    opacity: 0.6;
+}
+.table-car {
+    position: relative;
+    margin-bottom: -42px;
+}
+.fixed-height {
+    height: 160px;
+    box-sizing: border-box;
+}
+
+
+
 .m-none { margin: var(--size-none); }
 .mx-none { margin-left: var(--size-none); margin-right: var(--size-none); }
 .my-none { margin-top: var(--size-none); margin-bottom: var(--size-none); }
@@ -292,6 +422,18 @@ img {
 .gap-md { gap: 12px; }
 .gap-lg { gap: 24px; }
 .gap-xl { gap: 32px; }
+
+.row-gap-xs { row-gap: 4px; }
+.row-gap-sm { row-gap: 8px; }
+.row-gap-md { row-gap: 12px; }
+.row-gap-lg { row-gap: 24px; }
+.row-gap-xl { row-gap: 32px; }
+
+.col-gap-xs { column-gap: 4px; }
+.col-gap-sm { column-gap: 8px; }
+.col-gap-md { column-gap: 12px; }
+.col-gap-lg { column-gap: 24px; }
+.col-gap-xl { column-gap: 32px; }
 
 
 

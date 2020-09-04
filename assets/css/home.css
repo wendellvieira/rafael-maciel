@@ -5,7 +5,7 @@ body, html {
 }
 
 body {
-    background: url("/assets/images/home/bg-pattern.png");
+    background: url("../images/home/bg-pattern.png");
 }
 * {
     box-sizing: border-box;
@@ -160,50 +160,10 @@ header.home .text {
     padding: 7px 0;
 }
 
-
-
-
-.cnt-items * {
-    text-decoration: none;
-}
-
-#open_menu:checked + .cnt-items {
-    height: 100vh;
-}
-
-.cnt-items {
-    height: 0px;
-    background-color: #071636;
-    overflow: hidden;
-    position: relative;
-}
-.main-menu {
-    width: 391px;
-    position: fixed;
-    z-index: 10;
-    right: 15px; 
-}
 .btn-open-menu {
-    position: absolute;
-    opacity: 0.7;
-    top: -35px;
-    right: 4px;
-    cursor: pointer;
-}
-.cnt-items-menu {
-    height: 100vh;
-    overflow: auto;
+    background-color: rgba(255, 255, 255, 29%) !important;
 }
 
-.cnt-items-menu::-webkit-scrollbar {
-    width: 4px;    
-}
-.cnt-items-menu::-webkit-scrollbar-track {
-    background: #152852;    
-}
-.cnt-items-menu::-webkit-scrollbar-thumb {
-    background: #0637A3;   
-}
-.cnt-items-menu::-webkit-scrollbar-thumb:hover {
-    background: #0637A3;   
-}
+
+
+
