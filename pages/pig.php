@@ -26,11 +26,11 @@
 
         <section class="container row space-evenly align-start">
             <div class="col-3">
-                <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
+                <h3 class='text-blue-9 normal-title gilroy-regular'>Challenge</h3>
                 <p>To create an investment or life insurance product.</p>
             </div>
             <div class="col-3">
-                <h3 class='text-blue-9 gilroy-bold'>My role</h3>
+                <h3 class='text-blue-9 normal-title gilroy-regular'>My role</h3>
                 <p>User Research (Survey, User and Stakeholder Interviews), Product Strategy, Persona, User Journey Map, Product Life Cycle, Information Architecture, User Interface, Style Guide, User Testing.</p>
             </div>
         </section>
@@ -38,7 +38,7 @@
         <section class="container my-3">
             <div class="container width-1080 row space-evenly align-start">
                 <div class="col-5 mr-2 ml-1">
-                    <p class="mt-none normal-title text-blue-9 gilroy-bold">
+                    <p class="mt-none normal-title text-blue-9 gilroy-regular">
                         GR1D Hackathon
                     </p>
                     <p>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-7 text-right">
                     <img src="/rafael-maciel/assets/images/pig/Grupo 894.png">
-                    <small class="small-title">
+                    <small class="text-small">
                         Willian Vale (developer), Maisa (developer), Beatriz Maselli (business), Diago Savio (marketing) and me. 
                     </small>
                 </div>
@@ -72,10 +72,10 @@
             <h4 class="bordered-title">USER INTERVIEW</h4>
 
             <div class="width-1080 mt-3">
-                <b class="text-big text-blue-9 ">Every hour, 321 babies are born in Brazil.</b>
-                <p class='mb-2'>In a country that is facing an economic downturn in 2019, raising a child is extremely expensive and at the end of the month, there is no money left to think about the child future. So, how about helping all these parents to realize the dream of providing something they want for their kids future? Besides being a designer, I’m a father and I believe it’s something memorable to do.</p>
-                <b class="text-big text-blue-9 ">Brazilians are terrible in finance.</b>
-                <p>Our first research was to study the brazilian habits and knowledge level in finance. We discovered that Brazilians are choosing an investment with a very low return, Savings Account.</p>
+                <p class="gilroy-regular text-big text-blue-9 ">Every hour, 321 babies are born in Brazil.</p>
+                <p class='mb-2 text-normal'>In a country that is facing an economic downturn in 2019, raising a child is extremely expensive and at the end of the month, there is no money left to think about the child future. So, how about helping all these parents to realize the dream of providing something they want for their kids future? Besides being a designer, I’m a father and I believe it’s something memorable to do.</p>
+                <p class="gilroy-regular text-big text-blue-9 ">Brazilians are terrible in finance.</p>
+                <p class=' text-normal'>Our first research was to study the brazilian habits and knowledge level in finance. We discovered that Brazilians are choosing an investment with a very low return, Savings Account.</p>
             </div>   
 
             <div class="container row width-1080 mt-2">
@@ -84,25 +84,25 @@
                 </div>
                 <div class="col-4 text-center">
                     <img src="/rafael-maciel/assets/images/pig/pig_grafico1.png">
-                    <div class='small-title'>AMBIMA – Brazilian Investor X-Ray - 2nd Edition</div>
+                    <div class='small-title pt-1'>AMBIMA – Brazilian Investor X-Ray - 2nd Edition</div>
                 </div>
                 <div class="col-4">
                     <table>
                         <tr>
-                            <td class='text-big text-blue-4 pr-1'>04%</td>
-                            <td class='text-big text-blue-9'>Investment Funds</td>
+                            <td class='normal-title text-blue-4 pr-1'>04%</td>
+                            <td class='gilroy-medium text-big text-blue-9 vb'>Investment Funds</td>
                         </tr>
                         <tr>
-                            <td class='text-big' style='color: #A28E81'>05%</td>
-                            <td class='text-big text-blue-9'>Investment Funds</td>
+                            <td class='normal-title' style='color: #A28E81'>05%</td>
+                            <td class='gilroy-medium text-big text-blue-9 vb'>Investment Funds</td>
                         </tr>
                         <tr>
-                            <td class='text-big text-grey-3'>06%</td>
-                            <td class='text-big text-blue-9'>Private pension</td>
+                            <td class='normal-title text-grey-3'>06%</td>
+                            <td class='gilroy-medium text-big text-blue-9 vb'>Private pension</td>
                         </tr>
                         <tr>
-                            <td class='text-big text-blue-9 gilroy-bold'>88%</td>
-                            <td class='text-big text-blue-9 gilroy-bold'>Savings Account</td>
+                            <td class='normal-title text-blue-9 gilroy-bold'>88%</td>
+                            <td class='gilroy-medium text-big text-blue-9 vb'>Savings Account</td>
                         </tr>
                     </table>
                     <small class='small-title text-red'>Investment with the worst return.</small>
@@ -110,7 +110,7 @@
             </div>
             <div class="grid gap-xl width-1080 mt-3">
                 <div class="col-4">
-                    <div class='normal-title gilroy-bold text-blue-9'>Bad Finance Habits</div>
+                    <div class='normal-title gilroy-medium       text-blue-9'>Bad Finance Habits</div>
                     <p class='border-top-red'>They only invest the money left of the month. Rarely they invest in the first days of the month.</p>
                 </div>
                 <div class="col-4">
@@ -141,7 +141,7 @@
         </section> 
 
         <section class='container mx-1'>
-            <img src="/rafael-maciel/assets/images/pig/pig_ideation.png">
+            <img class='col-12' src="/rafael-maciel/assets/images/pig/pig_ideation.png">
         </section>
         <section class="container bg-blue-9 mx-1">
             <div class="col-8 py-4 col-8">
@@ -156,14 +156,14 @@
                 </div>
                 <div class="col-2 container">
                     <img src="/rafael-maciel/assets/images/pig/pig_icon_betterfinance.png"> 
-                    <span class='text-center small-title text-blue-9'>
+                    <span class='text-center small-title pt-1 text-blue-9'>
                         BETTER FINANCE <br>
                         HABITS
                     </span>                   
                 </div>
                 <div class="col-2 container">
                     <img src="/rafael-maciel/assets/images/pig/pig_icon_help.png">
-                    <span class='text-center small-title text-blue-9'>
+                    <span class='text-center small-title  pt-1 text-blue-9'>
                         THE HELP <br>
                         OF RELATIVES
                     </span>
@@ -176,11 +176,11 @@
                 <h4 class="bordered-title">OPORTUNITY</h4>
                 
                 <div class="grid width-1080 gap-xl mt-2">                    
-                    <div class="col-4">
-                        <p class='gilroy-bold text-big text-blue-9'>
+                    <div class="col-4 pr-1">
+                        <p class='gilroy-medium text-big text-blue-9'>
                             Together we can do more.
                         </p>
-                        <p>
+                        <p class='text-normal'>
                             Family, relatives, friends, there are many people that could help a kid. They just need to want to help.
                         </p>    
                     </div>
@@ -191,11 +191,11 @@
                 </div>
 
                 <div class="grid width-1080 gap-xl mt-3">                    
-                    <div class="col-4">
-                        <p class='gilroy-bold text-big text-blue-9'>
-                            Invest in the kids future as a gift.
+                    <div class="col-4 pr-1">
+                        <p class='gilroy-medium text-big text-blue-9'>
+                            Invest in the kids <br> future as a gift.
                         </p>
-                        <p>
+                        <p class='text-normal'>
                             Imagine a birthday of a 2 year old kid, that often ends with tons of toys that we don’t have no room to store them at our houses. Now imagine if people could give the most important gift for this kid, an investment in his future.
                         </p>                        
                     </div>
@@ -321,6 +321,273 @@
             <div class="container pt-3">
                 <img src="/rafael-maciel/assets/images/pig/pig_stakeholdermap.png">
             </div>
+        </section>
+
+        <section class="container pt-2 pb-4 mt-2">
+            <h4 class="bordered-title">EXPANDED MENU</h4>
+            <div class="container pt-3">
+                <img src="/rafael-maciel/assets/images/pig/Grupo908.png">
+            </div>
+        </section>
+    </section>
+        <section class='bg-grey-1 mt-4 mx-1 container px-2 pt-2 pb-4'>
+            <h4 class="bordered-title">KPIS</h4>
+
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+                <img src="/rafael-maciel/assets/images/icons/measure.png">
+                How to measure success?
+            </h2>
+
+            <div class="container row align-stretch space-center">
+                <div class="col-3 bg-white mr-1 p-1">
+                    Increase the number of PIG accounts.
+                </div>
+                <div class="col-3 bg-white mr-1 p-1">
+                    Increase in the number of portability for the PIG.
+                </div>
+                <div class="col-3 bg-white mr-1 p-1">
+                    Customer satisfaction and retention.
+                </div>
+                <div class="col-3 bg-white p-1">
+                    Reduction of support requests.
+                </div>
+            </div>
+        </section>
+
+        <a name='develop' class='map-cases-menu'>
+            03 - Develop
+        </a>
+        <section class="container bg-grid pt-1 pb-4">
+            <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
+                03 <br>
+                <small class="text-blue-9 argent-cf-bold">Develop</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
+
+        <section class='container pt-1 pb-4 mt-2'>
+            <h4 class="bordered-title">STORYBOARD</h4>
+
+            <div class="grid width-1080 gap-lg mt-2">
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard1.png">                    
+                    <b>1.</b> Pedro and Layla lived together for three years. Their finance were great, they used to travel on holidays, vacations, go to restaurants etc.
+                </div>
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard2.png">                    
+                    <b>2.</b> They had a son and started to have issues with the family budget.
+                </div>
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard3.png">                    
+                    <b>3.</b> They were really worried about their son’s future. Their plan were to provide him a great school and college, but they weren’t saving any money.
+                </div>
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard4.png">
+                    <b>4.</b> They found out about PIG, created an account and invited parents to participate.
+                </div>
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard5.png">
+                    <b>5.</b> PIG was the high motivation to save money and to keep the idea of investing on son’s future a priority. With the help of parents and discipline, they started to save money.
+                </div>
+                <div class="col-4 bg-white elevated-2 p-1">
+                    <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard6.png">
+                    <b>6.</b> They are relieved, after taking control of their son’s future and after getting all the knowledge to keep saving money and to deal with the month family budget. Some years passed, and as many other parents with a PIG account, their kids future is almost guaranteed.
+                </div>
+            </div>
+
+        </section>
+
+        <section class="container bg-white mx-1 pt-3 pb-4">
+            <h4 class="bordered-title">SITEMAP</h4>
+            
+            <div class="container pt-3 normal-title gilroy-bold text-blue-9">
+                <img src="/rafael-maciel/assets/images/pig/pig_sitemap.png">
+            </div>
+        </section>
+
+        <section class="container mt-4 pb-4">
+            <h4 class="bordered-title">IA - WIREFRAME</h4>
+
+            <div class='container align-start col-8 pt-2 pb-3'>
+                <span class='normal-title gilroy-medium text-blue-9 mb-14'>Dashboard - It’s all about gamification</span>
+                <span class="text-normal">
+                    The most important feature of PIG is gamification. Therefore the main content of the user dashboard are the goals status.
+                    In the goal screen, users can see the month goal, the complete goal, amount of money, and all about this specific goal.
+                </span>
+            </div>
+            <div class="container gap-xl row align-center space-center pb-3">
+                <img src="/rafael-maciel/assets/images/pig/pig_wireframe1.png" alt="">
+                <img src="/rafael-maciel/assets/images/pig/pig_wireframe2.png" alt="">
+            </div>
+       
+            <div class='container align-start col-8 pt-2 pb-3'>
+                <span class='normal-title gilroy-medium text-blue-9 mb-14'>Payment - Easy like buying candles.</span>
+                <span class="text-normal">
+                    The payment screen has money values suggestions to provide a really fast checkout.
+                </span>
+            </div>
+            <div class="container gap-xl row align-center space-center pb-3">
+                <img src="/rafael-maciel/assets/images/pig/pig_wireframe3.png" alt="">
+                <img src="/rafael-maciel/assets/images/pig/pig_wireframe4.png" alt="">
+            </div>           
+
+            <div class='container align-start col-8 pt-2 pb-3'>
+                <span class='normal-title gilroy-medium text-blue-9 mb-14'>Notifications - A way to have better investment habits</span>
+                <span class="text-normal">
+                All the gamification notifications regarding goals (completed, missed, recalculated), best day for investing (salary day, 13 salary), account activity (investments by relatives, balance sheets), are in app notifications session. Users have the option to receive notifications by e-mail also.
+                </span>
+            </div>
+            <div class="container gap-xl row align-center space-center pb-3">
+                <img src="/rafael-maciel/assets/images/pig/pig_wireframe5.png" alt="">
+            </div>    
+        </section>
+
+        <a name='deliver' class='map-cases-menu'>
+            04 - Deliver
+        </a>
+        <section class="container bg-grid pt-1 pb-4">
+            <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
+                04 <br>
+                <small class="text-blue-9 argent-cf-bold">Deliver</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
+
+        <section class="container pt-3 pb-4">
+            <h4 class='bordered-title'>MOBILE</h4>
+            <p class='mt-3'>User dashboard</p>
+            <div class="container gap-xl row align-center space-center">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui1.png" alt="">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui2.png" alt="">
+            </div>
+
+            <div class="container col-gap-xs px-3  row align-center space-center text-center mt-4">
+                <div class='col-3'>
+                    <p class='text-left pl-2'>Goal Status</p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui3.png" alt="">
+                </div>
+                <div class='col-3'>
+                    <p class='text-left pl-2'>Payment</p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui4.png" alt="">
+                </div>
+                <div class='col-3'>
+                    <p> </p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui5.png" alt="">
+                </div>
+                <div class='col-3'>
+                    <p> </p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui6.png" alt="">
+                </div>
+            </div>
+
+            <div class="container gap-xs row align-center space-center text-center mt-4">
+                <div>
+                    <p class='text-left pl-3'>Account statement</p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui7.png" alt="">
+                </div>
+                <div>
+                    <p class='text-left pl-3'>Godparents</p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui8.png" alt="">
+                </div>
+                <div>
+                    <p class='text-left pl-3'>Notifications</p>
+                    <img src="/rafael-maciel/assets/images/pig/pig_ui9.png" alt="">
+                </div>
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-2">
+            <h4 class="bordered-title">DESKTOP</h4>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui10.png">
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-3">
+            <span class="gelgory-medium text-normal">User dashboard</span>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui11.png">
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-3">
+            <span class="gelgory-meduim text-normal">Goal Status</span>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui12.png">
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-3">
+            <span class="gelgory-meduim text-normal">Creating a new goal</span>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui13.png">
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-3">
+            <span class="gelgory-meduim text-normal">Investing form</span>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui14.png">
+            </div>
+        </section>
+
+        <section class="container pt-2 pb-3">
+            <span class="gelgory-meduim text-normal">Godparents</span>
+            <div class="container">
+                <img src="/rafael-maciel/assets/images/pig/pig_ui15.png">
+            </div>
+        </section>
+
+        <section class='container pt-3 pb-4 mx-1' style="background-color:#54378E">
+            <div class="container width-1080 row space-evenly align-start mt-3" >
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>Colors</header>
+                        
+                        <ul class='gilroy-medium text-white pl-none mt-1'> 
+                            <span class='text-white'>Interface color palette</span>
+                            <img src="/rafael-maciel/assets/images/pig/pig_sg_colors.png">
+                        </ul>
+
+                        <header class='gilroy-bold mt-2 text-white'>TYPOGRAPHY</header>
+                        
+                        <ul class='gilroy-medium text-white pl-none mt-1'> 
+                            <img src="/rafael-maciel/assets/images/pig/pig_sg_font.png">
+                        </ul>
+                        
+                        
+                        <ul class='gilroy-medium text-white pl-none mt-1'> 
+                            <span class='text-white'>OTHER</span>
+                            <img src="/rafael-maciel/assets/images/pig/pig_sg_gamification.png">
+                        </ul>
+
+                    </nav>
+                </div>
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>ELEMENTS</header>
+                        
+                        <ul class='gilroy-medium  pl-none my-1'> 
+                            <span class='text-white'>Form Items</span>
+                            <img src="/rafael-maciel/assets/images/pig/forms.png">
+                        </ul>
+                        <ul style='padding:0;'>
+                            <span class='text-white'>Navigation Items</span>
+                            <img src="/rafael-maciel/assets/images/pig/buttons.png">
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-3">
+                    <nav class="style-guide">
+                        <header class='gilroy-bold text-white'>ICONS</header>
+                        
+                        <ul class='gilroy-medium pl-none mt-1'> 
+                            <img src="/rafael-maciel/assets/images/pig/icons.png">
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
         </section>
 
         <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
