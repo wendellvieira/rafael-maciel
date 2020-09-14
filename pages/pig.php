@@ -72,9 +72,9 @@
             <h4 class="bordered-title">USER INTERVIEW</h4>
 
             <div class="width-1080 mt-3">
-                <p class="gilroy-regular text-big text-blue-9 ">Every hour, 321 babies are born in Brazil.</p>
+                <p class="gilroy-bold text-big text-blue-9 ">Every hour, 321 babies are born in Brazil.</p>
                 <p class='mb-2 text-normal'>In a country that is facing an economic downturn in 2019, raising a child is extremely expensive and at the end of the month, there is no money left to think about the child future. So, how about helping all these parents to realize the dream of providing something they want for their kids future? Besides being a designer, I’m a father and I believe it’s something memorable to do.</p>
-                <p class="gilroy-regular text-big text-blue-9 ">Brazilians are terrible in finance.</p>
+                <p class="gilroy-bold text-big text-blue-9 ">Brazilians are terrible in finance.</p>
                 <p class=' text-normal'>Our first research was to study the brazilian habits and knowledge level in finance. We discovered that Brazilians are choosing an investment with a very low return, Savings Account.</p>
             </div>   
 
@@ -498,6 +498,7 @@
 
         <section class="container pt-2 pb-2">
             <h4 class="bordered-title">DESKTOP</h4>
+            <span class="gelgory-medium text-normal mt-3">Home</span>
             <div class="container">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui10.png">
             </div>
@@ -536,6 +537,8 @@
             <div class="container">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui15.png">
             </div>
+
+            <h4 class="bordered-title mt-4">STYLE GUIDE</h4>
         </section>
 
         <section class='container pt-3 pb-4 mx-1' style="background-color:#54378E">
@@ -589,6 +592,76 @@
             </div>
 
         </section>
+
+        <a name="user-testing" class="map-cases-menu">
+            05 - User Testing
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-2">
+            <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
+                05 <br>
+                <small class="text-blue-9 argent-cf-bold">User Testing</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
+
+        <section class='grid mx-1' style='background-color: #54378E'>
+            <div class="col-4">
+                <img src='/rafael-maciel/assets/images/pig/pig_sg_icon_usertesting_img1.png'>
+            </div>
+            <div class="col-8 px-2 py-4">
+                <h4 class='text-white gilroy-bold text-big mt-none mb-1'>User Profiles</h4>
+                <p class='text-white m-none'>
+                    32 years, father of one son (4 years). <br>
+                    38 years, mother of two daughters (7 years and 7 months). <br>
+                    28 years, uncle of a newborn niece (28 days). <br>
+                </p>
+
+                <h4 class='text-white gilroy-bold text-big mt-2 mb-1'>Questions</h4>
+                <p class='text-white m-none'>
+                    We evaluate their knowledge about investments.
+                    We asked them to complete some tasks on the website to test usability, such as making a registration, creating an investment goal, tracking goals, accessing the account statement etc.
+                    We asked questions about what they think the product is.
+                    We checked if texts are understandable.
+                </p>
+
+                <h4 class='text-white gilroy-bold text-big mt-2 mb-1'>Results</h4>
+                <p class='text-white m-none mb-none'>
+                    Many valuable insights that guided us to product improvements, such as:
+                    Miss understanding over the fact that the investment has the help of family members, some people thought PIG is a non profit organization that helps children.
+                    Difficulty in performing some specific tasks.
+                    Great insights according to each one's life.
+                </p>
+            </div>
+        </section>
+
+
+        <a name="final-words" class="map-cases-menu">
+            06 - Final Words
+        </a>
+        <section class="container bg-grid pt-1 pb-4 mt-2">
+            <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
+                06 <br>
+                <small class="text-blue-9 argent-cf-bold">Final Words</small>
+            </h2>
+            <div class="line-art"></div>
+        </section>
+
+        <section class='container mt-3 mb-4'>
+            <div class="container col-6">
+                <p>
+                    Every time I go to a hackathon, I hope to come back with a cool product and make good friends. I'm already happy with that. This time, I had the pleasure of winning my first hackathon and it was a very special day. 
+                </p>
+                <p>
+                    The team and I continue to work on the product with a sponsor, and for me it's been a spectacular experience. Having a product to put all the learning into practice, getting involved in all areas, is something that brings me a great professional evolution.
+                </p>
+                <img class='mt-3' src="/rafael-maciel/assets/images/pig/pig_sg_finalwords_win.png">
+                <img class='mt-3' src="/rafael-maciel/assets/images/pig/pig_sg_finalwords_all.png">
+                <img class='mt-3' src="/rafael-maciel/assets/images/pig/pig_jornal.png">
+            </div>
+        </section>
+
+
+
 
         <?php require_once __DIR__ . "/../fragments/cases-footer.php"; ?>
 
