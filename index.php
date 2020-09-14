@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Rafael Maciel</title>
-
+ 
         <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
         <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
         <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
