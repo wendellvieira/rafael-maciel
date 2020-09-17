@@ -35,7 +35,7 @@
             <img src="/rafael-maciel/assets/images/home/pontos.png" >
         </header>
 
-        <h2 class='container mx-1 my-2 row space-between align-center'>
+        <h2 class='flex mx-1 my-2 row space-between align-center'>
             <div class="text-white argent-cf-regular f-20">
                 01. <span class="ponto"></span>
                 <span class="text-white gilroy-light f-28">Latest work</span>    
@@ -172,7 +172,7 @@
             </main>
         </section>
 
-        <h2 class='container mx-1 mb-2 mt-4 row space-between align-center'>
+        <h2 class='flex mx-1 mb-2 mt-4 row space-between align-center'>
             <div class="text-white argent-cf-regular f-20">
                 02. <span class="ponto"></span>
                 <span class="text-white gilroy-light f-28">About me</span>    
@@ -184,7 +184,7 @@
             <!-- <video autoplay muted loop>
                 <source src="/rafael-maciel/assets/images/home/footer.mp4" type="video/mp4">
             </video> -->
-            <div class="container row">
+            <div class="flex row">
                 <div class="col-5" style="padding-left: 116px;">
                     <p class="text-white argent-cf-light f-18 letter-045">
                         I’m a product designer based in Rio de Janeiro, Brazil, very curious about the future and an enthusiastic of the use of technology to provide delightful experiences for people. 
