@@ -47,12 +47,12 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="flex pt-2 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="flex container row space-between align-start pt-3">
-                <div class="col-6 pr-3 pt-1">
-                    <h3 class='text-blue-9 medium-title letter-045'>Desired <br> Content</h3>
+            <div class="flex container row space-between align-start pt-">
+                <div class="col-6 pr-3 pt-1 pr-sm-none">
+                    <h3 class='text-blue-9 medium-title letter-045'>Desired Content</h3>
                     <p>
                         The big challenge was how to engage so many different people with the website. Sales members are very different from each other, considering age, sex, culture and even practice area.
                         The answer is: they all want to improve their career and sale more.
@@ -93,7 +93,7 @@
                         <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                             “If you understand how to negotiate, your life will be prosperous”.
                         </div>
-                        <div class="col-5 pl-1">
+                        <div class="col-5 pl-1 pl-sm-none mt-sm-3">
                             <span class='small-title'>ABOUT</span>
                             <p>
                                 Age: 35 <br>
@@ -119,7 +119,7 @@
                             I have to increase my sales number.
                         </div>
                         <div class="col-3 bg-blue-9 text-white p-1 position-relative">
-                            <img class='img-top' style="margin-top: -264px;" src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_persona.png">
+                            <img class='img-top display-sm-none' style="margin-top: -264px;" src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_persona.png">
                             I have to feel confident about my sales techniques.
                         </div>
 
@@ -140,7 +140,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex container">
+            <div class="flex container scroll-table-sm">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -184,7 +184,6 @@
                     </tbody>
 
                 </table>
-
             </div>
         </section>
 
