@@ -73,7 +73,7 @@
         <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="flex width-1080 row space-evenly align-start gap-md pt-3" >        
+            <div class="flex container row space-evenly align-start gap-md pt-3" >        
                 <div class="col-2" style='padding-top: 15%;'>
                     <h2 class='gilroy-regular text-blue-9 normal-title'>
                         User<br>
@@ -89,7 +89,7 @@
                 </div>
             </div>
 
-            <div class="grid width-1080 col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
+            <div class="grid container col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
                 <div class="col-3 text-normal border-top-green">
                     To access the library archive (books, academic works etc.)
                 </div>
@@ -118,7 +118,7 @@
         <section class="flex mx-1 bg-white pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080 ">
+            <div class="flex container ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Simon
@@ -191,7 +191,7 @@
         <section class="flex pt-2 pb-4 bg-white mx-1">
             <h4 class="bordered-title">ISSUES</h4>
 
-            <div class="flex width-1080 row space-between align-start pt-3">
+            <div class="flex container row space-between align-start pt-3">
                 <div class="col-6 pl-2 pr-3">
                     <span class='small-title'>ZOOM <img src="/rafael-maciel/assets/images/university-of-virginia/zoom.png" alt=""></span>
                     <img src="/rafael-maciel/assets/images/university-of-virginia/uvl_wireframe.png" class='mt-1'>
@@ -249,7 +249,7 @@
         <section class="flex bg-white pt-2 pb-4">
             <h4 class="bordered-title">IMPROVENT</h4>
 
-            <div class="flex width-1080 row space-between align-start pt-3">
+            <div class="flex container row space-between align-start pt-3">
                 <div class="col-6">
                     <img src="/rafael-maciel/assets/images/university-of-virginia/Grupo-de-máscara-3.png" alt="">
                 </div>
@@ -278,7 +278,7 @@
         <section class='flex pt-3 pb-4'>
             <h4 class="bordered-title">STYLE GUIDE</h4>
 
-            <div class="flex width-1080 row space-evenly align-start pt-3">
+            <div class="flex container row space-evenly align-start pt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold'>Colors</header>
@@ -351,7 +351,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     One of the most interesting topics about this project was to give a big highlight to the search field. The basic users needs were simple, to know operating hours, to book a room and many more. However, encourage users to access the entire collection from the search field is something that can help their studies, researches and their own projects and it's something that goes deeper in their lives.
                 </div>

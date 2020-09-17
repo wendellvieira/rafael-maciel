@@ -109,7 +109,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">COMPETITIVE ANALYSIS</h4>
 
-            <div class="width-1080 mt-2">
+            <div class="container mt-2">
             
                 <table class="table-1">
                     <tbody>
@@ -220,7 +220,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">CONTEXT</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -485,7 +485,7 @@
 
                 <h4 class="bordered-title">PERSONA 1</h4>
     
-                <div class="flex width-1080">
+                <div class="flex container">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Julia
@@ -543,7 +543,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - PERSONA 1</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -624,7 +624,7 @@
                 
                 <h4 class="bordered-title">PERSONA 2</h4>
     
-                <div class="flex width-1080">
+                <div class="flex container">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Emerson
@@ -682,7 +682,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - PERSONA 2</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -815,7 +815,7 @@
         <section class="flex pt-3 pb-4 bg-white mx-1">
             <h4 class='bordered-title mb-3'>IA – OLD SITE MAP</h4>
             <img src="/rafael-maciel/assets/images/nespresso/nespresso_sitemap_old.png">
-            <div class="flex row width-1080 pt-3 pb-4 align-start gap-xl">
+            <div class="flex row container pt-3 pb-4 align-start gap-xl">
                 <div class="col-2">
                     <h3 class="normal-title gilroy-bold text-blue-9 m-none">Issues</h3>
                 </div>
@@ -977,7 +977,7 @@
 
 
         <section class='flex mx-1' style="background-color: #B1C3D5;">
-            <div class="width-1080 flex space-evenly row align-start" >
+            <div class="container flex space-evenly row align-start" >
                 
                 <div class="col-2 py-4">
                     <h3 class='text-blue-9 normal-title gilroy-bold'>
@@ -1040,7 +1040,7 @@
         </section>
 
         <section class="flex mx-1" style="background-color: #1A1A1A;">
-            <div class="flex width-1080" >
+            <div class="flex container" >
                 <div class="flex pb-4">
                     <div class="flex gilroy-regular text-white mt-4">
                         Home
@@ -1177,7 +1177,7 @@
             <div class="text-blue-1">
                 Atoms
             </div>
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class="gilroy-bold text-white">
@@ -1293,7 +1293,7 @@
             <div class="text-blue-1 mt-12">
                 Molecules
             </div> 
-            <div class="flex width-1080 row space-evenly align-start mt-1">                
+            <div class="flex container row space-evenly align-start mt-1">                
                 <nav class="style-guide">
                     <div class="flex row align-start gap-xl">
                         <ul class="gilroy-medium text-white pl-none mt-1">
@@ -1334,7 +1334,7 @@
             <div class="text-blue-1 mt-3">
                 Organisms
             </div> 
-            <div class="flex width-1080 row space-evenly align-start mt-1">                
+            <div class="flex container row space-evenly align-start mt-1">                
                 <nav class="style-guide">
                     <div class="flex row gap-xl">
                         <ul class="gilroy-medium text-white pl-none mt-1">
@@ -1445,7 +1445,7 @@
         </section>
     
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     <p>
                         Developing a project with so many challenges from end to end was a stimulating experience. Early on,

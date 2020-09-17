@@ -12,20 +12,20 @@
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
 
-        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1 frits-section-spacing">
             <div class="gilroy-regular text-grey-3">
                 WEEKLY NEWS WEBSITE
             </div>
             <h2 class="big-title argent-cf-regular text-blue-9 my-1">
                 Plantão de Vendas
             </h2>
-            <div class="mb-2">
+            <div class="mb-2 text-sm-center mx-2">
                 Plantão de Vendas is a weekly news website for Embratel's sales team.
             </div>
             <img src="/rafael-maciel/assets/images/plantao-de-vendas/plantao_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="flex row space-evenly align-start">
+        <section class="flex row space-evenly align-start mx-3">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To engage the sales team members with the company.</p>
@@ -50,7 +50,7 @@
         <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="flex width-1080 row space-between align-start pt-3">
+            <div class="flex container row space-between align-start pt-3">
                 <div class="col-6 pr-3 pt-1">
                     <h3 class='text-blue-9 medium-title letter-045'>Desired <br> Content</h3>
                     <p>
@@ -78,7 +78,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         João Paulo
@@ -140,7 +140,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -200,7 +200,7 @@
         </section>
 
         <section class='flex bg-blue-9 mx-1'>
-            <div class="width-1080 py-4">
+            <div class="container py-4">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Plantão de Vendas helps Embratel’s sales team members to improve their professional career.</h3>                
@@ -297,7 +297,7 @@
         <section class='flex pt-3 pb-4'>
             <h4 class="bordered-title">STYLE GUIDE</h4>
 
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold'>Colors</header>
@@ -350,7 +350,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     The interesting part of this project was that there wasn't any budget to do user research and it's something I always encourage to do, after all, I'm a user centered designer.  The challenge was that there were many types of users, considering sex, age and interests, but at the end, I could deal with it, when I found a way to discover common interests with relevance for them and for the company goals, which was looking at users Linkedin profiles and looking for patterns.
                 </div>

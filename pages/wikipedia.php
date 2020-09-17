@@ -54,7 +54,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">CONTEXT</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -122,7 +122,7 @@
         <section class="flex mx-1 bg-white">
             <h4 class='bordered-title mt-4'>QUANTITATIVE RESEARCH</h4>
 
-            <div class="flex width-1080 mt-3">
+            <div class="flex container mt-3">
                 <div class="text-center gilroy-bold text-blue-9 normal-title">
                     Research Plan
                 </div>
@@ -138,7 +138,7 @@
 
                 <div class="flex bg-blue-9 mb-4">
                         
-                    <div class="flex width-1080 space-center row py-1">
+                    <div class="flex container space-center row py-1">
                         <div class="col-4 text-white">
                             1. What could be improved in the page?<br><br>
                             2. Is the content organized and easy to read?
@@ -150,7 +150,7 @@
                             To understand the efficiency of today’s  information architecture.
                         </div>
                     </div>
-                    <div style='background: #384765' class="flex width-1080 space-center row py-1">
+                    <div style='background: #384765' class="flex container space-center row py-1">
                         <div class="col-4 text-white">
                             3. Do you think Wikipedia is reliable?
                         </div>
@@ -161,7 +161,7 @@
                             To evaluate the level of reliability of Wikipedia.
                         </div>
                     </div>
-                    <div class="flex width-1080 space-center row py-1">
+                    <div class="flex container space-center row py-1">
                         <div class="col-4 text-white">
                             4. Would you spend the same time reading a book to learn through Wikipedia?
 
@@ -174,7 +174,7 @@
 
                         </div>
                     </div>
-                    <div style='background: #384765' class="flex width-1080 space-center row py-1">
+                    <div style='background: #384765' class="flex container space-center row py-1">
                         <div class="col-4 text-white">
                             5. What topic did you search?
                         </div>
@@ -185,7 +185,7 @@
                             To follow users path, and to help creating personas, based on what they’ve searched and their answers. 
                         </div>
                     </div>
-                    <div class="flex width-1080 space-center row py-1">
+                    <div class="flex container space-center row py-1">
                         <div class="col-4 text-white">
                             6. For what purpose do you usually access Wikipedia content?
 
@@ -274,7 +274,7 @@
             <div class="flex bg-white col-12 pt-2 pb-4">
                 <h4 class="bordered-title">PERSONA 1</h4>
 
-                <div class="flex width-1080">
+                <div class="flex container">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Ricardo
@@ -326,7 +326,7 @@
         <section class='flex pt-4 pb-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP - RICARDO</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -406,7 +406,7 @@
             <div class="flex bg-white col-12 pt-2 pb-4">
                 <h4 class="bordered-title">PERSONA 2</h4>
     
-                <div class="flex width-1080">
+                <div class="flex container">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Helen
@@ -458,7 +458,7 @@
         <section class='flex pt-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP - HELEN</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -776,7 +776,7 @@
             <h4 class='bordered-title'>SCREENS</h4>
         </div>
 
-        <div class="flex width-1080 row space-center text-center mt-4 align-start">
+        <div class="flex container row space-center text-center mt-4 align-start">
 
             <div class='col-3'>
                 <p class='mb-1 text-normal'>Home</p>
@@ -798,7 +798,7 @@
             
         </div>
 
-        <div class="flex gap-lg width-1080 row space-center text-center mt-4 align-start">
+        <div class="flex gap-lg container row space-center text-center mt-4 align-start">
             <div class='col-3'>
                 <p class='mb-1 text-normal'>Result</p>
                 <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui8.png">
@@ -837,7 +837,7 @@
 
     <section style="background-color: #1B182D;" class="flex pb-4 mx-1">
         
-        <div class="flex width-1080 row space-evenly align-start mt-3">
+        <div class="flex container row space-evenly align-start mt-3">
             <div class="col-3">
                 <nav class="style-guide">
                     <header class='gilroy-bold text-white'>Colors</header>
@@ -909,7 +909,7 @@
     </section>
 
     <section class="flex mt-3 pb-4">
-        <div class="flex width-1080 row space-center">
+        <div class="flex container row space-center">
             <div class="col-8">
                 The biggest learning of the project, in addition to the responsibility of proposing a new design for the
                 largest repository of Internet content, was the challenge of creating a voice interface with a large

@@ -49,7 +49,7 @@
         <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="flex width-1080 row space-evenly align-start gap-md pt-3 align-center" >        
+            <div class="flex container row space-evenly align-start gap-md pt-3 align-center" >        
                 <div class="col-2 gilroy-regular text-blue-9 normal-title ">                    
                     User<br> Needs
                 </div>
@@ -61,7 +61,7 @@
                 </div>
             </div>
 
-            <div class="grid width-1080 col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
+            <div class="grid container col-gap-lg row-gap-xl small-title text-blue-9 mt-14">
                 <div class="col-3 text-normal border-top-green">
                     To develop a great technique before start tattooing <br> people.
                 </div>
@@ -91,7 +91,7 @@
         <section class="flex bg-white pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Milena
@@ -153,7 +153,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -215,7 +215,7 @@
         <section class='flex mx-1 bg-white pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">STAKEHOLDER KEYS</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -259,7 +259,7 @@
         </section>
 
         <section class='flex bg-blue-9 mx-1'>
-            <div class="width-1080 py-4 col-8">
+            <div class="container py-4 col-8">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Learn INK prepares students to have <br>
@@ -346,7 +346,7 @@
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
         <section style="background-color: #0A0A0A;" class="flex pt-3 pb-4">
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -416,7 +416,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     The biggest learning about this project was to study marketing techniques for landing pages. When rolling the scroll you can see this marketing structure applied.: <br>
                     1. Value proposition; <br>

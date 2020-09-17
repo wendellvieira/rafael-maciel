@@ -68,7 +68,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class="medium-title text-blue-9">
                         Willian
@@ -131,7 +131,7 @@
         <section class="flex pt-4 pb-4 mt-2"> 
             <h4 class="bordered-title">USER INTERVIEW</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class="table-1 mt-3">
                     <thead>
                         <tr>
@@ -238,7 +238,7 @@
             <h4 class="bordered-title">STYLE GUIDE</h4>
         </section>
         <section style="background-color: #0F0426;" class="flex pt-3 pb-4 mx-1">
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class="gilroy-bold text-white">Colors</header>
@@ -299,7 +299,7 @@
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class="flex width-1080space-center py-4">
+        <section class="flex containerspace-center py-4">
             <div class="col-8">
                 Since I know many designers and developers, who are often hiring developers, it was never so easy to recruit users for testing the website :). In the end, the main objective that even before launching the site I managed to fulfill was to encourage Alexandre to start writing, be engaged with the dev community and put more focus on his career.
             </div>

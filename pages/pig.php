@@ -36,7 +36,7 @@
         </section>
 
         <section class="flex my-3">
-            <div class="flex width-1080 row space-evenly align-start">
+            <div class="flex container row space-evenly align-start">
                 <div class="col-5 mr-2 ml-1">
                     <p class="mt-none normal-title text-blue-9 gilroy-regular">
                         GR1D Hackathon
@@ -71,14 +71,14 @@
         <section class='flex bg-white mx-1 pt-2 pb-4'>
             <h4 class="bordered-title">USER INTERVIEW</h4>
 
-            <div class="width-1080 mt-3">
+            <div class="container mt-3">
                 <p class="gilroy-bold text-big text-blue-9 ">Every hour, 321 babies are born in Brazil.</p>
                 <p class='mb-2 text-normal'>In a country that is facing an economic downturn in 2019, raising a child is extremely expensive and at the end of the month, there is no money left to think about the child future. So, how about helping all these parents to realize the dream of providing something they want for their kids future? Besides being a designer, I’m a father and I believe it’s something memorable to do.</p>
                 <p class="gilroy-bold text-big text-blue-9 ">Brazilians are terrible in finance.</p>
                 <p class=' text-normal'>Our first research was to study the brazilian habits and knowledge level in finance. We discovered that Brazilians are choosing an investment with a very low return, Savings Account.</p>
             </div>   
 
-            <div class="flex row width-1080 mt-2">
+            <div class="flex row container mt-2">
                 <div class="col-4 normal-title text-blue-9">
                     42% of Brazilians have investments
                 </div>
@@ -108,7 +108,7 @@
                     <small class='small-title text-red'>Investment with the worst return.</small>
                 </div>
             </div>
-            <div class="grid gap-xl width-1080 mt-3">
+            <div class="grid gap-xl container mt-3">
                 <div class="col-4">
                     <div class='normal-title gilroy-medium       text-blue-9'>Bad Finance Habits</div>
                     <p class='border-top-red'>They only invest the money left of the month. Rarely they invest in the first days of the month.</p>
@@ -150,7 +150,7 @@
             </div>
         </section>
         <section class='flex mx-1 gap-xl' style='background-color: #B1C3D5'>
-            <div class="flex width-1080 row py-2 space-center">
+            <div class="flex container row py-2 space-center">
                 <div class="col-4 normal-title text-blue-9">
                     How could they solve it?
                 </div>
@@ -175,7 +175,7 @@
             <div class="flex pt-2 pb-4">
                 <h4 class="bordered-title">OPORTUNITY</h4>
                 
-                <div class="grid width-1080 gap-xl mt-2">                    
+                <div class="grid container gap-xl mt-2">                    
                     <div class="col-4 pr-1">
                         <p class='gilroy-medium text-big text-blue-9'>
                             Together we can do more.
@@ -190,7 +190,7 @@
     
                 </div>
 
-                <div class="grid width-1080 gap-xl mt-3">                    
+                <div class="grid container gap-xl mt-3">                    
                     <div class="col-4 pr-1">
                         <p class='gilroy-medium text-big text-blue-9'>
                             Invest in the kids <br> future as a gift.
@@ -210,7 +210,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class="medium-title text-blue-9">
                         Lucas
@@ -264,7 +264,7 @@
         <section class="flex pt-2 pb-2"> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class="table-1 mt-3">
                     <thead>
                         <tr>
@@ -368,7 +368,7 @@
         <section class='flex pt-1 pb-4 mt-2'>
             <h4 class="bordered-title">STORYBOARD</h4>
 
-            <div class="grid width-1080 gap-lg mt-2">
+            <div class="grid container gap-lg mt-2">
                 <div class="col-4 bg-white elevated-2 p-1">
                     <img class='mb-1' src="/rafael-maciel/assets/images/pig/pig_storyboard1.png">                    
                     <b>1.</b> Pedro and Layla lived together for three years. Their finance were great, they used to travel on holidays, vacations, go to restaurants etc.
@@ -542,7 +542,7 @@
         </section>
 
         <section class='flex pt-3 pb-4 mx-1' style="background-color:#54378E">
-            <div class="flex width-1080 row space-evenly align-start mt-3" >
+            <div class="flex container row space-evenly align-start mt-3" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>

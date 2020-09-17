@@ -103,7 +103,7 @@
         <section class="flex pt-3 pb-4">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
 
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold'>Colors</header>
@@ -184,7 +184,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     The most interesting part of the project was learning how to keep so much information readable and light. I learned that the secret of a dashboard interface is great information architecture work to drive what elements should be grouped according to the user needs, and a correct use of white space to determine the relationship among different information. In a dashboard, more than other user interfaces, the colors are very functional and can determine the success of the project.
                 </div>

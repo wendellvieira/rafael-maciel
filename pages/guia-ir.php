@@ -51,7 +51,7 @@
         <section class="flex bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Marcos
@@ -101,7 +101,7 @@
         <section class='flex pt-3 pb-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex  width-1080">
+            <div class="flex  container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -143,7 +143,7 @@
             <h4 class='bordered-title mb-3'>STAKEHOLDER MAP</h4>
             <img src="/rafael-maciel/assets/images/guia-ir/guiair_stakeholdermap.png">
 
-            <div class="flex row space-evenly align-start width-1080 mt-3">
+            <div class="flex row space-evenly align-start container mt-3">
                 <div class="col-3">
                     <h3 class='text-blue-9 mb-14'>Clients</h3>
                     <p>Wants an easy and fast way to <br> fill their taxes form.</p>
@@ -173,7 +173,7 @@
         </section>
 
         <section class='flex bg-blue-9'>
-            <div class="width-1080 py-4">
+            <div class="container py-4">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Guia IR teaches Icatu Seguros clients how to fill their taxes form, in a easy, secure and fast way.</h3>                
@@ -221,7 +221,7 @@
         </section>
 
         <section class="flex bg-white py-3 mx-1">
-            <div class="flex width-1080">
+            <div class="flex container">
                 <img src="/rafael-maciel/assets/images/guia-ir/guiair_sitemap.png" alt="">
 
                 <div class="col-8 mt-2">
@@ -301,7 +301,7 @@
         </div>
 
         <section  class="flex pt-3 pb-4 bg-blue">
-            <div class="flex width-1080 row space-evenly align-start mt-3 ">
+            <div class="flex container row space-evenly align-start mt-3 ">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -356,7 +356,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     The most remarkable learning with this project was that users do not always expect to be delighted by the aesthetics of the product. When the user's need is to quickly complete a certain task, which he does not like to do, the best way to satisfy him is to provide the shortest, simplest and fastest experience possible.                </div>
             </div>

@@ -65,7 +65,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080 ">
+            <div class="flex container ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Valentina
@@ -119,7 +119,7 @@
         <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="flex width-1080 row space-between align-start pt-3">
+            <div class="flex container row space-between align-start pt-3">
                 <div class="col-6 pr-3">
                     <h3 class='text-blue-9 medium-title letter-045'>Websites <br> are boring.</h3>
                     <p>
@@ -188,7 +188,7 @@
         <section class="flex pt-2 bg-white mx-1 pb-4">
             <h4 class="bordered-title">IA AND STRATEGY</h4>
 
-            <div class="flex width-1080 row space-between align-start py-3">
+            <div class="flex container row space-between align-start py-3">
                 <div class="col-6 pl-2 pr-3">
                     <img src="/rafael-maciel/assets/images/rick-riordan/ia-and-strategy-01.png" class='mt-1'>
                 </div>
@@ -203,7 +203,7 @@
                 </div>
             </div>
             
-            <div class="flex width-1080 row space-between align-start">
+            <div class="flex container row space-between align-start">
                 <div class="col-6 pl-2 pr-3">
                     <img src="/rafael-maciel/assets/images/rick-riordan/ia-and-strategy-02.png" class='mt-1'>
                 </div>
@@ -228,7 +228,7 @@
         </section>
 
         <section class='flex pt-3 pb-4 mx-1' style="background-color:#191E22">
-            <div class="flex width-1080 row space-evenly align-start mt-3" >
+            <div class="flex container row space-evenly align-start mt-3" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -285,7 +285,7 @@
         
         <section class="flex pb-4">
             <img src="/rafael-maciel/assets/images/rick-riordan/espada.png" class="col-12 pb-3">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     Check the live version at www.rickriordan.com.br
                     <br><br>

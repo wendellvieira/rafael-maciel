@@ -62,7 +62,7 @@
 
         <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">CONTEXT</h4>
-            <div class="flex width-1080 mt-2">
+            <div class="flex container mt-2">
                 <div class="col-10">
                     <div class="flex row space-between">
                         <img src="/rafael-maciel/assets/images/school-car/schoolcar_traffic1.png" >
@@ -86,7 +86,7 @@
         </section>
 
         <section class='flex p-4 my-4 bg-blue-9 mx-1'>
-            <div class="width-1080">
+            <div class="container">
                 <p>
                     <small class='text-blue-1'>PROBLEM</small>
                     <h3 class='text-white normal-title'>Because of bad traffic, parents have to go to the office very earlier to avoid getting late, and so, aren't able to take their kids to school.</h3>                
@@ -141,7 +141,7 @@
 
         <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">RESULTS</h4>
-            <div class="flex width-1080 row align-start">
+            <div class="flex container row align-start">
                 <div class="col-10">
                     <div class="grid gap-xl">
                         <div class="col-4">
@@ -174,7 +174,7 @@
         <section class="flex mx-1 bg-white pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA 1</h4>
 
-            <div class="flex width-1080 ">
+            <div class="flex container ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Maria
@@ -235,7 +235,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - MARIA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -285,7 +285,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA 2</h4>
 
-            <div class="flex width-1080 ">
+            <div class="flex container ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Rodrigo
@@ -338,7 +338,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - RODRIGO</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -399,7 +399,7 @@
                 How to measure success?
             </h2>
 
-            <div class="flex width-1080 gap-xl row align-stretch space-center">
+            <div class="flex container gap-xl row align-stretch space-center">
                 <div class="col-3 bg-white p-1">
                     Increase the number of passengers.
                 </div>
@@ -429,7 +429,7 @@
         <section class='flex pt-1 pb-4 mt-2'>
             <h4 class="bordered-title">STORYBOARD</h4>
 
-            <div class="grid width-1080 gap-lg mt-2">
+            <div class="grid container gap-lg mt-2">
                 <div class="col-4 bg-white elevated-2 p-1">
                     <img class='mb-1' src="/rafael-maciel/assets/images/school-car/schoolcar_storyboard1.png">                    
                     <b>1.</b> Maria is used to take her son Felipe to pre-school everyday. And then go to work.
@@ -579,7 +579,7 @@
         </section>
 
         <section class='flex py-3 mx-1 mb-3' style="background-color:#381450">
-            <div class="flex width-1080 row space-evenly align-start" >
+            <div class="flex container row space-evenly align-start" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -637,7 +637,7 @@
         </section>
 
         <section class="flex mt-3 pb-3">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     During the Uber hackathon in Brazil, I can say that my biggest learning was about business. There were mentors specialized and at all times we were asked about business models, how the product would be monetized, how much it would cost, what the first month of operation would be like, etc. I learned a lot about giving importance to business. I used to say I was an attorney for the user, today I say that I look for the meeting point between the needs of users and the needs of the business. Thanks Shawee and Uber, it was an awesome experience.
                 </div>

@@ -49,7 +49,7 @@
         <section class="flex bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Christopher
@@ -111,7 +111,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title mb-2">USER JOURNEY MAP</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <img class="align-end table-car" src="/rafael-maciel/assets/images/luxury-cars/table-car.png">
                 <table class='table-1'>
                     <thead>
@@ -211,7 +211,7 @@
         <section class='flex pt-4 pb-4 mt-2 bg-white mx-1'> 
             <h4 class="bordered-title">STAKEHOLDER KEYS</h4>
 
-            <div class="flex row gap-xl width-1080 align-start space-center">
+            <div class="flex row gap-xl container align-start space-center">
                 <div class="col-5">
                     <table class='table-1 mt-3'>
                         <thead>
@@ -268,7 +268,7 @@
         </section>
 
         <section class='flex bg-blue-9 mx-1'>
-            <div class="width-1080 py-4 col-8">
+            <div class="container py-4 col-8">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
                     <h3 class='text-white normal-title'>Luxury Cars offers the experience of going <br> anywhere with the best cars in the world.</h3>                
@@ -318,9 +318,9 @@
         </section>
 
         <section class="bg-white mx-1 flex pt-3 pb-4">
-            <img class='width-1080 mt-4' src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap1.png">
-            <hr class='width-1080 my-4'>  
-            <div class="flex width-1080 gap-xl row space-evenly align-start">
+            <img class='container mt-4' src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap1.png">
+            <hr class='container my-4'>  
+            <div class="flex container gap-xl row space-evenly align-start">
                 <div class="col-6">
                     <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap2.png" >
                 </div>
@@ -370,7 +370,7 @@
                 
                 <h4 class='bordered-title mb-3'>IA AND STRATEGY</h4>
                 
-                <div class="flex width-1080 row space-evenly align-start mt-3">
+                <div class="flex container row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui5.png" >
                     </div>
@@ -401,7 +401,7 @@
                     </div>
     
                 </div>
-                <div class="flex width-1080 row space-evenly align-start mt-3">
+                <div class="flex container row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui6.png" >
                     </div>
@@ -429,7 +429,7 @@
                     </div>
     
                 </div>
-                <div class="flex width-1080 row space-evenly align-start mt-3">
+                <div class="flex container row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui7.png" >
                     </div>
@@ -450,7 +450,7 @@
         </section>
         <section style="background-color: #171F29;" class="flex pt-3 pb-4 mx-1">
             
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -527,7 +527,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     One of the first insights that I had in the start of this project was that those are the most beautiful cars, 
                     just like pieces of art. So, why not make an almost invisible product? The cars talk for themselves. And 

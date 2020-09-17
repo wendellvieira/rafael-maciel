@@ -42,7 +42,7 @@
 
 
         <section class="flex mt-3">
-            <div class="flex row space-evenly width-1080">
+            <div class="flex row space-evenly container">
                 <div class="col-4 align-start ml-1 pt-2">
                     <p class='normal-title gilroy-bold'>
                         Hacking Rio  
@@ -142,7 +142,7 @@
         </section>
 
         <section class='flex bg-blue-9 mx-1'>
-            <div class="width-1080 py-4">
+            <div class="container py-4">
                 <p>
                     <small class='text-blue-1'>PROBLEM</small>
                     <h3 class='text-white normal-title'>How to bring the emotion of watching the game <br> at the stadium to Flamengo fans homes?.</h3>                
@@ -151,7 +151,7 @@
         </section>
 
         <section class="flex text-center bg-white mx-1">
-            <div class="flex width-1080">
+            <div class="flex container">
                 <h2 class="mt-3 gilroy-bold normal-title">Providing an immersive experience.</h2>
                 <img class="mt-2 ml-4" src="/rafael-maciel/assets/images/xports/xports_stadium.png">
                 
@@ -170,7 +170,7 @@
         <section class="flex pt-4 pb-4">
             <h4 class="bordered-title">HOW</h4>
 
-            <div class="flex width-1080 row space-between align-center pt-3">
+            <div class="flex container row space-between align-center pt-3">
                 <div class="col-6 ml-3">
                     <img src="/rafael-maciel/assets/images/xports/imagem_888.png">
                     <p>An option for the game broadcast is to invest in a <br>
@@ -201,7 +201,7 @@
 
         <section class="flex bg-white mx-1 py-2">
             <h4 class="bordered-title">OPPORTUNITY</h4>
-            <div class="flex width-1080 space-center text-left mt-3">
+            <div class="flex container space-center text-left mt-3">
                 <p>Habits are changing. <br>
                     In 2019, total internet consumption exceeded TV consumption for the first time.</p>
                 <img class="ml-4 mt-3" src="/rafael-maciel/assets/images/xports/xports_grafico_tvxinternet.png">
@@ -235,7 +235,7 @@
         <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Márcio
@@ -296,7 +296,7 @@
         <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="flex width-1080">
+            <div class="flex container">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -370,7 +370,7 @@
         <div class="flex pt-3 pb-4">
             <h4 class='bordered-title'>STORYBOARD</h4>
 
-            <div class="width-1080 grid gap-md mt-2">
+            <div class="container grid gap-md mt-2">
                 <div class="bg-white elevated-2 p-1 col-4">
                     <img src="/rafael-maciel/assets/images/xports/xports_storyboard1.png">
                     <p><b>1.</b> Raul is used to go to Flamengo’s games often, to feel the unique emotion of cheering with the biggest soccer team crowd in Brazil.</p>
@@ -496,7 +496,7 @@
 
         <section style="background-color: black;" class="flex pt-3 pb-4">
             
-            <div class="flex width-1080 row space-evenly align-start mt-3">
+            <div class="flex container row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -566,7 +566,7 @@
         </section>
 
         <section class="flex mt-3 pb-4">
-            <div class="flex width-1080 row space-center">
+            <div class="flex container row space-center">
                 <div class="col-8">
                     Being part of the largest hackathon in Latin America, with more than 1,000 participants, was an even
                     more incredible experience, since my challenge was to develop a product for Flamengo, the biggest

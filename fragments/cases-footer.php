@@ -9,7 +9,7 @@
 ?>
 
 <footer class='bg-white py-2 flex mx-1'>
-    <div class="flex width-1080 row">
+    <div class="flex container row">
 
         <div class="col-6 flex align-start">           
 
