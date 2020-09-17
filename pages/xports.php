@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 STREAMING PLATFORM
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/xports/xports_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To solve the deadlock between the 
@@ -41,8 +41,8 @@
         </section>
 
 
-        <section class="container mt-3">
-            <div class="container row space-evenly width-1080">
+        <section class="flex mt-3">
+            <div class="flex row space-evenly width-1080">
                 <div class="col-4 align-start ml-1 pt-2">
                     <p class='normal-title gilroy-bold'>
                         Hacking Rio  
@@ -66,7 +66,7 @@
         <a name='discover' class='map-cases-menu'>
             01 - Discover
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Discover</small>
@@ -74,7 +74,7 @@
             <div class="line-art"></div>
         </section>
         
-        <section class="container pt-2 pb-4">
+        <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY RESEARCH</h4>
 
             <div class="col-8 mt-2">
@@ -82,7 +82,7 @@
                 Without tickets for all the fans, the only way to watch the game is on the television. So, we asked fans about the feeling of being at the stadium in order to develop a better experience of watching a soccer game at home.
             </div>
 
-            <div class="container col-8 row space-evenly align-start gap-md pt-3">        
+            <div class="flex col-8 row space-evenly align-start gap-md pt-3">        
                 <div class="col-4" style="padding-top: 15%;">
                     <h2 class="gilroy-regular text-blue-9 normal-title">
                         “The emotion of being in the stadium, with all the crowd is unique”.
@@ -133,7 +133,7 @@
         <a name='define' class='map-cases-menu'>
             02 - Define
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Define</small>
@@ -141,7 +141,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9 mx-1'>
+        <section class='flex bg-blue-9 mx-1'>
             <div class="width-1080 py-4">
                 <p>
                     <small class='text-blue-1'>PROBLEM</small>
@@ -150,8 +150,8 @@
             </div>
         </section>
 
-        <section class="container text-center bg-white mx-1">
-            <div class="container width-1080">
+        <section class="flex text-center bg-white mx-1">
+            <div class="flex width-1080">
                 <h2 class="mt-3 gilroy-bold normal-title">Providing an immersive experience.</h2>
                 <img class="mt-2 ml-4" src="/rafael-maciel/assets/images/xports/xports_stadium.png">
                 
@@ -167,10 +167,10 @@
             
         </section>
 
-        <section class="container pt-4 pb-4">
+        <section class="flex pt-4 pb-4">
             <h4 class="bordered-title">HOW</h4>
 
-            <div class="container width-1080 row space-between align-center pt-3">
+            <div class="flex width-1080 row space-between align-center pt-3">
                 <div class="col-6 ml-3">
                     <img src="/rafael-maciel/assets/images/xports/imagem_888.png">
                     <p>An option for the game broadcast is to invest in a <br>
@@ -199,24 +199,24 @@
             </div>
         </section>
 
-        <section class="container bg-white mx-1 py-2">
+        <section class="flex bg-white mx-1 py-2">
             <h4 class="bordered-title">OPPORTUNITY</h4>
-            <div class="container width-1080 space-center text-left mt-3">
+            <div class="flex width-1080 space-center text-left mt-3">
                 <p>Habits are changing. <br>
                     In 2019, total internet consumption exceeded TV consumption for the first time.</p>
                 <img class="ml-4 mt-3" src="/rafael-maciel/assets/images/xports/xports_grafico_tvxinternet.png">
             </div>
         </section>
 
-        <section class="container bg-grey-1 mx-1 pt-3 pb-4 mt-4">
+        <section class="flex bg-grey-1 mx-1 pt-3 pb-4 mt-4">
             <h4 class='bordered-title'>KPIS</h4>
 
-            <div class="container row align-end">
+            <div class="flex row align-end">
             <img src="/rafael-maciel/assets/images/icons/measure.png">
             <h3 class='text-blue-9 mt-3 gilroy-bold'>How to measure success?</h3>
             </div>
             
-            <div class="container row align-stretch gap-xl mt-2">
+            <div class="flex row align-stretch gap-xl mt-2">
                 <div class="col-6 bg-white p-1">
                     <p>Increase the number of subscribers.</p>
                 </div>
@@ -226,16 +226,16 @@
             </div>
         </section>
 
-        <section class="container mt-4">
+        <section class="flex mt-4">
             <h4 class='bordered-title mb-3'>STAKEHOLDER MAP</h4>
             <img src="/rafael-maciel/assets/images/xports/xports_stakeholdermap.png">
             <h3 class='text-blue-9 gilroy-bold mt-4'>Besides an immersive experience, our goal is to be user centered.</h3>
         </section>
    
-        <section class="container bg-white mx-1 pt-2 pb-4 mt-2">
+        <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Márcio
@@ -246,7 +246,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                             "I want to know everything about Flamengo".
                         </div>
@@ -264,7 +264,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             With so many fans, Flamengo games are often sold out.
                         </div>
@@ -293,10 +293,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -359,7 +359,7 @@
         <a name='develop' class='map-cases-menu'>
             03 - Develop
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Develop</small>
@@ -367,7 +367,7 @@
             <div class="line-art"></div>
         </section>
 
-        <div class="container pt-3 pb-4">
+        <div class="flex pt-3 pb-4">
             <h4 class='bordered-title'>STORYBOARD</h4>
 
             <div class="width-1080 grid gap-md mt-2">
@@ -400,17 +400,17 @@
             </div>
         </div>
 
-        <section class="container bg-white mx-1 pt-3 pb-4">
+        <section class="flex bg-white mx-1 pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – SITE MAP</h4>
             <img src="/rafael-maciel/assets/images/xports/xports_sitemap.png">
         </section>
 
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title mb-2'>IA – WIREFRAME</h4>
 
             <div class="col-7">
                 <h3 class="text-left normal-title mb-14 text-blue-9">Navigation</h3>
-                <p class="container col-12 mt-14">The main state of the application will be a full screen, with nothing besides game screen, score and time. 
+                <p class="flex col-12 mt-14">The main state of the application will be a full screen, with nothing besides game screen, score and time. 
                     Since user move the mouse, tap or hit the smart tv controls, the main menu, camera and volume control will show up.
                 </p>
                 <p class="small-title mt-2">Activated main menu after click or tap.</p>
@@ -428,7 +428,7 @@
             
             <div class="col-7 mt-2">
                 <h3 class="text-left normal-title mb-14 text-blue-9">Focus on the game</h3>
-                <p class="container col-12 mt-14">When user access a menu item, the information shows up on the screen, covering the minimum space possible.</p>
+                <p class="flex col-12 mt-14">When user access a menu item, the information shows up on the screen, covering the minimum space possible.</p>
                 <p class="small-title mt-2">Activated menu and match statistics</p>
                 <img src="/rafael-maciel/assets/images/xports/xports_wireframe2.png">
             </div>
@@ -438,7 +438,7 @@
         <a name='deliver' class='map-cases-menu'>
             04 - Deliver
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
                 <small class='text-blue-9 argent-cf-bold'>Deliver</small>
@@ -446,57 +446,57 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pb-4 mt-2">
+        <section class="flex pb-4 mt-2">
             <h4 class="bordered-title mt-4">LIVE</h4>
-            <div class="container mt-3">
+            <div class="flex mt-3">
                 <div class="text-center">Activated menu screen (on mouse move or tap)</div>
                 <img src="/rafael-maciel/assets/images/xports/imagem_417.png">
             </div>
 
             <h4 class="bordered-title mt-4">STATISTICS</h4>
-            <div class="container mt-2">
+            <div class="flex mt-2">
                 <img src="/rafael-maciel/assets/images/xports/xports_ui2.png">
             </div>
 
             <h4 class="bordered-title mt-4">REPLAY</h4>
-            <div class="container mt-2">
+            <div class="flex mt-2">
                 <div class="text-center">Video and image share</div>
                 <img src="/rafael-maciel/assets/images/xports/imagem_423.png">
             </div>
 
             <h4 class="bordered-title mt-4">STANDINGS</h4>
-            <div class="container mt-2">
+            <div class="flex mt-2">
                 <img src="/rafael-maciel/assets/images/xports/imagem_420.png">
             </div>
 
             <h4 class="bordered-title mt-4">CHAT</h4>
-            <div class="container mt-2">
+            <div class="flex mt-2">
                 <img src="/rafael-maciel/assets/images/xports/imagem_421.png">
             </div>
 
             <h4 class="bordered-title mt-4">COMPLETE EXPERIENCE</h4>
-            <div class="container mt-2">
+            <div class="flex mt-2">
                 <div class="text-center">Pre-match experience</div>
                 <img src="/rafael-maciel/assets/images/xports/imagem_425.png">
             </div>
 
-            <div class="container mt-4">
+            <div class="flex mt-4">
                 <div class="text-center">Half-time break</div>
                 <img src="/rafael-maciel/assets/images/xports/imagem_426.png">
             </div>
             
-            <div class="container">
+            <div class="flex">
                 <div class="text-center mt-4">Finished match</div>
                 <img src="/rafael-maciel/assets/images/xports/imagem_890.png">
             </div>
         </section>
-        <section class="container pt-3 pb-2">
+        <section class="flex pt-3 pb-2">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
 
-        <section style="background-color: black;" class="container pt-3 pb-4">
+        <section style="background-color: black;" class="flex pt-3 pb-4">
             
-            <div class="container width-1080 row space-evenly align-start mt-3">
+            <div class="flex width-1080 row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -557,7 +557,7 @@
         <a name='final-words' class='map-cases-menu'>
             05 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -565,8 +565,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container mt-3 pb-4">
-            <div class="container width-1080 row space-center">
+        <section class="flex mt-3 pb-4">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     Being part of the largest hackathon in Latin America, with more than 1,000 participants, was an even
                     more incredible experience, since my challenge was to develop a product for Flamengo, the biggest

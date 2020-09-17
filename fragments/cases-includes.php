@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/rafael-maciel/assets/css/vars.css">
+<link rel="stylesheet" href="/rafael-maciel/assets/css/responsive.css">
 <link rel="stylesheet" href="/rafael-maciel/assets/css/ArgentCF/stylesheet.css">
 <link rel="stylesheet" href="/rafael-maciel/assets/css/Gilroy/stylesheet.css">
 <link rel="stylesheet" href="/rafael-maciel/assets/css/cases-style.css">

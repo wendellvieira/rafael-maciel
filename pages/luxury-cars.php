@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 ONLINE LUXURY CAR RENTING SERVICE
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To create strategy and prototype of a car rental service website. <br>
@@ -39,17 +39,17 @@
         <a name='meeting-the-user' class='map-cases-menu'>
             01 - Meeting the user
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class="container bg-white pt-2 pb-4 mx-1">
+        <section class="flex bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Christopher
@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                             "I just want to live my dreams".
                         </div>
@@ -79,7 +79,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             I want the specific car that I rented. Same model, color etc.
                         </div>
@@ -108,10 +108,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title mb-2">USER JOURNEY MAP</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <img class="align-end table-car" src="/rafael-maciel/assets/images/luxury-cars/table-car.png">
                 <table class='table-1'>
                     <thead>
@@ -208,10 +208,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2 bg-white mx-1'> 
+        <section class='flex pt-4 pb-4 mt-2 bg-white mx-1'> 
             <h4 class="bordered-title">STAKEHOLDER KEYS</h4>
 
-            <div class="container row gap-xl width-1080 align-start space-center">
+            <div class="flex row gap-xl width-1080 align-start space-center">
                 <div class="col-5">
                     <table class='table-1 mt-3'>
                         <thead>
@@ -259,7 +259,7 @@
         <a name='principles' class='map-cases-menu'>
             02 - Principles
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Principles</small>
@@ -267,7 +267,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9 mx-1'>
+        <section class='flex bg-blue-9 mx-1'>
             <div class="width-1080 py-4 col-8">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
@@ -284,15 +284,15 @@
             </div>
         </section>
 
-        <section class="bg-grey-1 mx-1 container pt-2 pb-4">
+        <section class="bg-grey-1 mx-1 flex pt-2 pb-4">
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class="gilroy-bold text-blue-9 normal-title my-2 container row">
+            <h2 class="gilroy-bold text-blue-9 normal-title my-2 flex row">
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container row gap-xl align-stretch space-center">
+            <div class="flex row gap-xl align-stretch space-center">
                 <div class="col-4 bg-white p-1">
                     <p>Increase number of car <br> rentals.</p>
                 </div>
@@ -309,7 +309,7 @@
         <a name='site-map' class='map-cases-menu'>
             03 - Site Map
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Site Map</small>
@@ -317,10 +317,10 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="bg-white mx-1 container pt-3 pb-4">
+        <section class="bg-white mx-1 flex pt-3 pb-4">
             <img class='width-1080 mt-4' src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap1.png">
             <hr class='width-1080 my-4'>  
-            <div class="container width-1080 gap-xl row space-evenly align-start">
+            <div class="flex width-1080 gap-xl row space-evenly align-start">
                 <div class="col-6">
                     <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_sitemap2.png" >
                 </div>
@@ -343,34 +343,34 @@
         <a name='user-interface' class='map-cases-menu'>
             04 - User Interface
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Interface</small>
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title mb-3'>HOME</h4>
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui1.png">
         </section>
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CAR SELECTION</h4>
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui2.png">
         </section>
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CAR PAGE</h4>
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui3.png">
         </section>
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title mb-3'>CHEKOUT</h4>
             <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui4_01.png">
         </section>
-        <section class="container bg-white pt-3 mx-1 pb-4">
+        <section class="flex bg-white pt-3 mx-1 pb-4">
                 
                 <h4 class='bordered-title mb-3'>IA AND STRATEGY</h4>
                 
-                <div class="container width-1080 row space-evenly align-start mt-3">
+                <div class="flex width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui5.png" >
                     </div>
@@ -401,7 +401,7 @@
                     </div>
     
                 </div>
-                <div class="container width-1080 row space-evenly align-start mt-3">
+                <div class="flex width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui6.png" >
                     </div>
@@ -429,7 +429,7 @@
                     </div>
     
                 </div>
-                <div class="container width-1080 row space-evenly align-start mt-3">
+                <div class="flex width-1080 row space-evenly align-start mt-3">
                     <div class="col-4">
                         <img src="/rafael-maciel/assets/images/luxury-cars/luxurycars_ui7.png" >
                     </div>
@@ -445,12 +445,12 @@
                 </div>
                 
         </section>
-        <section class="container pt-3 pb-2">
+        <section class="flex pt-3 pb-2">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </section>
-        <section style="background-color: #171F29;" class="container pt-3 pb-4 mx-1">
+        <section style="background-color: #171F29;" class="flex pt-3 pb-4 mx-1">
             
-            <div class="container width-1080 row space-evenly align-start mt-3">
+            <div class="flex width-1080 row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -518,7 +518,7 @@
         <a name='final-words' class='map-cases-menu'>
             05 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -526,8 +526,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container mt-3 pb-4">
-            <div class="container width-1080 row space-center">
+        <section class="flex mt-3 pb-4">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     One of the first insights that I had in the start of this project was that those are the most beautiful cars, 
                     just like pieces of art. So, why not make an almost invisible product? The cars talk for themselves. And 

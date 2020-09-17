@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 LEARNING EXPERIENCE
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-medium normal-title'>Challenge</h3>
                 <p class='text-normal'>To redesign Wikipedia and provide a
@@ -44,17 +44,17 @@
         <a name='discover' class='map-cases-menu'>
             01 - Discover
         </a>        
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Discover</small>
             </h2>
             <div class="line-art"></div>
         </section>
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">CONTEXT</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -119,15 +119,15 @@
             
         </section>
 
-        <section class="container mx-1 bg-white">
+        <section class="flex mx-1 bg-white">
             <h4 class='bordered-title mt-4'>QUANTITATIVE RESEARCH</h4>
 
-            <div class="container width-1080 mt-3">
+            <div class="flex width-1080 mt-3">
                 <div class="text-center gilroy-bold text-blue-9 normal-title">
                     Research Plan
                 </div>
 
-                <div class="container row mt-2">
+                <div class="flex row mt-2">
                     <div class="col-10">
                         I’ve asked users to think about a subject that they’re studying for their career, or for school to young users, and then I asked them to seek for this topic at Wikipedia and then to answer these questions:
                     </div>
@@ -136,9 +136,9 @@
                     </div>
                 </div>
 
-                <div class="container bg-blue-9 mb-4">
+                <div class="flex bg-blue-9 mb-4">
                         
-                    <div class="container width-1080 space-center row py-1">
+                    <div class="flex width-1080 space-center row py-1">
                         <div class="col-4 text-white">
                             1. What could be improved in the page?<br><br>
                             2. Is the content organized and easy to read?
@@ -150,7 +150,7 @@
                             To understand the efficiency of today’s  information architecture.
                         </div>
                     </div>
-                    <div style='background: #384765' class="container width-1080 space-center row py-1">
+                    <div style='background: #384765' class="flex width-1080 space-center row py-1">
                         <div class="col-4 text-white">
                             3. Do you think Wikipedia is reliable?
                         </div>
@@ -161,7 +161,7 @@
                             To evaluate the level of reliability of Wikipedia.
                         </div>
                     </div>
-                    <div class="container width-1080 space-center row py-1">
+                    <div class="flex width-1080 space-center row py-1">
                         <div class="col-4 text-white">
                             4. Would you spend the same time reading a book to learn through Wikipedia?
 
@@ -174,7 +174,7 @@
 
                         </div>
                     </div>
-                    <div style='background: #384765' class="container width-1080 space-center row py-1">
+                    <div style='background: #384765' class="flex width-1080 space-center row py-1">
                         <div class="col-4 text-white">
                             5. What topic did you search?
                         </div>
@@ -185,7 +185,7 @@
                             To follow users path, and to help creating personas, based on what they’ve searched and their answers. 
                         </div>
                     </div>
-                    <div class="container width-1080 space-center row py-1">
+                    <div class="flex width-1080 space-center row py-1">
                         <div class="col-4 text-white">
                             6. For what purpose do you usually access Wikipedia content?
 
@@ -204,10 +204,10 @@
         </section>
 
 
-        <section class="container px-4 mt-3">
+        <section class="flex px-4 mt-3">
             <h2 class="mt-4 medium-title text-blue-9 gilroy-bold">Research Insights</h2>
 
-            <div class="container row space-evenly align-start">
+            <div class="flex row space-evenly align-start">
 
                 <div class="col-6 align-center ml-1 pt-2">
                     <h3 class='text-big gilroy-blod text-blue-9'>
@@ -226,7 +226,7 @@
                 </div>
             </div>
 
-            <div class='container gap-lg row space-evenly align-center'>
+            <div class='flex gap-lg row space-evenly align-center'>
                 <div class="col-6 align-start ml-1 pt-2">
                     <h3 class='text-big gilroy-blod text-blue-9'>
                         Most users answered that would spend time at
@@ -248,7 +248,7 @@
         <a name='define' class='map-cases-menu'>
             02 - Define
         </a>        
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Define</small>
@@ -256,7 +256,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9 mx-1'>
+        <section class='flex bg-blue-9 mx-1'>
             <div class="col-8 py-4">
                 <p>
                     <small class='text-blue-1'>CHALLENGES</small>
@@ -270,11 +270,11 @@
             </div>
         </section>
 
-        <section class="container px-1 pt-2 mt-2">
-            <div class="container bg-white col-12 pt-2 pb-4">
+        <section class="flex px-1 pt-2 mt-2">
+            <div class="flex bg-white col-12 pt-2 pb-4">
                 <h4 class="bordered-title">PERSONA 1</h4>
 
-                <div class="container width-1080">
+                <div class="flex width-1080">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Ricardo
@@ -285,7 +285,7 @@
                     </div>
 
                     <div class="col-12">
-                        <div class="container row">
+                        <div class="flex row">
                             <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                                 “Google is the extension of my knowledge.”
                             </div>
@@ -303,7 +303,7 @@
 
                     <div class="col-12 pt-1">                    
                         <span class='small-title'>CORE NEEDS</span>
-                        <div class="container row gap-md align-stretch mt-14">
+                        <div class="flex row gap-md align-stretch mt-14">
                             <div class="col-3 bg-blue-9 text-white p-1">
                                 I want to have access to a brief, but well-explained content.
                             </div>
@@ -323,10 +323,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4'> 
+        <section class='flex pt-4 pb-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP - RICARDO</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -402,11 +402,11 @@
             </div>
         </section>
 
-        <section class="container px-1 pt-2 mt-2">
-            <div class="container bg-white col-12 pt-2 pb-4">
+        <section class="flex px-1 pt-2 mt-2">
+            <div class="flex bg-white col-12 pt-2 pb-4">
                 <h4 class="bordered-title">PERSONA 2</h4>
     
-                <div class="container width-1080">
+                <div class="flex width-1080">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Helen
@@ -417,7 +417,7 @@
                     </div>
     
                     <div class="col-12">
-                        <div class="container row">
+                        <div class="flex row">
                             <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                                 “A cold place, a coffee and a good book.”
                             </div>
@@ -435,7 +435,7 @@
     
                     <div class="col-12 pt-1">                    
                         <span class='small-title'>CORE NEEDS</span>
-                        <div class="container row gap-md align-stretch mt-14">
+                        <div class="flex row gap-md align-stretch mt-14">
                             <div class="col-3 bg-blue-9 text-white p-1">
                                 I want to read excellent quality  and well written content.
                             </div>
@@ -455,10 +455,10 @@
             </div>
         </section>
 
-        <section class='container pt-4'> 
+        <section class='flex pt-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP - HELEN</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -534,20 +534,20 @@
             </div>
         </section>
 
-        <section class="container pb-4 mt-4">
+        <section class="flex pb-4 mt-4">
             <h4 class='bordered-title'>STAKEHOLDER MAP</h4>
             <img class='mt-3' src="/rafael-maciel/assets/images/wikipedia/wiki_stakeholdermap.png">
         </section>
 
-        <section class='bg-grey-1 mt-4 mx-1 container px-2 pt-3 pb-4'>
+        <section class='bg-grey-1 mt-4 mx-1 flex px-2 pt-3 pb-4'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container row align-stretch space-center">
+            <div class="flex row align-stretch space-center">
                 <div class="col-4 bg-white mr-1 p-1">
                     Increase the number of visits.
                 </div>
@@ -563,7 +563,7 @@
         <a name='develop' class='map-cases-menu'>
             03 - Develop
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Develop</small>
@@ -571,18 +571,18 @@
             <div class="line-art"></div>
         </section>
         
-        <div class="container pt-3 pb-4 px-1">
-            <div class="container bg-white col-12 pt-2 pb-3">
+        <div class="flex pt-3 pb-4 px-1">
+            <div class="flex bg-white col-12 pt-2 pb-3">
                 <h4 class='bordered-title mb-3'>IA – SITE MAP</h4>
                 <img src="/rafael-maciel/assets/images/wikipedia/wiki_sitemap.png">
             </div>
         </div>
 
-        <section class="container pt-3 pb-4 px-1">
-            <div class="container pt-2 pb-4">
-                <div class="container col-10">
+        <section class="flex pt-3 pb-4 px-1">
+            <div class="flex pt-2 pb-4">
+                <div class="flex col-10">
                     <h4 class='bordered-title mb-3'>IA – WIREFRAME</h4>
-                    <div class="container row gap-xl space-evenly align-start mt-3">  
+                    <div class="flex row gap-xl space-evenly align-start mt-3">  
                         <div class="col-4">
                             <h3 class="normal-title gilroy-bold text-blue-9">Homepage</h3>
                             <h4 class='text-big text-blue-9'>A big highlight for the search box</h4>
@@ -610,17 +610,17 @@
             </div>
         </section>
 
-        <section class="container pb-4">
+        <section class="flex pb-4">
             <h2 class='text-blue-9'>Smart Search Engine</h2>
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_smartsearch_ilus.png">
        </section>
 
-        <section class="container pt-3 pb-4 px-1">
+        <section class="flex pt-3 pb-4 px-1">
 
-            <div class="container pt-2 pb-4">
+            <div class="flex pt-2 pb-4">
                 <h4 class='bordered-title mb-3'>ARTICLE PAGE</h4>
-                <div class="col-10 container">
-                    <div class="container row gap-xl space-evenly  align-start">  
+                <div class="col-10 flex">
+                    <div class="flex row gap-xl space-evenly  align-start">  
                         <div class="col-4">
                             <div class="text-big gilroy-medium text-blue-9">
                                 Default header
@@ -661,8 +661,8 @@
                 </div>
 
                 <h4 class='bordered-title mb-3 mt-4'>LEARNING PATH</h4>
-                <div class="container col-10">
-                    <div class="container gap-xl row space-evenly align-start">  
+                <div class="flex col-10">
+                    <div class="flex gap-xl row space-evenly align-start">  
                         <div class="col-4">
                             <p class='text-normal'>Learning paths are like a playlist of articles.</p>
         
@@ -694,8 +694,8 @@
                 </div>
 
                 <h4 class='bordered-title mb-3 mt-4'>USER DASHBOARD</h4>
-                <div class="col-10 container">
-                    <div class="container row col-12 gap-xl space-evenly align-start">  
+                <div class="col-10 flex">
+                    <div class="flex row col-12 gap-xl space-evenly align-start">  
                         <div class="col-4">
                             <h3 class="text-big gilroy-medium text-blue-9">Latest activities</h3>
                             <p class='text-normal'>Go back to where you left off.</p>
@@ -719,7 +719,7 @@
     <a name='deliver' class='map-cases-menu'>
         04 - Deliver
     </a>
-    <section class="container bg-grid pt-1 pb-4 mt-2">
+    <section class="flex bg-grid pt-1 pb-4 mt-2">
         <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
             04 <br>
             <small class='text-blue-9 argent-cf-bold'>Deliver</small>
@@ -727,33 +727,33 @@
         <div class="line-art"></div>
     </section>
 
-    <section class="container pb-4">
+    <section class="flex pb-4">
         <h4 class="bordered-title mt-4">HOME</h4>
-        <div class="container py-3">
+        <div class="flex py-3">
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui1.png">
         </div>
         <h4 class="bordered-title">HOME - SEARCH</h4>
-        <div class="container pb-3">
+        <div class="flex pb-3">
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui2.png">
         </div>
         <h4 class="bordered-title mt-4">ARTICLE</h4>
-        <div class="container">
+        <div class="flex">
             <h5 class="text-center">Video and image share</h5>
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui3.png">
         </div>
         <h4 class="bordered-title mt-4">LEARNING PATH</h4>
-        <div class="container mt-3">
+        <div class="flex mt-3">
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui4.png">
         </div>
         <h4 class="bordered-title mt-4">USER DASHBOARD</h4>
-        <div class="container mt-4">
+        <div class="flex mt-4">
             <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui5.png">
         </div>
     </section>
-    <section class="container pb-4">
-        <div class="container pb-4 col-10">
+    <section class="flex pb-4">
+        <div class="flex pb-4 col-10">
             <h4 class='bordered-title mb-3'>SMARTWATCH APP</h4>
-            <div class="container row space-evenly align-start mt-3">  
+            <div class="flex row space-evenly align-start mt-3">  
                 <div class="col-9 align-center">
 
                     <h3 class="text-big gilroy-bold text-blue-9">Opportunity</h3>
@@ -772,11 +772,11 @@
             </div>
         </div>
     
-        <div class="container pt-3 pb-4">
+        <div class="flex pt-3 pb-4">
             <h4 class='bordered-title'>SCREENS</h4>
         </div>
 
-        <div class="container width-1080 row space-center text-center mt-4 align-start">
+        <div class="flex width-1080 row space-center text-center mt-4 align-start">
 
             <div class='col-3'>
                 <p class='mb-1 text-normal'>Home</p>
@@ -798,7 +798,7 @@
             
         </div>
 
-        <div class="container gap-lg width-1080 row space-center text-center mt-4 align-start">
+        <div class="flex gap-lg width-1080 row space-center text-center mt-4 align-start">
             <div class='col-3'>
                 <p class='mb-1 text-normal'>Result</p>
                 <img src="/rafael-maciel/assets/images/wikipedia/wiki_ui8.png">
@@ -831,13 +831,13 @@
         </div>  
     </section>
 
-    <section class="container pt-3 pb-2">
+    <section class="flex pt-3 pb-2">
         <h4 class='bordered-title'>STYLE GUIDE</h4>
     </section>
 
-    <section style="background-color: #1B182D;" class="container pb-4 mx-1">
+    <section style="background-color: #1B182D;" class="flex pb-4 mx-1">
         
-        <div class="container width-1080 row space-evenly align-start mt-3">
+        <div class="flex width-1080 row space-evenly align-start mt-3">
             <div class="col-3">
                 <nav class="style-guide">
                     <header class='gilroy-bold text-white'>Colors</header>
@@ -900,7 +900,7 @@
     <a name='final-words' class='map-cases-menu'>
         06 - Final Words
     </a>
-    <section class="container bg-grid pt-1 pb-4 mt-2">
+    <section class="flex bg-grid pt-1 pb-4 mt-2">
         <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
             06 <br>
             <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -908,8 +908,8 @@
         <div class="line-art"></div>
     </section>
 
-    <section class="container mt-3 pb-4">
-        <div class="container width-1080 row space-center">
+    <section class="flex mt-3 pb-4">
+        <div class="flex width-1080 row space-center">
             <div class="col-8">
                 The biggest learning of the project, in addition to the responsibility of proposing a new design for the
                 largest repository of Internet content, was the challenge of creating a voice interface with a large

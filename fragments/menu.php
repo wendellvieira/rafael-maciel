@@ -56,7 +56,7 @@
                 <ul class='text-white f-22 pl-none' >Plantão de Vendas</ul>
             </a>
             
-            <ul class="container row align-center space-between pl-none pt-2 pb-4">
+            <ul class="flex row align-center space-between pl-none pt-2 pb-4">
                 <a href="" class="text-white" >About</a>
 
                 <a href="">

@@ -12,7 +12,7 @@
 <body>
     <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 TAX PAYMENT GUIDE WEBSITE
             </div>
@@ -25,7 +25,7 @@
             <img src="/rafael-maciel/assets/images/guia-ir/guiair_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To create an easy to follow payment taxes guide.</p>
@@ -39,7 +39,7 @@
         <a name='meeting-the-user' class='map-cases-menu'>
             01 - Meeting the user
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
@@ -48,10 +48,10 @@
         </section>
 
 
-        <section class="container bg-white pt-2 pb-4 mx-1">
+        <section class="flex bg-white pt-2 pb-4 mx-1">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Marcos
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                             "I want to fill my taxes form as fast as possible".
                         </div>
@@ -77,7 +77,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             I don't want to lose so much time.
                         </div>
@@ -98,10 +98,10 @@
             </div>
         </section>
 
-        <section class='container pt-3 pb-4'> 
+        <section class='flex pt-3 pb-4'> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="container  width-1080">
+            <div class="flex  width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -139,11 +139,11 @@
             </div>            
         </section>
 
-        <section class="container py-4">
+        <section class="flex py-4">
             <h4 class='bordered-title mb-3'>STAKEHOLDER MAP</h4>
             <img src="/rafael-maciel/assets/images/guia-ir/guiair_stakeholdermap.png">
 
-            <div class="container row space-evenly align-start width-1080 mt-3">
+            <div class="flex row space-evenly align-start width-1080 mt-3">
                 <div class="col-3">
                     <h3 class='text-blue-9 mb-14'>Clients</h3>
                     <p>Wants an easy and fast way to <br> fill their taxes form.</p>
@@ -164,7 +164,7 @@
         <a name='principles' class='map-cases-menu'>
             02 - Principles
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Principles</small>
@@ -172,7 +172,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container bg-blue-9'>
+        <section class='flex bg-blue-9'>
             <div class="width-1080 py-4">
                 <p>
                     <small class='text-blue-1'>VALUE PROPOSITION</small>
@@ -189,17 +189,17 @@
             </div>
         </section>
 
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title'>KPIS</h4>
 
-            <div class="container row mt-3">
+            <div class="flex row mt-3">
                 <img src="/rafael-maciel/assets/images/guia-ir/foguete.png" >
                 <h3 class='text-blue-9 gilroy-bold normal-title m-none'>
                     How to measure success?
                 </h3>
             </div>
             
-            <div class="container row space-center gap-lg align-stretch mt-2">
+            <div class="flex row space-center gap-lg align-stretch mt-2">
                 <div class="bg-white col-3 p-1">
                     <p>Reduce calls to the call center asking for help about filling the taxes form.</p>
                 </div>
@@ -212,7 +212,7 @@
         <a name='site-map' class='map-cases-menu'>
             03 - Site Map
         </a>
-        <section class="container bg-grid py-4">
+        <section class="flex bg-grid py-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Site Map</small>
@@ -220,8 +220,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container bg-white py-3 mx-1">
-            <div class="container width-1080">
+        <section class="flex bg-white py-3 mx-1">
+            <div class="flex width-1080">
                 <img src="/rafael-maciel/assets/images/guia-ir/guiair_sitemap.png" alt="">
 
                 <div class="col-8 mt-2">
@@ -240,7 +240,7 @@
         <a name='user-interface' class='map-cases-menu'>
             04 - User Interface
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-4">
+        <section class="flex bg-grid pt-1 pb-4 mt-4">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Interface</small>
@@ -248,15 +248,15 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title'>MOBILE</h4>
             <p class='mt-3'>Home - Investment product selection</p>
-            <div class="container gap-xl row align-center space-center">
+            <div class="flex gap-xl row align-center space-center">
                 <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui1.png" alt="">
                 <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui2.png" alt="">
             </div>
 
-            <div class="container gap-xl row align-center space-center text-center mt-4">
+            <div class="flex gap-xl row align-center space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
                     <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui3.png" alt="">
@@ -274,13 +274,13 @@
         </section>
 
 
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title'>DESKTOP</h4>
             
             <p class="mt-3">Home - Investment product selection</p>
             <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui6.png" alt="">
             
-            <div class="container gap-xl row align-start space-center text-center mt-4">
+            <div class="flex gap-xl row align-start space-center text-center mt-4">
                 <div>
                     <p>User documents check</p>
                     <img class='elevated-5' src="/rafael-maciel/assets/images/guia-ir/guiair_ui7.png" alt="">
@@ -296,12 +296,12 @@
         </section>
 
 
-        <div class="container pt-3 pb-4">
+        <div class="flex pt-3 pb-4">
             <h4 class='bordered-title'>STYLE GUIDE</h4>
         </div>
 
-        <section  class="container pt-3 pb-4 bg-blue">
-            <div class="container width-1080 row space-evenly align-start mt-3 ">
+        <section  class="flex pt-3 pb-4 bg-blue">
+            <div class="flex width-1080 row space-evenly align-start mt-3 ">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -347,7 +347,7 @@
         <a name='final-words' class='map-cases-menu'>
             05 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -355,8 +355,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container mt-3 pb-4">
-            <div class="container width-1080 row space-center">
+        <section class="flex mt-3 pb-4">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     The most remarkable learning with this project was that users do not always expect to be delighted by the aesthetics of the product. When the user's need is to quickly complete a certain task, which he does not like to do, the best way to satisfy him is to provide the shortest, simplest and fastest experience possible.                </div>
             </div>

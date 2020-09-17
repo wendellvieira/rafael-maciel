@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 AUTHOR WEBSITE
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start pt-3">
+        <section class="flex row space-evenly align-start pt-3">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To introduce his books to a new generation of readers.</p>
@@ -36,15 +36,15 @@
         </section>
 
 
-        <section class='container pt-2 pb-4 bg-grey-1 mt-4 mx-1'>
+        <section class='flex pt-2 pb-4 bg-grey-1 mt-4 mx-1'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container row align-stretch space-center">
+            <div class="flex row align-stretch space-center">
                 <div class="col-12 bg-white mr-1 p-1">
                     Increase book sales.
                 </div>
@@ -54,7 +54,7 @@
         <a name='meeting-the-user' class='map-cases-menu'>
             01 - Meeting the user
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Meeting the user</small>
@@ -62,10 +62,10 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container bg-white mx-1 pt-2 pb-4 mt-2">
+        <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="container width-1080 ">
+            <div class="flex width-1080 ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Valentina
@@ -76,7 +76,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-regular normal-title letter-045 text-blue-9 ">
                             “I'm not a kid”.
                         </div>
@@ -95,7 +95,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             I love playing games in my computer or iPad.
                         </div>
@@ -116,10 +116,10 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-4">
+        <section class="flex pt-2 pb-4">
             <h4 class="bordered-title">EARLY STAGE RESEARCH</h4>
 
-            <div class="container width-1080 row space-between align-start pt-3">
+            <div class="flex width-1080 row space-between align-start pt-3">
                 <div class="col-6 pr-3">
                     <h3 class='text-blue-9 medium-title letter-045'>Websites <br> are boring.</h3>
                     <p>
@@ -144,7 +144,7 @@
         <a name='user-interface' class='map-cases-menu'>
             02 - User Interface
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Interface</small>
@@ -152,43 +152,43 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">HOME</h4>
-            <div class="container py-3">
+            <div class="flex py-3">
                 <img src="/rafael-maciel/assets/images/rick-riordan/site_rick_riordan_home1_percyjackson.png">
             </div>
 
-            <div class="container pb-3">
+            <div class="flex pb-3">
                 <img src="/rafael-maciel/assets/images/rick-riordan/site_rick_riordan_home1_cronicasdoskane.png">
             </div>
 
-            <div class="container pb-3">
+            <div class="flex pb-3">
                 <img src="/rafael-maciel/assets/images/rick-riordan/site_rick_riordan_home1_heroisdoolimpo.png">
             </div>
 
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/rick-riordan/site_rick_riordan_home1_extras.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">SERIES PAGE</h4>
-            <div class="container py-3">
+            <div class="flex py-3">
                 <img src="/rafael-maciel/assets/images/rick-riordan/Series-page.png">
             </div>
         </section>
         
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">AUTHOR</h4>
-            <div class="container py-3">
+            <div class="flex py-3">
                 <img src="/rafael-maciel/assets/images/rick-riordan/rickriordan_ui6.png">
             </div>
         </section>
 
-        <section class="container pt-2 bg-white mx-1 pb-4">
+        <section class="flex pt-2 bg-white mx-1 pb-4">
             <h4 class="bordered-title">IA AND STRATEGY</h4>
 
-            <div class="container width-1080 row space-between align-start py-3">
+            <div class="flex width-1080 row space-between align-start py-3">
                 <div class="col-6 pl-2 pr-3">
                     <img src="/rafael-maciel/assets/images/rick-riordan/ia-and-strategy-01.png" class='mt-1'>
                 </div>
@@ -203,7 +203,7 @@
                 </div>
             </div>
             
-            <div class="container width-1080 row space-between align-start">
+            <div class="flex width-1080 row space-between align-start">
                 <div class="col-6 pl-2 pr-3">
                     <img src="/rafael-maciel/assets/images/rick-riordan/ia-and-strategy-02.png" class='mt-1'>
                 </div>
@@ -223,12 +223,12 @@
 
         </section>
         
-        <section class='container pt-3 pb-4'>
+        <section class='flex pt-3 pb-4'>
             <h4 class="bordered-title">STYLE GUIDE</h4>
         </section>
 
-        <section class='container pt-3 pb-4 mx-1' style="background-color:#191E22">
-            <div class="container width-1080 row space-evenly align-start mt-3" >
+        <section class='flex pt-3 pb-4 mx-1' style="background-color:#191E22">
+            <div class="flex width-1080 row space-evenly align-start mt-3" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -275,7 +275,7 @@
         <a name='final-words' class='map-cases-menu'>
             03 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small> 
@@ -283,9 +283,9 @@
             <div class="line-art"></div>
         </section>
         
-        <section class="container pb-4">
+        <section class="flex pb-4">
             <img src="/rafael-maciel/assets/images/rick-riordan/espada.png" class="col-12 pb-3">
-            <div class="container width-1080 row space-center">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     Check the live version at www.rickriordan.com.br
                     <br><br>

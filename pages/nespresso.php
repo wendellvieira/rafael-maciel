@@ -10,7 +10,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 SHOPPING EXPERIENCE
             </div>
@@ -23,7 +23,7 @@
             <img src="/rafael-maciel/assets/images/nespresso/nespresso_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 normal-title gilroy-medium'>Challenge</h3>
                 <p class='text-normal'>To redesign Nespresso website and
@@ -44,7 +44,7 @@
         <a name='discover' class='map-cases-menu'>
             01 - Discover
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Discover</small>
@@ -52,12 +52,12 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container my-2">
+        <section class="flex my-2">
             <h4 class="bordered-title">PROJECT ENVIRONMENT</h4>
         </section>
-        <section class='space-evenly container row px-1'>
-            <div class="container bg-blue-9 col-12 row space-center">
-                <div class="container col-3 py-4 mr-3 row">
+        <section class='space-evenly flex row px-1'>
+            <div class="flex bg-blue-9 col-12 row space-center">
+                <div class="flex col-3 py-4 mr-3 row">
                     <div class="mr-1">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_icon_client.png" alt="">
                     </div>
@@ -68,7 +68,7 @@
                     </p>
                     </div>
                 </div>
-                <div class="container col-3 row">
+                <div class="flex col-3 row">
                     <div class="mr-1">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_icon_company.png" alt="">
                     </div>
@@ -83,15 +83,15 @@
 
         </section>
 
-        <section class='bg-grey-1 mx-1 container px-2 pt-2 pb-4'>
+        <section class='bg-grey-1 mx-1 flex px-2 pt-2 pb-4'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container row align-stretch space-center">
+            <div class="flex row align-stretch space-center">
                 <div class="col-3 bg-white mr-1 p-1">
                     Increase the number of sales <br>
                     of coffee and machines.
@@ -106,7 +106,7 @@
             </div>
         </section>
         
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">COMPETITIVE ANALYSIS</h4>
 
             <div class="width-1080 mt-2">
@@ -175,10 +175,10 @@
             
         </section>
 
-        <section class="container row space-center align-center mt-2 px-1">
-            <div class="container bg-white pt-2 pb-4 col-12">
+        <section class="flex row space-center align-center mt-2 px-1">
+            <div class="flex bg-white pt-2 pb-4 col-12">
                 <h4 class="bordered-title">HEURISTIC ANALYSIS</h4>  
-                <div class="container row col-10">
+                <div class="flex row col-10">
     
                     <div class="col-4 row align-center ml-1 pt-2">
                         <h3 class='text-blue-9 normal-title gilroy-medium'>
@@ -204,8 +204,8 @@
             </div>
         </section>
 
-        <section class='container px-1'>
-            <div class='container col-12 bg-blue-9'>
+        <section class='flex px-1'>
+            <div class='flex col-12 bg-blue-9'>
                 <div class="align-center py-4">
                     <p>
                         <small class='text-blue-1'>THE NESPRESSO WEBSITE HAS GOOD USABILITY, BUT</small>
@@ -217,10 +217,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">CONTEXT</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -272,7 +272,7 @@
             </div>
         </section>
 
-        <section class='container pt-4 mt-2'> 
+        <section class='flex pt-4 mt-2'> 
             <h4 class="bordered-title">QUALITATIVE RESEARCH</h4>
 
             <div class="col-8 relative mt-4 mb-2">
@@ -282,9 +282,9 @@
                 <img class='fixed-right' src="/rafael-maciel/assets/images/general/survey-monkey.png" />
             </div>
 
-            <div class="container col-8 bg-blue-9">
+            <div class="flex col-8 bg-blue-9">
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         1. Do you own a capsule coffee machine?
                     </div>
@@ -295,7 +295,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         2. What is your knowledge level about capsule coffee machines? <br>  
                         <span class='text-blue-1'>(none, very little, machine owner , much knowledge or professional)</span>
@@ -305,7 +305,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         3. What features do you consider when buying a capsule coffee maker? <br>
                         <span class='text-blue-1'>(price, quantity supported, type of drink, aesthetics).</span>
@@ -315,7 +315,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         4. What decisions do you usually make when choosing which capsules to buy?  <br>
                         <span class='text-blue-1'>(Favorite flavors, strength, new flavors, promotional packs).</span>
@@ -325,7 +325,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         5. What do you think about buying a box with assorted flavors to try different coffees? Why?
                     </div>
@@ -334,7 +334,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         6. What is your level of interest in learning coffee beverage recipes?
                     </div>
@@ -343,7 +343,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         7. Do you have any information about capsule recycling of your coffee machine? Are you interested in knowing more about it?
                     </div>
@@ -351,7 +351,7 @@
                         Know if users are concern about recycling coffee capsules.
                     </div>
                 </div>
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         8. What are the good aspects of having a capsule coffee machine at home or work, for you?
                     </div>
@@ -360,7 +360,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         9. And, Is there any bad aspect?
                     </div>
@@ -369,7 +369,7 @@
                     </div>
                 </div>
 
-                <div class="container row w-100 alerned-bg">
+                <div class="flex row w-100 alerned-bg">
                     <div class="col-6 py-1 px-2 text-white">
                         10. What coffee machine brand do you own? Or would you like to buy?
                     </div>
@@ -382,7 +382,7 @@
 
         </section>
 
-        <section class='container pt-4 pb-4'> 
+        <section class='flex pt-4 pb-4'> 
             <h4 class="bordered-title">RESEARCH RESULTS</h4>
             <div class="grid gap-xl col-8 mt-3">
                 <div class="col-4">
@@ -421,8 +421,8 @@
             </div>
         </section>
 
-        <section class='container px-1'>
-            <div class="container align-start space-center col-12 row bg-blue-9">
+        <section class='flex px-1'>
+            <div class="flex align-start space-center col-12 row bg-blue-9">
 
                 <div class="col-3 py-4">
                         <h3 class='text-white normal-title'>
@@ -459,7 +459,7 @@
         <a name='define' class='map-cases-menu'>
             02 - Define
         </a>
-        <section class="container bg-grid pt-4 pb-4 mt-4 ">
+        <section class="flex bg-grid pt-4 pb-4 mt-4 ">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Define</small>
@@ -467,8 +467,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container px-1 mb-4'>
-            <div class="container bg-blue-9 col-12 space-center">
+        <section class='flex px-1 mb-4'>
+            <div class="flex bg-blue-9 col-12 space-center">
                 <div class="py-4">
                     <p>
                         <small class='text-blue-1'>PROBLEM</small>
@@ -480,12 +480,12 @@
                 </div>
             </div>
         </section>
-        <section class="container px-1 pt-2 mt-2">
-            <div class="container bg-white pt-2 pb-4 mt-2 col-12">
+        <section class="flex px-1 pt-2 mt-2">
+            <div class="flex bg-white pt-2 pb-4 mt-2 col-12">
 
                 <h4 class="bordered-title">PERSONA 1</h4>
     
-                <div class="container width-1080">
+                <div class="flex width-1080">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Julia
@@ -496,7 +496,7 @@
                     </div>
     
                     <div class="col-12">
-                        <div class="container row">
+                        <div class="flex row">
                             <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                                 “Nespresso coffee is the best company when I’m working or studying.”
                             </div>
@@ -514,7 +514,7 @@
     
                     <div class="col-12 pt-1">                    
                         <span class='small-title'>CORE NEEDS</span>
-                        <div class="container row gap-md align-stretch mt-14">
+                        <div class="flex row gap-md align-stretch mt-14">
                             <div class="col-3 bg-blue-9 text-white p-1">
                                 Want to buy coffee capsules very quickly, without wasting time.
                             </div>
@@ -540,10 +540,10 @@
                 </div>
             </div>
         </section>
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - PERSONA 1</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -619,12 +619,12 @@
 
             </div>
         </section>
-        <section class="container px-1 pt-2 mt-2">
-            <div class="container bg-white pt-2 pb-4 mt-2 col-12">
+        <section class="flex px-1 pt-2 mt-2">
+            <div class="flex bg-white pt-2 pb-4 mt-2 col-12">
                 
                 <h4 class="bordered-title">PERSONA 2</h4>
     
-                <div class="container width-1080">
+                <div class="flex width-1080">
                     <div class="col-12">
                         <h2 class='medium-title text-blue-9'>
                             Emerson
@@ -635,7 +635,7 @@
                     </div>
     
                     <div class="col-12">
-                        <div class="container row">
+                        <div class="flex row">
                             <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                                 “Having a good coffee at my house is what I call quality of life.”
                             </div>
@@ -653,7 +653,7 @@
     
                     <div class="col-12 pt-1">                    
                         <span class='small-title'>CORE NEEDS</span>
-                        <div class="container row gap-md align-stretch mt-14">
+                        <div class="flex row gap-md align-stretch mt-14">
                             <div class="col-3 bg-blue-9 text-white p-1">
                                 Some  help. He’s lost with so many machine models available.
                             </div>
@@ -679,10 +679,10 @@
                 </div>
             </div>
         </section>
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - PERSONA 2</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -753,7 +753,7 @@
 
             </div>
         </section>
-        <section class='container py-4'> 
+        <section class='flex py-4'> 
             <h4 class="bordered-title">HOW TO OFFER A BETTER SHOPPING EXPERIENCE</h4>
             <div class="grid gap-xl col-8 mt-3">
                 <div class="col-4 bg-blue-9 text-white p-1">
@@ -804,7 +804,7 @@
         <a name='develop' class='map-cases-menu'>
             03 - Develop
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Develop</small>
@@ -812,14 +812,14 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-3 pb-4 bg-white mx-1">
+        <section class="flex pt-3 pb-4 bg-white mx-1">
             <h4 class='bordered-title mb-3'>IA – OLD SITE MAP</h4>
             <img src="/rafael-maciel/assets/images/nespresso/nespresso_sitemap_old.png">
-            <div class="container row width-1080 pt-3 pb-4 align-start gap-xl">
+            <div class="flex row width-1080 pt-3 pb-4 align-start gap-xl">
                 <div class="col-2">
                     <h3 class="normal-title gilroy-bold text-blue-9 m-none">Issues</h3>
                 </div>
-                <div class="col-4 container row align-start">
+                <div class="col-4 flex row align-start">
                     <div class="ball-red-contented">
                         1
                     </div>
@@ -829,7 +829,7 @@
                         machines.
                     </p>
                 </div>
-                <div class="col-4  container row align-start">
+                <div class="col-4  flex row align-start">
                     <div class="ball-red-contented">
                         2
                     </div>
@@ -845,10 +845,10 @@
         </section>
 
 
-        <section class="container pt-3 pb-3 bg-white mx-1 mt-4">
+        <section class="flex pt-3 pb-3 bg-white mx-1 mt-4">
             <h4 class='bordered-title mb-3'>IA - NEW SITE MAP</h4>
             <img src="/rafael-maciel/assets/images/nespresso/nespresso_sitemap_new.png">
-            <div class="container space-evenly align-start row pb-4">
+            <div class="flex space-evenly align-start row pb-4">
                 <div class="col-5">
                     <p class='ball-green'>
                         The new architecture gives priority to the
@@ -860,10 +860,10 @@
         </section>
 
 
-        <section class="container pt-3 pb-4">
-            <div class="container pt-2 pb-4">
+        <section class="flex pt-3 pb-4">
+            <div class="flex pt-2 pb-4">
                 <h4 class='bordered-title mb-3'>IA – WIREFRAME</h4>
-                <div class="container row space-center gap-xl mt-3 ">  
+                <div class="flex row space-center gap-xl mt-3 ">  
                     <div class="col-2">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_wireframe1.png" >
                     </div>
@@ -903,7 +903,7 @@
                 </div>
             </div>
 
-            <div class="container row space-center gap-xl mt-3">  
+            <div class="flex row space-center gap-xl mt-3">  
                 <div class="col-2">
                     <img src="/rafael-maciel/assets/images/nespresso/nespresso_wireframe2.png" >
                 </div>
@@ -926,7 +926,7 @@
                 </div>
             </div>
 
-            <div class="container row space-center gap-xl mt-3">  
+            <div class="flex row space-center gap-xl mt-3">  
                 <div class="col-2">
                     <img src="/rafael-maciel/assets/images/nespresso/nespresso_wireframe3.png" >
                 </div>
@@ -940,7 +940,7 @@
                 </div>
             </div>
 
-            <div class="container row space-center gap-xl mt-3">  
+            <div class="flex row space-center gap-xl mt-3">  
                 <div class="col-2">
                     <img src="/rafael-maciel/assets/images/nespresso/nespresso_wireframe4.png" >
                 </div>
@@ -954,7 +954,7 @@
                 </div>
             </div>
 
-            <div class="container row space-center gap-xl mt-3">  
+            <div class="flex row space-center gap-xl mt-3">  
                 <div class="col-2">
                     <img src="/rafael-maciel/assets/images/nespresso/nespresso_wireframe5.png" >
                 </div>
@@ -976,8 +976,8 @@
         </section>
 
 
-        <section class='container mx-1' style="background-color: #B1C3D5;">
-            <div class="width-1080 container space-evenly row align-start" >
+        <section class='flex mx-1' style="background-color: #B1C3D5;">
+            <div class="width-1080 flex space-evenly row align-start" >
                 
                 <div class="col-2 py-4">
                     <h3 class='text-blue-9 normal-title gilroy-bold'>
@@ -1016,10 +1016,10 @@
         </section>
 
 
-        <section class="container pt-3 pb-4 mt-4">
+        <section class="flex pt-3 pb-4 mt-4">
             <h4 class='bordered-title'>DESIGN PRINCIPLES - BRANDING</h4>
         </section>
-        <section class="container pb-4">
+        <section class="flex pb-4">
              <img src="/rafael-maciel/assets/images/nespresso/nespresso_designprinciples.png">
              <p class="small-title">Nespresso Brand Essence: https://www.nestle-nespresso.com/brand/brand-essence</p>
         </section>
@@ -1027,7 +1027,7 @@
         <a name='deliver' class='map-cases-menu'>
             04 - Deliver
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
                 <small class='text-blue-9 argent-cf-bold'>Deliver</small>
@@ -1035,149 +1035,149 @@
             <div class="line-art"></div>
         </section>
     
-        <section class="container mb-2 mt-4">
+        <section class="flex mb-2 mt-4">
             <h4 class="bordered-title">MOBILE</h4>
         </section>
 
-        <section class="container mx-1" style="background-color: #1A1A1A;">
-            <div class="container width-1080" >
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+        <section class="flex mx-1" style="background-color: #1A1A1A;">
+            <div class="flex width-1080" >
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Home
                     </div>
-                    <div class="row container align-end">
+                    <div class="row flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui1.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui2.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Coffee
                     </div>
-                    <div class="container align-end">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui3.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Buying Coffee
                     </div>
-                    <div class="row container align-center">
+                    <div class="row flex align-center">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui4.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui5.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui6.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Checkout
                     </div>
-                    <div class="container row align-end">
+                    <div class="flex row align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui7.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui8.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container row align-end">
+                <div class="flex pb-4">
+                    <div class="flex row align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui9.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui10.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         User dashboard
                     </div>
-                    <div class="container align-end">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui11.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container align-end">
+                <div class="flex pb-4">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui_mobile_proto_button.png">
                     </div>
-                    <div class="container small-title text-white mt-1">
+                    <div class="flex small-title text-white mt-1">
                         https://marvelapp.com/5632ai6
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="container mb-2">
+        <section class="flex mb-2">
             <h4 class="bordered-title mt-4">TABLET</h4>
         </section>
 
-        <section class='container px-1'>
-            <div style="background-color: #1A1A1A;" class="container col-12">
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+        <section class='flex px-1'>
+            <div style="background-color: #1A1A1A;" class="flex col-12">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Home
                     </div>
-                    <div class="container align-end">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui12.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Coffee
                     </div>
-                    <div class="row container align-center">
+                    <div class="row flex align-center">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui13.png">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui14.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container align-end">
+                <div class="flex pb-4">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui_tablet_proto_button.png">
                     </div>
-                    <div class="container small-title text-white mt-1">
+                    <div class="flex small-title text-white mt-1">
                         https://marvelapp.com/64cd553
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="container mb-2">
+        <section class="flex mb-2">
             <h4 class="bordered-title mt-4">DESKTOP</h4>
         </section>
 
-        <section class="container px-1">
-            <div style="background-color: #1A1A1A;" class="container col-12">
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+        <section class="flex px-1">
+            <div style="background-color: #1A1A1A;" class="flex col-12">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Home
                     </div>
-                    <div class="container align-end">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui15.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container gilroy-regular text-white mt-4">
+                <div class="flex pb-4">
+                    <div class="flex gilroy-regular text-white mt-4">
                         Coffee
                     </div>
-                    <div class="row container align-center">
+                    <div class="row flex align-center">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui16.png">
                     </div>
                 </div>
-                <div class="container pb-4">
-                    <div class="container align-end">
+                <div class="flex pb-4">
+                    <div class="flex align-end">
                         <img src="/rafael-maciel/assets/images/nespresso/nespresso_ui_desktop_proto_button.png">
                     </div>
-                    <div class="container small-title text-white mt-1">
+                    <div class="flex small-title text-white mt-1">
                         https://marvelapp.com/96j0448
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="container pt-2 mt-2 mb-2">
+        <section class="flex pt-2 mt-2 mb-2">
             <h4 class="bordered-title mt-4">STYLE GUIDE</h4>
         </section>
 
-        <section class="container mx-1 pt-2 pb-4" style='background-color: #1A1A1A'>
+        <section class="flex mx-1 pt-2 pb-4" style='background-color: #1A1A1A'>
             <div class="text-blue-1">
                 Atoms
             </div>
-            <div class="container width-1080 row space-evenly align-start mt-3">
+            <div class="flex width-1080 row space-evenly align-start mt-3">
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class="gilroy-bold text-white">
@@ -1214,7 +1214,7 @@
                         <header class="gilroy-bold text-white">
                             Buttons
                         </header>
-                        <div class="container row align-start gap-xl">
+                        <div class="flex row align-start gap-xl">
                             <ul class="gilroy-medium text-white pl-none mt-1">
                                 <span class="text-white">Primary</span>
                                 <img src="/rafael-maciel/assets/images/nespresso/atomos-primary.png">
@@ -1233,7 +1233,7 @@
                             </ul>
                         </div>
 
-                        <div class="container row align-start gap-xl">
+                        <div class="flex row align-start gap-xl">
                             <ul class="gilroy-medium text-white pl-none mt-1">
                                 <span class="text-white">Confirmation</span>
                                 <img src="/rafael-maciel/assets/images/nespresso/atomos-confirmation.png">
@@ -1264,7 +1264,7 @@
                             Form
                         </header>
 
-                        <div class="container row align-start gap-xl">
+                        <div class="flex row align-start gap-xl">
                             <ul class="gilroy-medium text-white pl-none mt-1">
                                 <span class="text-white">Input</span>
                                 <img src="/rafael-maciel/assets/images/nespresso/atomos-input.png">
@@ -1278,7 +1278,7 @@
                                 <img src="/rafael-maciel/assets/images/nespresso/atomos-checkbox.png">
                             </ul>                           
                         </div>
-                        <div class="container row align-start gap-xl">
+                        <div class="flex row align-start gap-xl">
                             <ul class="gilroy-medium text-white pl-none mt-1">
                                 <span class="text-white">Input 2</span>
                                 <img src="/rafael-maciel/assets/images/nespresso/atomos-input2.png">
@@ -1293,9 +1293,9 @@
             <div class="text-blue-1 mt-12">
                 Molecules
             </div> 
-            <div class="container width-1080 row space-evenly align-start mt-1">                
+            <div class="flex width-1080 row space-evenly align-start mt-1">                
                 <nav class="style-guide">
-                    <div class="container row align-start gap-xl">
+                    <div class="flex row align-start gap-xl">
                         <ul class="gilroy-medium text-white pl-none mt-1">
                             <span class="text-white">Header</span>
                             <img src="/rafael-maciel/assets/images/nespresso/molecules-header.png">
@@ -1310,7 +1310,7 @@
                         </ul>
                     </div>
 
-                    <div class="container row align-start gap-xl">
+                    <div class="flex row align-start gap-xl">
                         <ul class="gilroy-medium text-white pl-none mt-1">
                             <span class="text-white">Buy Coffee - Button</span>
                             <img src="/rafael-maciel/assets/images/nespresso/molecules-buy-coffee-btn.png">
@@ -1334,9 +1334,9 @@
             <div class="text-blue-1 mt-3">
                 Organisms
             </div> 
-            <div class="container width-1080 row space-evenly align-start mt-1">                
+            <div class="flex width-1080 row space-evenly align-start mt-1">                
                 <nav class="style-guide">
-                    <div class="container row gap-xl">
+                    <div class="flex row gap-xl">
                         <ul class="gilroy-medium text-white pl-none mt-1">
                             <span class="text-white">Machine Card</span>
                             <img src="/rafael-maciel/assets/images/nespresso/organisms-machine-card.png">
@@ -1363,7 +1363,7 @@
                         </ul>
                     </div>
 
-                    <div class="container row align-start space-center gap-xl mt-4">
+                    <div class="flex row align-start space-center gap-xl mt-4">
                         <ul class="gilroy-medium text-white pl-none mt-1">
                             <span class="text-white">Buy Quantity</span>
                             <img src="/rafael-maciel/assets/images/nespresso/organisms-coffe-quantity.png">
@@ -1389,7 +1389,7 @@
         <a name='user-testing' class='map-cases-menu'>
             05 - User Testing
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
                 <small class='text-blue-9 argent-cf-bold'>User Testing</small>
@@ -1397,8 +1397,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container px-1'>
-            <div style="background-color: #1A1A1A;" class="container row space-evenly align-center mt-3 pt-3 pb-4 col-12">
+        <section class='flex px-1'>
+            <div style="background-color: #1A1A1A;" class="flex row space-evenly align-center mt-3 pt-3 pb-4 col-12">
                 <div class="col-5 align-start row ml-2">
                     <img src="/rafael-maciel/assets/images/nespresso/nespresso_usertesting_img1.png" >
                 </div>
@@ -1436,7 +1436,7 @@
         <a name='final-words' class='map-cases-menu'>
             06 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 06 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -1444,8 +1444,8 @@
             <div class="line-art"></div>
         </section>
     
-        <section class="container mt-3 pb-4">
-            <div class="container width-1080 row space-center">
+        <section class="flex mt-3 pb-4">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     <p>
                         Developing a project with so many challenges from end to end was a stimulating experience. Early on,

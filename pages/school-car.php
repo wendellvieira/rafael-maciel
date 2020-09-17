@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 TRANSPORTATION SERVICE
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/school-car/Grupo437.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 gilroy-bold'>Challenge</h3>
                 <p>To create a business with impact on urban mobility.</p>
@@ -35,7 +35,7 @@
             </div>
         </section>
 
-        <section class="container row space-evenly align-start mt-3">
+        <section class="flex row space-evenly align-start mt-3">
             <div class="col-3 ml-1 pt-2">
                 <p class='mt-none normal-title text-blue-9 gilroy-bold'>
                     UberHack  
@@ -52,7 +52,7 @@
         <a name='discover' class='map-cases-menu'>
             01 - Discover
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 01 <br>
                 <small class='text-blue-9 argent-cf-bold'>Discover</small>
@@ -60,11 +60,11 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">CONTEXT</h4>
-            <div class="container width-1080 mt-2">
+            <div class="flex width-1080 mt-2">
                 <div class="col-10">
-                    <div class="container row space-between">
+                    <div class="flex row space-between">
                         <img src="/rafael-maciel/assets/images/school-car/schoolcar_traffic1.png" >
                         <img src="/rafael-maciel/assets/images/school-car/schoolcar_traffic2.png" >
                         <img src="/rafael-maciel/assets/images/school-car/schoolcar_traffic3.png" >
@@ -85,7 +85,7 @@
             </div>
         </section>
 
-        <section class='container p-4 my-4 bg-blue-9 mx-1'>
+        <section class='flex p-4 my-4 bg-blue-9 mx-1'>
             <div class="width-1080">
                 <p>
                     <small class='text-blue-1'>PROBLEM</small>
@@ -94,9 +94,9 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">MARKET</h4>
-            <div class="container pt-2">
+            <div class="flex pt-2">
                 <div class="text-center py-1">The only way to solve this problem is hiring a transportation service. The common options are:</div>
                 <img src="/rafael-maciel/assets/images/school-car/Grupo882.png" >
                 <div class="text-center py-1">
@@ -112,7 +112,7 @@
         <a name='define' class='map-cases-menu'>
             02 - Define
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 02 <br>
                 <small class='text-blue-9 argent-cf-bold'>Define</small>
@@ -120,7 +120,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title mb-3">OPORTUNITY</h4>
             
             <div class="col-6 normal-title text-blue-9 gilroy-bold">
@@ -132,16 +132,16 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">VALIDATION RESEARCH</h4>
             <img class='mt-2 ' src="/rafael-maciel/assets/images/school-car/schoolcar_uxresearch_script.png" alt="">
             <small class='small-title mt-14'>Adrielle and I preparing the survey questions.</small>
             
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">RESULTS</h4>
-            <div class="container width-1080 row align-start">
+            <div class="flex width-1080 row align-start">
                 <div class="col-10">
                     <div class="grid gap-xl">
                         <div class="col-4">
@@ -163,7 +163,7 @@
                         <div class="col-4 text-normal border-top-yellow">30% don't want to pay more than the gas cost.</div> 
                     </div>
                 </div>
-                <div class="col-2 mt-1 container">
+                <div class="col-2 mt-1 flex">
                     <img src="/rafael-maciel/assets/images/university-of-virginia/survey_monkey_brand.png">
                     <small class='small-title'>Survey Monkey</small>
                 </div>
@@ -171,10 +171,10 @@
             
         </section>
 
-        <section class="container mx-1 bg-white pt-2 pb-4 mt-2">
+        <section class="flex mx-1 bg-white pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA 1</h4>
 
-            <div class="container width-1080 ">
+            <div class="flex width-1080 ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Maria
@@ -185,7 +185,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-regular normal-title letter-045 text-blue-9 ">
                             “It's very hard to take my kids to school without getting late at work.”.
                         </div>
@@ -203,7 +203,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             I want a transportation service to take my kids to school.
                         </div>
@@ -232,10 +232,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - MARIA</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -282,10 +282,10 @@
         </section>
 
 
-        <section class="container bg-white mx-1 pt-2 pb-4 mt-2">
+        <section class="flex bg-white mx-1 pt-2 pb-4 mt-2">
             <h4 class="bordered-title">PERSONA 2</h4>
 
-            <div class="container width-1080 ">
+            <div class="flex width-1080 ">
                 <div class="col-12">
                     <h2 class='medium-title text-blue-9'>
                         Rodrigo
@@ -296,7 +296,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-regular normal-title letter-045 text-blue-9 ">
                             “It's so cool to take all those kids to school”.
                         </div>
@@ -315,7 +315,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             To earn some extra money.
                         </div>
@@ -335,10 +335,10 @@
             </div>
         </section>
 
-        <section class='container pt-4 pb-4 mt-2'> 
+        <section class='flex pt-4 pb-4 mt-2'> 
             <h4 class="bordered-title">USER JOURNEY MAP - RODRIGO</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class='table-1 mt-3'>
                     <thead>
                         <tr>
@@ -384,22 +384,22 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">STAKEHOLDER MAP</h4>
-            <div class="container pt-3">
+            <div class="flex pt-3">
                 <img src="/rafael-maciel/assets/images/school-car/schoolcar_stakeholdermap.png">
             </div>
         </section>
 
-        <section class='container bg-grey-1 mx-1 pt-2 pb-4'>
+        <section class='flex bg-grey-1 mx-1 pt-2 pb-4'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container width-1080 gap-xl row align-stretch space-center">
+            <div class="flex width-1080 gap-xl row align-stretch space-center">
                 <div class="col-3 bg-white p-1">
                     Increase the number of passengers.
                 </div>
@@ -418,7 +418,7 @@
         <a name='develop' class='map-cases-menu'>
             03 - Develop
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 03 <br>
                 <small class='text-blue-9 argent-cf-bold'>Develop</small>
@@ -426,7 +426,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container pt-1 pb-4 mt-2'>
+        <section class='flex pt-1 pb-4 mt-2'>
             <h4 class="bordered-title">STORYBOARD</h4>
 
             <div class="grid width-1080 gap-lg mt-2">
@@ -458,10 +458,10 @@
 
         </section>
 
-        <section class="container bg-white mx-1 pt-3 pb-4">
+        <section class="flex bg-white mx-1 pt-3 pb-4">
             <h4 class="bordered-title">SITEMAP</h4>
             
-            <div class="container pt-3 normal-title gilroy-bold text-blue-9">
+            <div class="flex pt-3 normal-title gilroy-bold text-blue-9">
                 <small class='col-12 mb-1'>Parent site map</small>
                 <img src="/rafael-maciel/assets/images/school-car/schoolcar_parent_sitemap.png">
                 
@@ -470,10 +470,10 @@
             </div>
         </section>
 
-        <section class="container mt-4 pb-4">
+        <section class="flex mt-4 pb-4">
             <h4 class="bordered-title">WIREFRAME</h4>
 
-            <div class='container align-start col-8 pt-2 pb-3'>
+            <div class='flex align-start col-8 pt-2 pb-3'>
                 <span class='normal-title gilroy-bold text-blue-9 mb-14'>Signup - To hire or to be a driver</span>
                 <span class="small-title">
                     In the first use of the app, the user chooses to sign up as a driver or as a parent who needs transportation service.
@@ -482,7 +482,7 @@
             </div>
             <img class='mt-2' src="/rafael-maciel/assets/images/school-car/wireframe.png">
         
-            <div class='container align-start col-8 mt-4 pb-3'>
+            <div class='flex align-start col-8 mt-4 pb-3'>
                 <span class='normal-title gilroy-bold text-blue-9 mb-14'>
                     Schedule – Selecting the best drivers
                 </span>
@@ -492,7 +492,7 @@
             </div>
             <img src="/rafael-maciel/assets/images/school-car/Grupo462.png">
 
-            <div class='container align-start col-8 mt-4 pb-3'>
+            <div class='flex align-start col-8 mt-4 pb-3'>
                 <span class='normal-title gilroy-bold text-blue-9 mb-14'>
                     During the ride – There's nothing to worry about
                 </span>
@@ -505,7 +505,7 @@
 
             <h4 class="bordered-title mt-4">WIREFRAME - DRIVER</h4>
 
-            <div class='container align-start col-8 mt-4 pb-3'>
+            <div class='flex align-start col-8 mt-4 pb-3'>
                 <span class='normal-title gilroy-bold text-blue-9 mb-14'>
                     Drivers calendar
                 </span>
@@ -517,7 +517,7 @@
             <img src="/rafael-maciel/assets/images/school-car/schoolcar_wireframe8.png" alt="">
         
         
-            <div class='container align-start col-8 mt-4 pb-3'>
+            <div class='flex align-start col-8 mt-4 pb-3'>
                 <span class='normal-title gilroy-bold text-blue-9 mb-14'>
                     Drivers during the ride
                 </span>
@@ -534,7 +534,7 @@
         <a name='deliver' class='map-cases-menu'>
             04 - Deliver
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 04 <br>
                 <small class='text-blue-9 argent-cf-bold'>Deliver</small>
@@ -542,11 +542,11 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-1 mt-2">
+        <section class="flex pt-1 mt-2">
             <img src="/rafael-maciel/assets/images/school-car/schoolcar_ui1.png" alt="">
             
             <h4 class="bordered-title mt-2">SIGN-UP</h4>
-            <div class="container row mt-2">
+            <div class="flex row mt-2">
                 <div class='col-6 text-center'>
                     <span>Parent - Signup</span>
                     <img src="/rafael-maciel/assets/images/school-car/Grupo894.png" alt="">
@@ -574,12 +574,12 @@
 
         </section>
 
-        <section class='container pt-4 pb-4'>
+        <section class='flex pt-4 pb-4'>
             <h4 class="bordered-title">STYLE GUIDE</h4>
         </section>
 
-        <section class='container py-3 mx-1 mb-3' style="background-color:#381450">
-            <div class="container width-1080 row space-evenly align-start" >
+        <section class='flex py-3 mx-1 mb-3' style="background-color:#381450">
+            <div class="flex width-1080 row space-evenly align-start" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -628,7 +628,7 @@
         <a name='final-words' class='map-cases-menu'>
             05 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class='text-blue-9 big-title argent-cf-bold text-center my-2'>
                 05 <br>
                 <small class='text-blue-9 argent-cf-bold'>Final Words</small>
@@ -636,15 +636,15 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container mt-3 pb-3">
-            <div class="container width-1080 row space-center">
+        <section class="flex mt-3 pb-3">
+            <div class="flex width-1080 row space-center">
                 <div class="col-8">
                     During the Uber hackathon in Brazil, I can say that my biggest learning was about business. There were mentors specialized and at all times we were asked about business models, how the product would be monetized, how much it would cost, what the first month of operation would be like, etc. I learned a lot about giving importance to business. I used to say I was an attorney for the user, today I say that I look for the meeting point between the needs of users and the needs of the business. Thanks Shawee and Uber, it was an awesome experience.
                 </div>
             </div>
         </section>
 
-        <section class="container pb-4">
+        <section class="flex pb-4">
             <div>
                 <img src="/rafael-maciel/assets/images/school-car/schoolcar_people.png">
             </div>

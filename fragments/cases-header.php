@@ -20,7 +20,7 @@
         </div>
     </div>
 
-    <div class="container h-75 space-center">
+    <div class="flex h-75 space-center">
         <h1 class='small-title m-none'>RAFAEL MACIEL</h1>
     </div>
 

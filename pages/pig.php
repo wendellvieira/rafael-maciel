@@ -11,7 +11,7 @@
     <body>
         <?php require_once __DIR__ . "/../fragments/cases-header.php"; ?>
 
-        <section class="container bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
+        <section class="flex bg-white mx-1" style="padding-top: 189px; margin-bottom: 150px;">
             <div class="gilroy-regular text-grey-3">
                 INVESTMENT PRODUCT FOR A CHILDREN FUTURE
             </div>
@@ -24,7 +24,7 @@
             <img src="/rafael-maciel/assets/images/pig/pig_hero.png" style="margin-bottom: -150px;">
         </section>
 
-        <section class="container row space-evenly align-start">
+        <section class="flex row space-evenly align-start">
             <div class="col-3">
                 <h3 class='text-blue-9 normal-title gilroy-regular'>Challenge</h3>
                 <p>To create an investment or life insurance product.</p>
@@ -35,8 +35,8 @@
             </div>
         </section>
 
-        <section class="container my-3">
-            <div class="container width-1080 row space-evenly align-start">
+        <section class="flex my-3">
+            <div class="flex width-1080 row space-evenly align-start">
                 <div class="col-5 mr-2 ml-1">
                     <p class="mt-none normal-title text-blue-9 gilroy-regular">
                         GR1D Hackathon
@@ -60,7 +60,7 @@
         <a name='discover' class='map-cases-menu'>
             01 - Discover
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 01 <br>
                 <small class="text-blue-9 argent-cf-bold">Discover</small>
@@ -68,7 +68,7 @@
             <div class="line-art"></div>
         </section> 
 
-        <section class='container bg-white mx-1 pt-2 pb-4'>
+        <section class='flex bg-white mx-1 pt-2 pb-4'>
             <h4 class="bordered-title">USER INTERVIEW</h4>
 
             <div class="width-1080 mt-3">
@@ -78,7 +78,7 @@
                 <p class=' text-normal'>Our first research was to study the brazilian habits and knowledge level in finance. We discovered that Brazilians are choosing an investment with a very low return, Savings Account.</p>
             </div>   
 
-            <div class="container row width-1080 mt-2">
+            <div class="flex row width-1080 mt-2">
                 <div class="col-4 normal-title text-blue-9">
                     42% of Brazilians have investments
                 </div>
@@ -132,7 +132,7 @@
         <a name='define' class='map-cases-menu'>
             02 - Define
         </a>
-        <section class="container bg-grid pt-1 pb-4">
+        <section class="flex bg-grid pt-1 pb-4">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 02 <br>
                 <small class="text-blue-9 argent-cf-bold">Define</small>
@@ -140,28 +140,28 @@
             <div class="line-art"></div>
         </section> 
 
-        <section class='container mx-1'>
+        <section class='flex mx-1'>
             <img class='col-12' src="/rafael-maciel/assets/images/pig/pig_ideation.png">
         </section>
-        <section class="container bg-blue-9 mx-1">
+        <section class="flex bg-blue-9 mx-1">
             <div class="col-8 py-4 col-8">
                 <small class="text-blue-1">PROBLEM</small>
                 <div class="text-white normal-title">Brazilian parents are having a hard time paying their children’s bills, and consequently, forgetting about their kid’s future.</h3>
             </div>
         </section>
-        <section class='container mx-1 gap-xl' style='background-color: #B1C3D5'>
-            <div class="container width-1080 row py-2 space-center">
+        <section class='flex mx-1 gap-xl' style='background-color: #B1C3D5'>
+            <div class="flex width-1080 row py-2 space-center">
                 <div class="col-4 normal-title text-blue-9">
                     How could they solve it?
                 </div>
-                <div class="col-2 container">
+                <div class="col-2 flex">
                     <img src="/rafael-maciel/assets/images/pig/pig_icon_betterfinance.png"> 
                     <span class='text-center small-title pt-1 text-blue-9'>
                         BETTER FINANCE <br>
                         HABITS
                     </span>                   
                 </div>
-                <div class="col-2 container">
+                <div class="col-2 flex">
                     <img src="/rafael-maciel/assets/images/pig/pig_icon_help.png">
                     <span class='text-center small-title  pt-1 text-blue-9'>
                         THE HELP <br>
@@ -171,8 +171,8 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-2">
-            <div class="container pt-2 pb-4">
+        <section class="flex pt-2 pb-2">
+            <div class="flex pt-2 pb-4">
                 <h4 class="bordered-title">OPORTUNITY</h4>
                 
                 <div class="grid width-1080 gap-xl mt-2">                    
@@ -207,10 +207,10 @@
             </div>
         </section>
 
-        <section class="container bg-white mx-1 pt-2 pb-4">
+        <section class="flex bg-white mx-1 pt-2 pb-4">
             <h4 class="bordered-title">PERSONA</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <div class="col-12">
                     <h2 class="medium-title text-blue-9">
                         Lucas
@@ -221,7 +221,7 @@
                 </div>
 
                 <div class="col-12">
-                    <div class="container row">
+                    <div class="flex row">
                         <div class="col-4 argent-cf-bold normal-title letter-045 text-blue-9 ">
                             “I work very hard to pay my kid’s bills.”
                         </div>
@@ -240,7 +240,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class="small-title">CORE NEEDS</span>
-                    <div class="container row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             Finance education.
                         </div>
@@ -261,10 +261,10 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-2"> 
+        <section class="flex pt-2 pb-2"> 
             <h4 class="bordered-title">USER JOURNEY MAP</h4>
 
-            <div class="container width-1080">
+            <div class="flex width-1080">
                 <table class="table-1 mt-3">
                     <thead>
                         <tr>
@@ -316,29 +316,29 @@
 
             </div>
         
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">STAKEHOLDER MAP</h4>
-            <div class="container pt-3">
+            <div class="flex pt-3">
                 <img src="/rafael-maciel/assets/images/pig/pig_stakeholdermap.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-4 mt-2">
+        <section class="flex pt-2 pb-4 mt-2">
             <h4 class="bordered-title">EXPANDED MENU</h4>
-            <div class="container pt-3">
+            <div class="flex pt-3">
                 <img src="/rafael-maciel/assets/images/pig/Grupo908.png">
             </div>
         </section>
     </section>
-        <section class='bg-grey-1 mt-4 mx-1 container px-2 pt-2 pb-4'>
+        <section class='bg-grey-1 mt-4 mx-1 flex px-2 pt-2 pb-4'>
             <h4 class="bordered-title">KPIS</h4>
 
-            <h2 class='gilroy-bold text-blue-9 normal-title my-2 container row'>
+            <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
                 <img src="/rafael-maciel/assets/images/icons/measure.png">
                 How to measure success?
             </h2>
 
-            <div class="container row align-stretch space-center">
+            <div class="flex row align-stretch space-center">
                 <div class="col-3 bg-white mr-1 p-1">
                     Increase the number of PIG accounts.
                 </div>
@@ -357,7 +357,7 @@
         <a name='develop' class='map-cases-menu'>
             03 - Develop
         </a>
-        <section class="container bg-grid pt-1 pb-4">
+        <section class="flex bg-grid pt-1 pb-4">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 03 <br>
                 <small class="text-blue-9 argent-cf-bold">Develop</small>
@@ -365,7 +365,7 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container pt-1 pb-4 mt-2'>
+        <section class='flex pt-1 pb-4 mt-2'>
             <h4 class="bordered-title">STORYBOARD</h4>
 
             <div class="grid width-1080 gap-lg mt-2">
@@ -397,47 +397,47 @@
 
         </section>
 
-        <section class="container bg-white mx-1 pt-3 pb-4">
+        <section class="flex bg-white mx-1 pt-3 pb-4">
             <h4 class="bordered-title">SITEMAP</h4>
             
-            <div class="container pt-3 normal-title gilroy-bold text-blue-9">
+            <div class="flex pt-3 normal-title gilroy-bold text-blue-9">
                 <img src="/rafael-maciel/assets/images/pig/pig_sitemap.png">
             </div>
         </section>
 
-        <section class="container mt-4 pb-4">
+        <section class="flex mt-4 pb-4">
             <h4 class="bordered-title">IA - WIREFRAME</h4>
 
-            <div class='container align-start col-8 pt-2 pb-3'>
+            <div class='flex align-start col-8 pt-2 pb-3'>
                 <span class='normal-title gilroy-medium text-blue-9 mb-14'>Dashboard - It’s all about gamification</span>
                 <span class="text-normal">
                     The most important feature of PIG is gamification. Therefore the main content of the user dashboard are the goals status.
                     In the goal screen, users can see the month goal, the complete goal, amount of money, and all about this specific goal.
                 </span>
             </div>
-            <div class="container gap-xl row align-center space-center pb-3">
+            <div class="flex gap-xl row align-center space-center pb-3">
                 <img src="/rafael-maciel/assets/images/pig/pig_wireframe1.png" alt="">
                 <img src="/rafael-maciel/assets/images/pig/pig_wireframe2.png" alt="">
             </div>
        
-            <div class='container align-start col-8 pt-2 pb-3'>
+            <div class='flex align-start col-8 pt-2 pb-3'>
                 <span class='normal-title gilroy-medium text-blue-9 mb-14'>Payment - Easy like buying candles.</span>
                 <span class="text-normal">
                     The payment screen has money values suggestions to provide a really fast checkout.
                 </span>
             </div>
-            <div class="container gap-xl row align-center space-center pb-3">
+            <div class="flex gap-xl row align-center space-center pb-3">
                 <img src="/rafael-maciel/assets/images/pig/pig_wireframe3.png" alt="">
                 <img src="/rafael-maciel/assets/images/pig/pig_wireframe4.png" alt="">
             </div>           
 
-            <div class='container align-start col-8 pt-2 pb-3'>
+            <div class='flex align-start col-8 pt-2 pb-3'>
                 <span class='normal-title gilroy-medium text-blue-9 mb-14'>Notifications - A way to have better investment habits</span>
                 <span class="text-normal">
                 All the gamification notifications regarding goals (completed, missed, recalculated), best day for investing (salary day, 13 salary), account activity (investments by relatives, balance sheets), are in app notifications session. Users have the option to receive notifications by e-mail also.
                 </span>
             </div>
-            <div class="container gap-xl row align-center space-center pb-3">
+            <div class="flex gap-xl row align-center space-center pb-3">
                 <img src="/rafael-maciel/assets/images/pig/pig_wireframe5.png" alt="">
             </div>    
         </section>
@@ -445,7 +445,7 @@
         <a name='deliver' class='map-cases-menu'>
             04 - Deliver
         </a>
-        <section class="container bg-grid pt-1 pb-4">
+        <section class="flex bg-grid pt-1 pb-4">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 04 <br>
                 <small class="text-blue-9 argent-cf-bold">Deliver</small>
@@ -453,15 +453,15 @@
             <div class="line-art"></div>
         </section>
 
-        <section class="container pt-3 pb-4">
+        <section class="flex pt-3 pb-4">
             <h4 class='bordered-title'>MOBILE</h4>
             <p class='mt-3'>User dashboard</p>
-            <div class="container gap-xl row align-center space-center">
+            <div class="flex gap-xl row align-center space-center">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui1.png" alt="">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui2.png" alt="">
             </div>
 
-            <div class="container col-gap-xs px-3  row align-center space-center text-center mt-4">
+            <div class="flex col-gap-xs px-3  row align-center space-center text-center mt-4">
                 <div class='col-3'>
                     <p class='text-left pl-2'>Goal Status</p>
                     <img src="/rafael-maciel/assets/images/pig/pig_ui3.png" alt="">
@@ -480,7 +480,7 @@
                 </div>
             </div>
 
-            <div class="container gap-xs row align-center space-center text-center mt-4">
+            <div class="flex gap-xs row align-center space-center text-center mt-4">
                 <div>
                     <p class='text-left pl-3'>Account statement</p>
                     <img src="/rafael-maciel/assets/images/pig/pig_ui7.png" alt="">
@@ -496,53 +496,53 @@
             </div>
         </section>
 
-        <section class="container pt-2 pb-2">
+        <section class="flex pt-2 pb-2">
             <h4 class="bordered-title">DESKTOP</h4>
             <span class="gelgory-medium text-normal mt-3">Home</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui10.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-3">
+        <section class="flex pt-2 pb-3">
             <span class="gelgory-medium text-normal">User dashboard</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui11.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-3">
+        <section class="flex pt-2 pb-3">
             <span class="gelgory-meduim text-normal">Goal Status</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui12.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-3">
+        <section class="flex pt-2 pb-3">
             <span class="gelgory-meduim text-normal">Creating a new goal</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui13.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-3">
+        <section class="flex pt-2 pb-3">
             <span class="gelgory-meduim text-normal">Investing form</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui14.png">
             </div>
         </section>
 
-        <section class="container pt-2 pb-3">
+        <section class="flex pt-2 pb-3">
             <span class="gelgory-meduim text-normal">Godparents</span>
-            <div class="container">
+            <div class="flex">
                 <img src="/rafael-maciel/assets/images/pig/pig_ui15.png">
             </div>
 
             <h4 class="bordered-title mt-4">STYLE GUIDE</h4>
         </section>
 
-        <section class='container pt-3 pb-4 mx-1' style="background-color:#54378E">
-            <div class="container width-1080 row space-evenly align-start mt-3" >
+        <section class='flex pt-3 pb-4 mx-1' style="background-color:#54378E">
+            <div class="flex width-1080 row space-evenly align-start mt-3" >
                 <div class="col-3">
                     <nav class="style-guide">
                         <header class='gilroy-bold text-white'>Colors</header>
@@ -596,7 +596,7 @@
         <a name="user-testing" class="map-cases-menu">
             05 - User Testing
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 05 <br>
                 <small class="text-blue-9 argent-cf-bold">User Testing</small>
@@ -638,7 +638,7 @@
         <a name="final-words" class="map-cases-menu">
             06 - Final Words
         </a>
-        <section class="container bg-grid pt-1 pb-4 mt-2">
+        <section class="flex bg-grid pt-1 pb-4 mt-2">
             <h2 class="text-blue-9 big-title argent-cf-bold text-center my-2">
                 06 <br>
                 <small class="text-blue-9 argent-cf-bold">Final Words</small>
@@ -646,8 +646,8 @@
             <div class="line-art"></div>
         </section>
 
-        <section class='container mt-3 mb-4'>
-            <div class="container col-6">
+        <section class='flex mt-3 mb-4'>
+            <div class="flex col-6">
                 <p>
                     Every time I go to a hackathon, I hope to come back with a cool product and make good friends. I'm already happy with that. This time, I had the pleasure of winning my first hackathon and it was a very special day. 
                 </p>
