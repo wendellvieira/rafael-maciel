@@ -83,7 +83,9 @@ b {
     position: relative;
 }
 
-
+.w-1080 {
+    width: 1080px;
+}
 
 .border-top-gray::before,
 .border-top-green::before,

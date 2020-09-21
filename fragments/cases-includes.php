@@ -5,7 +5,10 @@
 
 <link rel="stylesheet" href="/rafael-maciel/assets/css/fixed-header.css">
 <link rel="stylesheet" href="/rafael-maciel/assets/css/menu.css">
+<link rel="stylesheet" href="/rafael-maciel/assets/css/jquery.custom-scrollbar.css">
+<link rel="stylesheet" href="/rafael-maciel/assets/css/responsive.css">
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="/rafael-maciel/assets/js/fixed-header.js"></script>
+<script src="/rafael-maciel/assets/js/jquery.custom-scrollbar.min.js"></script>
 
-<link rel="stylesheet" href="/rafael-maciel/assets/css/responsive.css">

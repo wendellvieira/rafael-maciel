@@ -9,9 +9,9 @@
 ?>
 
 <footer class='bg-white py-2 flex mx-1'>
-    <div class="flex container row">
+    <div class="flex container row row-sm">
 
-        <div class="col-6 flex align-start">           
+        <div class="col-6 col-sm-6 flex align-start">           
 
             <?php if($prev_page != null ){ ?>
                 <span class='text-grey-3'>Previous case</span>
@@ -34,7 +34,7 @@
 
         </div>
 
-        <div class="col-6 flex align-end">
+        <div class="col-6 col-sm-6 flex align-end">
             <?php if($next_page != null ){ ?>
                 <span class='text-grey-3'>Next Case</span>
                 <a href="<?=$next_page['url'];?>" class="mt-14 navigate-icon">
