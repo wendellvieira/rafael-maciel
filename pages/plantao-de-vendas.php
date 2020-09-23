@@ -108,7 +108,7 @@
 
                 <div class="col-12 pt-1">                    
                     <span class='small-title'>CORE NEEDS</span>
-                    <div class="flex row gap-md align-stretch mt-14">
+                    <div class="flex row gap-md align-stretch mt-14 carrosel-sm">
                         <div class="col-3 bg-blue-9 text-white p-1">
                             I want to improve my career.
                         </div>
@@ -219,7 +219,7 @@
             </div>
         </section>
 
-        <section class='flex pt-2 pb-4'>
+        <section class='flex pt-2 pb-4 px-sm-3'>
             <h4 class="bordered-title">KPIS</h4>
 
             <h2 class='gilroy-bold text-blue-9 normal-title my-2 flex row'>
@@ -227,7 +227,7 @@
                 How to measure success?
             </h2>
 
-            <div class="flex row align-stretch space-center">
+            <div class="flex row align-stretch space-center carrosel-sm">
                 <div class="col-2 bg-white mr-1 p-1">
                     Increase engagement.
                     (time spent in Plantão de Vendas website).

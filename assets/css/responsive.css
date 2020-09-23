@@ -90,6 +90,22 @@
 
     .display-sm-none { display: none }
 
+    .carrosel-sm {
+        flex-direction: row !important;
+        white-space: nowrap !important;
+        gap: 16px !important;
+        overflow: auto !important;
+        align-items: stretch !important;
+        justify-content: flex-start !important;
+    }
+    .carrosel-sm > *  {
+        min-width: 80% !important;
+        width: 80% !important;
+        display: block !important;
+        white-space: normal !important;
+        padding: 1em !important;
+    }
+
     
     .overflow-table-sm {
         overflow-x: scroll;
